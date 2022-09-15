@@ -25,6 +25,12 @@ members  :
     ncarpage    : https://staff.ucar.edu/users/hkershaw/
     github      : https://github.com/hkershaw-brown
 
+  - image       : images/team/iceberg7.jpg
+    name        : MARLEE SMITH
+    designation : Software Engineer
+    ncarpage    : https://staff.ucar.edu/browse/people/35721
+    github      : https://github.com/mjs2369
+
   - image       : images/team/iceberg3.jpg
     name        : BEN JOHNSON
     designation : Project Scientist
