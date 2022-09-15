@@ -29,13 +29,60 @@ The Data Assimilation Research Testbed: A Community Facility.
 
 
 ---
+## 2022
+---
+
+![](/images/pin4.gif) **Fox, A. M., X. Huo, T.J. Hoar, H. Dashti, W.K. Smith, N. MacBean, J.L. Anderson, M. Roby, and D.J.P. Moore**, 2022  
+    Assimilation of Global Satellite Leaf Area Estimates Reduces Modeled Global Carbon Uptake and Energy Loss by Terrestrial Ecosystems.
+    *Journal of Geophysical Research: Biogeosciences*, **127**, e2022JG006830, [doi.org/10.1029/2022JG006830](https://doi.org/10.1029/2022JG006830)
+
+![](/images/pin4.gif) **Jiang, F., W. Ju, W. He, M. Wu, H. Wang, J. Wang, M. Jia, S. Feng, L. Zhang, and J.M. Chen**, 2022  
+    A 10-year global monthly averaged terrestrial net ecosystem exchange dataset inferred from the ACOS GOSAT v9 XCO2 retrievals (GCAS2021).  
+    *Earth System Science Data*, **14**, 3013–3037, [doi.org/10.5194/essd-14-3013-2022](https://doi.org/10.5194/essd-14-3013-2022)  
+
+![](/images/pin4.gif) **Sun, J., Y. Jiang, S. Zhang, W. Zhang, L. Lu, G. Liu, Y. Chen, X. Xing, X. Lin, and L. Wu**, 2022  
+    An online ensemble coupled data assimilation capability for the Community Earth System Model: system design and evaluation.  
+    *Geoscientific Model Development*, **15**, 4805–4830, [doi.org/10.5194/gmd-15-4805-2022](https://doi.org/10.5194/gmd-15-4805-2022)  
+
+![](/images/pin4.gif) **Zhang, Y.-F., M. Bushuk, M. Winton, B. Hurlin, T. Delworth, M. Harrison, L. Jia, F. Lu, A. Rosati, and X. Yang**, 2022  
+    Subseasonal-to-Seasonal Arctic Sea Ice Forecast Skill Improvement from Sea Ice Concentration Assimilation.  
+    *Journal of Climate*, **35**, 4233–4252, [doi.org/10.1175/JCLI-D-21-0548.1](https://doi.org/10.1175/JCLI-D-21-0548.1)  
+
+![](/images/pin4.gif) **Anderson, J. L.**, 2022  
+    A Quantile-Conserving Ensemble Filter Framework. Part I: Updating an Observed Variable.  
+    *Monthly Weather Review*, **150**, 1061–1074, [doi.org/10.1175/MWR-D-21-0229.1](https://doi.org/10.1175/MWR-D-21-0229.1)  
+
+![](/images/pin4.gif) **Deng, S., Z. Shen, S. Chen, and R. Wang**, 2022
+    Comparison of Perturbation Strategies for the Initial Ensemble in Ocean Data Assimilation with a Fully Coupled Earth System Model.  
+    *Journal of Marine Science and Engineering*, **10**, 412, [doi.org/10.3390/jmse10030412](https://doi.org/10.3390/jmse10030412)  
+
+![](/images/pin4.gif) **Dietrich, N., T. Matsuo, and C.-T. Hsu**, 2022  
+    Specifying Satellite Drag Through Coupled Thermosphere-Ionosphere Data Assimilation of Radio Occultation Electron Density Profiles.  
+    *Space Weather*, **20**, e2022SW003147, [doi.org/10.1029/2022SW003147](https://doi.org/10.1029/2022SW003147)  
+
+![](/images/pin4.gif) **George, B., and G. Kutty**, 2022  
+    Multivariate ensemble sensitivity analysis applied for an extreme rainfall over Indian subcontinent.  
+    *Atmospheric Research*, **277**, 106324, [doi.org/10.1016/j.atmosres.2022.106324](https://doi.org/10.1016/j.atmosres.2022.106324)  
+
+![](/images/pin4.gif) **Huang, Y., J. Wei, J. Jin, Z. Zhou, and Q. Gu**, 2022  
+    CO Fluxes in Western Europe during 2017–2020 Winter Seasons Inverted by WRF-Chem/Data Assimilation Research Testbed with MOPITT Observations.  
+    *Remote Sensing*, **14**, 1133, [doi.org/10.3390/rs14051133](https://doi.org/10.3390/rs14051133)  
+
+![](/images/pin4.gif) **Pedatella, N. M., and J. L. Anderson**, 2022  
+    The Impact of Assimilating COSMIC-2 Observations of Electron Density in WACCMX.  
+    *Journal of Geophysical Research: Space Physics*, **127**, e2021JA029906, [doi.org/10.1029/2021JA029906](https://doi.org/10.1029/2021JA029906)  
+
+---
 ## 2021
 ---
+
+![](/images/pin4.gif) **Xing, X., B. Liu, W. Zhang, J. Wu, X. Cao, and Q. Huang,** 2021 
+    An Investigation of Adaptive Radius for the Covariance Localization in Ensemble Data Assimilation.  
+    *Journal of Marine Science and Engineering*, **9**, 1156, [doi.org/10.3390/jmse9111156](https://doi.org/10.3390/jmse9111156)  
 
 ![](/images/pin4.gif) **Risanto, C. B., C. L. Castro, A. F. Arellano, J. M. Moker, and D. K. Adams**, 2021  
    The Impact of Assimilating GPS Precipitable Water Vapor in Convective-Permitting WRF-ARW on North American Monsoon Precipitation Forecasts over Northwest Mexico.  
    *Monthly Weather Review*, **149(9)**, 3013-3035, [doi.org/10.1175/MWR-D-20-0394.1](https://doi.org/10.1175/MWR-D-20-0394.1)
-
 
 ![](/images/pin4.gif) **Liu, G., R. S. Lieberman, V. L. Harvey, N. M. Pedatella, J. Oberheide, R. E. Hibbins, P. J. Espy, and D. Janches**, 2021  
    Tidal Variations in the Mesosphere and Lower Thermosphere Before, During, and After the 2009 Sudden Stratospheric Warming.  
@@ -43,68 +90,55 @@ The Data Assimilation Research Testbed: A Community Facility.
 
 
 ![](/images/pin4.gif) **Jiang, P., X., Chen, K. Chen, J. L. Anderson, N.Collins, N., & M. E. Gharamti**, 2021  
-   DART-PFLOTRAN: An ensemble-based data assimilation system for estimating subsurface flow and transport model parameters.
-   *Environmental Modelling & Software*, **142**, 105074, [doi.org/10.1016/j.envsoft.2021.105074](https://doi.org/10.1016/j.envsoft.2021.105074)
+   DART-PFLOTRAN: An ensemble-based data assimilation system for estimating subsurface flow and transport model parameters.  
+   *Environmental Modelling & Software*, **142**, 105074, [doi.org/10.1016/j.envsoft.2021.105074](https://doi.org/10.1016/j.envsoft.2021.105074)  
 
 
 ![](/images/pin4.gif) **Rakesh, S., & G, Kutty**, 2021  
-   Intercomparison of the Performance of Four Data Assimilation Schemes in a Limited‐Area Model on Forecasts of an Extreme Rainfall Event Over the Uttarakhand in Himalayas.
-   *Earth and Space Science*, **8(7)**,  [doi.org/10.1029/2020EA001461](https://doi.org/10.1029/2020EA001461)
+   Intercomparison of the Performance of Four Data Assimilation Schemes in a Limited‐Area Model on Forecasts of an Extreme Rainfall Event Over the Uttarakhand in Himalayas.  
+   *Earth and Space Science*, **8(7)**,  [doi.org/10.1029/2020EA001461](https://doi.org/10.1029/2020EA001461)  
 
 ![](/images/pin4.gif) **Riedel, C. P., S. M. Cavallo, & D. B. Parsons**, 2021  
-   Mesoscale Prediction in the Antarctic Using Cycled Ensemble Data Assimilation.   
-   *Monthly Weather Review*, **149(2)**, 443-462, [doi.org/10.1175/MWR-D-20-0009.1](https://doi.org/10.1175/MWR-D-20-0009.1) 
+   Mesoscale Prediction in the Antarctic Using Cycled Ensemble Data Assimilation.  
+   *Monthly Weather Review*, **149(2)**, 443-462, [doi.org/10.1175/MWR-D-20-0009.1](https://doi.org/10.1175/MWR-D-20-0009.1)  
 
 ![](/images/pin4.gif) **Raczka, B., Hoar T.J., Duarte H.F., Fox A.M., Anderson J.L., Bowling D.R., & Lin J.C.**, 2021  
-   Improving CLM5.0 Biomass and Carbon Exchange across the Western US Using a Data Assimilation System.   
-   *Journal of Advances in Modeling Earth Systems*, [doi.org/10.1029/2020MS002421](https://doi.org/10.1029/2020MS002421) 
+   Improving CLM5.0 Biomass and Carbon Exchange across the Western US Using a Data Assimilation System.  
+   *Journal of Advances in Modeling Earth Systems*, [doi.org/10.1029/2020MS002421](https://doi.org/10.1029/2020MS002421)  
 
 ![](/images/pin4.gif) **Kodikara, T., Zhang, K., Pedatella, N. M., & Borries, C.**, 2021  
-   The impact of solar activity on forecasting the upper atmosphere via assimilation 
-   of electron density data.    
-   *Space Weather*, **19**, e2020SW002660,
-   [doi.org/10.1029/2020SW002660](https://doi.org/10.1029/2020SW002660)
+   The impact of solar activity on forecasting the upper atmosphere via assimilation of electron density data.  
+   *Space Weather*, **19**, e2020SW002660, [doi.org/10.1029/2020SW002660](https://doi.org/10.1029/2020SW002660)  
 
 ![](/images/pin4.gif) **Zhang, Q., Li, M., Wei, C., Mizzi, A. P., Huang, Y., & Gu, Q.**, 2021  
     Assimilation of OCO-2 retrievals with WRF-Chem/DART: A case study for the Midwestern United States.  
-    *Atmospheric Environment*, **246**, 118106,
-    [doi.org/10.1016/j.atmosenv.2020.118106](https://doi.org/10.1016/j.atmosenv.2020.118106)
-   
+    *Atmospheric Environment*, **246**, 118106, [doi.org/10.1016/j.atmosenv.2020.118106](https://doi.org/10.1016/j.atmosenv.2020.118106)  
+
 ![](/images/pin4.gif) **Hsu, C. T., Matsuo, T., Maute, A., Stoneback, R., & Lien, C. P.**. 2021  
-    Data‐Driven Ensemble Modeling of Equatorial Ionospheric Electrodynamics: A Case Study During a Minor Storm Period Under Solar Minimum Conditions.   
-   *Journal of Geophysical Research: Space Physics*, **126(2)**, e2020JA028539. 
-   [doi.org/10.1029/2020JA028539](https://doi.org/10.1029/2020JA028539)
-   
-![](/images/pin4.gif) **George, B., & Kutty, G.**, 2021   
-   Ensemble sensitivity analysis of an extreme rainfall event over the Himalayas in June 2013.   
-   *Dynamics of Atmospheres and Oceans*, **93**, 101202,
-   [doi.org/10.1016/j.dynatmoce.2021.101202](https://doi.org/10.1016/j.dynatmoce.2021.101202)
+    Data‐Driven Ensemble Modeling of Equatorial Ionospheric Electrodynamics: A Case Study During a Minor Storm Period Under Solar Minimum Conditions.  
+   *Journal of Geophysical Research: Space Physics*, **126(2)**, e2020JA028539. [doi.org/10.1029/2020JA028539](https://doi.org/10.1029/2020JA028539)  
+
+![](/images/pin4.gif) **George, B., & Kutty, G.**, 2021  
+   Ensemble sensitivity analysis of an extreme rainfall event over the Himalayas in June 2013.  
+   *Dynamics of Atmospheres and Oceans*, **93**, 101202, [doi.org/10.1016/j.dynatmoce.2021.101202](https://doi.org/10.1016/j.dynatmoce.2021.101202)  
 
 ![](/images/pin4.gif) **Toye, H., Zhan, P., Sana, F., Sanikommu, S., Raboudi, N., & Hoteit, I.**, 2021  
     Adaptive ensemble optimal interpolation for efficient data assimilation in the red sea.  
-    *Journal of Computational Science*, **51**, 101317,
-    [doi.org/10.1016/j.jocs.2021.101317](https://doi.org/10.1016/j.jocs.2021.101317)
-   
-![](/images/pin4.gif) **El Gharamti, M., McCreight, J. L., Noh, S. J., Hoar, T. J., RafieeiNasab, A., & Johnson, B. K.**, 2021   
-   Ensemble Streamflow Data Assimilation using WRF-Hydro and DART: Hurricane Florence Flooding. 
-   *Hydrology and Earth System Sciences Discussions*, **1-31**.
-   [doi.org/10.5194/hess-2020-642](https://doi.org/10.5194/hess-2020-642)
-   
-![](/images/pin4.gif) **Laskar, F. I., Pedatella, N. M., Codrescu, M. V., 
-   Eastes, R. W., Evans, J. S., Burns, A. G., & McClintock, W.**, 2021  
-     Impact of GOLD retrieved thermospheric temperatures on a whole atmosphere data
-      assimilation model.  
-     *Journal of Geophysical Research: Space Physics*,
-     **126**, e2020JA028646. 
-     [doi.org/10.1029/2020JA028646](https://doi.org/10.1029/2020JA028646)
+    *Journal of Computational Science*, **51**, 101317, [doi.org/10.1016/j.jocs.2021.101317](https://doi.org/10.1016/j.jocs.2021.101317)  
 
- ![](/images/pin4.gif) **Zhang, Y.-F., Bitz, C. M., Anderson, J. L., Collins, N. S., Hoar, T. J., 
-   Raeder, K. D., and Blanchard-Wrigglesworth, E.**, 2021  
-     Estimating parameters in a sea ice model using an ensemble Kalman filter.  
-     *The Cryosphere*, **15**, 1277–1284, 
-     [doi.org/10.5194/tc-15-1277-2021](https://doi.org/10.5194/tc-15-1277-2021).
+![](/images/pin4.gif) **El Gharamti, M., McCreight, J. L., Noh, S. J., Hoar, T. J., RafieeiNasab, A., & Johnson, B. K.**, 2021  
+   Ensemble Streamflow Data Assimilation using WRF-Hydro and DART: Hurricane Florence Flooding.  
+   *Hydrology and Earth System Sciences Discussions*, **1-31**. [doi.org/10.5194/hess-2020-642](https://doi.org/10.5194/hess-2020-642)  
 
-  ![](/images/pin4.gif) **Gaubert, B., Emmons, L. K., Raeder, K., Tilmes, S., Miyazaki, K.,
+![](/images/pin4.gif) **Laskar, F. I., Pedatella, N. M., Codrescu, M. V., Eastes, R. W., Evans, J. S., Burns, A. G., & McClintock, W.**, 2021  
+     Impact of GOLD retrieved thermospheric temperatures on a whole atmosphere data assimilation model.  
+     *Journal of Geophysical Research: Space Physics*, **126**, e2020JA028646. [doi.org/10.1029/2020JA028646](https://doi.org/10.1029/2020JA028646)  
+
+![](/images/pin4.gif) **Zhang, Y.-F., Bitz, C. M., Anderson, J. L., Collins, N. S., Hoar, T. J., Raeder, K. D., and Blanchard-Wrigglesworth, E.**, 2021  
+    Estimating parameters in a sea ice model using an ensemble Kalman filter.  
+    *The Cryosphere*, **15**, 1277–1284, [doi.org/10.5194/tc-15-1277-2021](https://doi.org/10.5194/tc-15-1277-2021).  
+
+![](/images/pin4.gif) **Gaubert, B., Emmons, L. K., Raeder, K., Tilmes, S., Miyazaki, K.,
      Arellano Jr., A. F., Elguindi, N., Granier, C., Tang, W., Barré, J., Worden, H. M.,
      Buchholz, R. R., Edwards, D. P., Franke, P., Anderson, J. L., Saunois, M., Schroeder, J.,
      Woo, J.-H., Simpson, I. J., Blake, D. R., Meinardi, S., Wennberg, P. O., Crounse, J., Teng, A.,
