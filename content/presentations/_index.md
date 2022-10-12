@@ -18,6 +18,18 @@ aliases   :
     Improving Earth System Model Predictions using Data Assimilation: Research and Applications
     [\[presentation - pdf\]](http://www.image.ucar.edu/pub/DART/2020/2020_MEG_ExecComm.pdf)
 
+![](/images/pin4.gif) **Moha El Gharamti** Nov 2020 :
+    Presented at the
+    [AGU Fall Meeting](https://www.agu.org/Fall-Meeting-2020) which was held virtually <br />
+    Hydro-DART: Ensemble Streamflow Data Assimilation Using WRF-Hydro and DART
+    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2020/2020_talk_AGU_Virtual.pdf)
+
+![](/images/pin4.gif) **Jeff Anderson** Sep 2020 :
+    Presented at the [Workshop on Machine Learning, Data Mining and Data Assimilation in Geospace (LMAG2020)](https://sites.google.com/view/lmag2020/home) which was held virtually <br />
+    Using the Data Assimilation Research Testbed for Geospace Applications:
+    Successes and Challenges in Ensemble Assimilation for Strongly-Forced Systems
+    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2020/2020_talk_LMAG_Virtual.pdf)
+
 ![](/images/pin4.gif) **Brett Raczka** Aug 2020 :
     Presented at the
     [2020 ESA Annual Meeting](https://eco.confex.com/eco/2020/meetingapp.cgi/Home/0)
