@@ -78,12 +78,38 @@ aliases   :
     for Community Ensemble Data Assimilation
     [\[poster - pdf\]](http://www.image.ucar.edu/pub/DART/2019/2019_AGU_2020_AMS_DART.pdf)
 
+![](/images/pin4.gif) **Kevin Raeder** Dec 2019 :
+    Presented at the
+    [AGU Fall Meeting 2019](http://fallmeeting.agu.org/2019/) in San Francisco, CA, USA <br />
+    Results from an Ensemble Reanalysis with the Community Earth System Model 2.0
+    [\[presentation - pdf\]](http://www.image.ucar.edu/pub/DART/2019/2019_talk_AGU_SanFrancisco.pdf)
+
 ![](/images/pin4.gif) **Jeff Anderson** Nov 2019 :
     Presented at the CISL Seminar Series in Boulder, CO, USA <br />
     CISL's Data Assimilation Research Section: Accelerating NCAR Science with Ensemble Data Assimilation
     [\[youtube\]](https://www.youtube.com/watch?v=rxPGKFxJAkE)
     [\[pptx\]](http://www.image.ucar.edu/pub/DART/2019/2019_CISL_JLA_seminar.pptx)
     [\[pdf\]](http://www.image.ucar.edu/pub/DART/2019/2019_CISL_JLA_seminar.pdf)
+
+![](/images/pin4.gif) **Moha Gharamti** Nov 2019 :
+    Presented as a lecture for APPM 5510 at the University of Colorado in Boulder, CO, USA <br />
+    Adaptive (Prior|Posterior?) Inflation for Ensemble Kalman Filters
+    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2019/2019_lecture_CU_Boulder.pdf)
+
+![](/images/pin4.gif) **Moha Gharamti** Sep 2019 :
+    Presented at the [International Computing in the Atmospheric Sciences](https://www2.cisl.ucar.edu/events/conferences/icas/2019) in Stresa, Italy <br />
+    Data Assimilation using WRF-Hydro: the US National Water Model Application to Hurricane Florence
+    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2019/2019_talk_iCAS_Stresa_Italy.pdf)
+
+![](/images/pin4.gif) **Kevin Raeder** Jun 2019 :
+    Presented at the [CESM Earth System Prediction Cross Working Group Session](https://www.cesm.ucar.edu/events/workshops/ws.2019/) in Boulder, Colorado <br />
+    An Ensemble Reanalysis with CAM6: Initial Conditions for Ensemble ESP & Realistic Forcing for CESM Models
+    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2019/2019_talk_CESM_BoulderCO.pdf)
+
+![](/images/pin4.gif) **Moha Gharamti** Feb 2019 :
+    Presented at the [2019 SIAM Conference on Computational Science and Engineering](https://www.siam.org/conferences/cm/conference/cse19) in Spokane, WA, USA <br />
+    Data Assimilation using WRF-Hydro: the US National Water Model Application to Hurricane Florence
+    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2019/2019_talk_SIAM_Spokane.pdf)
 
 ![](/images/pin4.gif) **Jeff Anderson** Jan 2019 :
     Presented at the
@@ -108,7 +134,7 @@ aliases   :
     [\[poster - pdf\]](http://www.image.ucar.edu/pub/DART/2018/20189_AGUAMS_DART.pdf)
 
 ![](/images/pin4.gif) **Kevin Raeder** June 2018 :
-    Presented at the [CESM Atmosphere ModelWorking Group Session](https://www.cesm.ucar.edu/events/workshops/ws.2018/) in Boulder, Colorado <br />
+    Presented at the [CESM Atmosphere Model Working Group Session](https://www.cesm.ucar.edu/events/workshops/ws.2018/) in Boulder, Colorado <br />
     Using DART Tools for CAM Development
     [\[pdf\]](http://www.image.ucar.edu/pub/DART/2018/2018_talk_AMWG_BoulderCO.pdf)
 
