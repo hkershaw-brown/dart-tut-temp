@@ -107,6 +107,18 @@ aliases   :
     Assimilation for NCAR Community Earth System Models
     [\[poster - pdf\]](http://www.image.ucar.edu/pub/DART/2018/20189_AGUAMS_DART.pdf)
 
+![](/images/pin4.gif) **Kevin Raeder** June 2018 :
+    Presented at the [CESM Atmosphere ModelWorking Group Session](https://www.cesm.ucar.edu/events/workshops/ws.2018/) in Boulder, Colorado <br />
+    Using DART Tools for CAM Development
+    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2018/2018_talk_AMWG_BoulderCO.pdf)
+
+![](/images/pin4.gif) **Kevin Raeder** June 2018 :
+    Presented at the [CESM Joint Chemistry Climate and Whole Atmosphere
+Working Group Session](https://www.cesm.ucar.edu/events/workshops/ws.2018/) in Boulder, Colorado <br />
+    A Unified DART Ensemble Data Assimilation Capability for CAM(-CHEM), WACCM,
+    and WACCM-X
+    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2018/2018_talk_CESM_BoulderCO.pdf)
+
 ![](/images/pin4.gif) **Jeff Anderson** May 2018 :
     Presented at the
     [Workshop: Atmosphere, Oceans, and Computational
