@@ -116,12 +116,67 @@ aliases   :
 ## 2021
 ----
 
+![](/images/pin4.gif) **Kevin Raeder** Dec 2021 :
+    Presented at the 
+    [2021 AGU Fall Meeting](https://www.agu.org/Fall-Meeting-2021) 
+    which was held in New Orleans, LA, USA and virtually <br />
+    The Data Assimilation Research Testbed; a Suite of Tools for Understanding the Earth System with Confidence.
+    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2021/2021_poster_AGU_virtual.pdf)
+
+![](/images/pin4.gif) **Moha Gharamti** Nov 2021 :
+    Presented as a lecture for APPM 5510 at the University of Colorado in Boulder, CO, USA <br />
+    Hybrid Ensemble Kalman Filtering and Optimal Interpolation a New Adaptive Formulation
+    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2021/2021_lecture_CU_Boulder.pdf)
+
 ![](/images/pin4.gif) **Kevin Raeder** Sep 2021 :
     Presented at the 
     [WCRP-WWRP Symposium on Data Assimilation and Reanalysis](https://symp-bonn2021.sciencesconf.org/resource/page/id/15) 
     which was held virtually <br />
-     A CESM+DART Atmospheric Reanalysis for Forcing Ocean, Land, and Other Surface Models
+    A CESM+DART Atmospheric Reanalysis for Forcing Ocean, Land, and Other Surface Models
     [\[pdf\]](http://www.image.ucar.edu/pub/DART/2021/2021_talk_WCRP-WWRP_virtual.pdf)
+
+![](/images/pin4.gif) **Jeff Anderson** Aug 2021 :
+    Presented at the 
+    [2021 Joint Statistical Meeting](https://ww2.amstat.org/meetings/jsm/2021/onlineprogram/index.cfm) 
+    which was held virtually <br />
+    A General Ensemble Filtering Framework Using Quantiles
+    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2021/2021_talk_jsm_Virtual.pdf)
+
+![](/images/pin4.gif) **Moha Gharamti** Jun 2021 :
+    Presented at the 
+    [Tackling Technical Challenges in Land Data Assimilation Workshop](https://aimesproject.org/lda_workshop/) 
+    which was held virtually <br />
+    Enhanced Streamflow Forecasting Using Ensemble da Hurricane Florence Flooding 2018
+    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2021/2021_talk_AIMES_Virtual.pdf)
+
+![](/images/pin4.gif) **Kevin Raeder** Jun 2021 :
+    Presented at the 
+    [Poster Session](https://www.cesm.ucar.edu/events/workshops/2021/files/2021-cesm-agenda-posters.pdf) session of the
+    [2021 CESM Workshop](https://www.cesm.ucar.edu/events/workshops/2021/) in 
+    in Boulder, CO, USA <br />
+    A CAM6+CLM5 Ensemble Reanalysis for Forcing CESM Ice Models and Data Assimilation
+    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2021/2021_poster_CESM_virtual.pdf)
+
+![](/images/pin4.gif) **Jeff Anderson** Mar 2021 :
+    Presented at the 
+    [2021 SIAM Conference on Computational Science and Engineering](https://www.siam.org/conferences/cm/conference/cse21) 
+    which was held virtually <br />
+    Ensemble Kalman Filters for Data Assimilation: An Overview and Future Directions
+    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2021/2021_talk_SIAMCSE_Plenary_Virtual.pdf)
+
+![](/images/pin4.gif) **Jeff Anderson** Mar 2021 :
+    Presented at the 
+    [2021 SIAM Conference on Computational Science and Engineering](https://www.siam.org/conferences/cm/conference/cse21) 
+    which was held virtually <br />
+    Non-Gaussian, Nonlinear Extensions for Ensemble Filter Data Assimilation with a Marginal Adjustment Rank Histogram Filter
+    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2021/2021_talk_SIAMCSE_Virtual.pdf)
+
+![](/images/pin4.gif) **Moha Gharamti** Jan 2021 :
+    Presented at the 
+    [101st AMS Annual Meeting](https://annual.ametsoc.org/index.cfm/2021/)
+    which was held virtually <br />
+    Improved Streamflow Prediction using WRF-Hydro and DART: Recent Advances and Developments
+    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2021/2021_poster_AMS_Virtual.pdf)
 
 ----
 ## 2020
@@ -137,7 +192,7 @@ aliases   :
     Improving Earth System Model Predictions using Data Assimilation: Research and Applications
     [\[presentation - pdf\]](http://www.image.ucar.edu/pub/DART/2020/2020_MEG_ExecComm.pdf)
 
-![](/images/pin4.gif) **Moha El Gharamti** Nov 2020 :
+![](/images/pin4.gif) **Moha Gharamti** Nov 2020 :
     Presented at the
     [AGU Fall Meeting](https://www.agu.org/Fall-Meeting-2020) which was held virtually <br />
     Hydro-DART: Ensemble Streamflow Data Assimilation Using WRF-Hydro and DART
@@ -179,7 +234,7 @@ aliases   :
     for Community Ensemble Data Assimilation
     [\[poster - pdf\]](http://www.image.ucar.edu/pub/DART/2020/2019_AGU_2020_AMS_DART.pdf)
 
-![](/images/pin4.gif) **Moha El Gharamti** Jan 2020 :
+![](/images/pin4.gif) **Moha Gharamti** Jan 2020 :
     Presented at the
     [AMS Centennial Meeting 2020](https://annual.ametsoc.org/2020/) in Boston, MA, USA <br />
     A new adaptive hybrid ensemble Kalman filter and optimal interpolation.
@@ -315,7 +370,7 @@ Working Group Session](https://www.cesm.ucar.edu/events/workshops/ws.2018/) in B
     [\[pptx\]](http://www.image.ucar.edu/pub/DART/2018/2018_AMS_esm_da_JLA.pptx)
     [\[pdf\]](http://www.image.ucar.edu/pub/DART/2018/2018_AMS_esm_da_JLA.pdf)
 
-![](/images/pin4.gif) **Moha El Gharamti** Jan 2018 :
+![](/images/pin4.gif) **Moha Gharamti** Jan 2018 :
     Presented at the [AMS Annual Meeting
     2018](https://annual.ametsoc.org/2018/) in Austin, TX, USA <br />
     Adaptive Prior Inflation for Ensemble Filters: Application to a
