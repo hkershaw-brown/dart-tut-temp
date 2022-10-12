@@ -4,6 +4,125 @@ aliases   :
    - /pages/Presentations.html
 ---
 
+
+----
+## 2022
+----
+
+![](/images/pin4.gif) **Brett Raczka** Jun 2022 :
+    Presented at the 
+    [Land Data Assimilation Community AIMES Workshop](https://aimesproject.org/lda_workshop_2022/) 
+    which was held virtually <br />
+    Applying the Data Assimilation Research Testbed towards improved simulations of Earth System Carbon, Water and Energy Cycling
+    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2022/2022_poster_AIMESDA.pdf)
+
+![](/images/pin4.gif) **Brett Raczka** Jun 2022 :
+    Presented at the 
+    [Land Data Assimilation Community AIMES Workshop](https://aimesproject.org/lda_workshop_2022/) 
+    which was held virtually <br />
+    Applying Ensemble Data Assimilation to CLM
+    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2022/2022_talk_AIMES.pdf)
+
+![](/images/pin4.gif) **Moha Gharamti** Jun 2022 :
+    Presented at the 
+    [8th International Symposium on Data Assimilation](https://www.cira.colostate.edu/conferences/isda/) 
+    in Fort Collins, CO, USA <br />
+    A Randomized Dormant Ensemble Kalman Filter // Sampling Errors: An Alternative Look
+    [\[presentation - pdf\]](http://www.image.ucar.edu/pub/DART/2022/2022_talk_ISDA_FortCollins.pdf)
+    [\[poster - pdf\]](http://www.image.ucar.edu/pub/DART/2022/2022_poster_ISDA_FortCollins.pdf)
+
+![](/images/pin4.gif) **Jeff Anderson** Jun 2022 :
+    Presented at the 
+    [8th International Symposium on Data Assimilation](https://www.cira.colostate.edu/conferences/isda/) 
+    in Fort Collins, CO, USA <br />
+    The Data Assimilation Research Testbed: An Intro to Powerful Nonlinear and Non-Gaussian Data Assimilation Tools
+    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2022/2022_talk_CSU_FtCollins.pdf)
+
+![](/images/pin4.gif) **Ben Johnson** Jun 2022 :
+    Presented at the 
+    [8th International Symposium on Data Assimilation](https://www.cira.colostate.edu/conferences/isda/) 
+    in Fort Collins, CO, USA <br />
+    A Comparison of Three Kalman Filters Using a Large Atmospheric General Circulation Model Ensemble
+    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2022/2022_poster_ISDA_Fort_Collins.pdf)
+
+![](/images/pin4.gif) **Kevin Raeder** Jun 2022 :
+    Presented at the 
+    [Poster Session](https://www.cesm.ucar.edu/events/workshops/2022/files/2022-cesm-agenda-posters.pdf) session of the
+    [2022 CESM Workshop](https://www.cesm.ucar.edu/events/workshops/2022/) in 
+    in Boulder, CO, USA <br />
+    Extending the CAM6+DART Reanalysis Past 2020, for use in CLM, POP, and CICE
+    Data Assimilation, CAM Model Development, and Machine Learning
+    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2022/2022_poster_CESM_AMWG_virtual.pdf)
+
+![](/images/pin4.gif) **Brett Raczka** Jun 2022 :
+    Presented at the 
+    [Land Model Working Group](https://www.cesm.ucar.edu/events/workshops/2022/files/2022-cesm-agenda-land.pdf) session of the
+    [2022 CESM Workshop](https://www.cesm.ucar.edu/events/workshops/2022/) in 
+    in Boulder, CO, USA <br />
+    Applying the Data Assimilation Research Testbed to improve the Representation of Earth System Carbon, Water and Energy Cycling
+    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2022/2022_talk_CESM_LMWG.pdf)
+
+![](/images/pin4.gif) **Ben Johnson** May 2022 :
+    Presented at the 
+    [NCAR High Performance Computing User Group Meeting](https://arc.ucar.edu/knowledge_base/70549847) 
+    which was held in Boulder, CO, USA and virtually <br />
+    Enhancing Predictions of the Earth by Studying Emergent Phenomena
+    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2022/2022_talk_nhug_2022.pdf)
+
+![](/images/pin4.gif) **Brett Raczka** May 2022 :
+    Presented at the 
+    [Community Terrestrial Systems Model Tutorial](https://www.cesm.ucar.edu/events/2022/ctsm-tutorial/) 
+    which was held in Boulder, CO, USA and virtually <br />
+    Applying Ensemble Data Assimilation to CLM
+    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2022/2022_lecture_CTSM_Tutorial.pdf)
+
+![](/images/pin4.gif) **Jeff Anderson** Apr 2022 :
+    Presented at the 
+    [SIAM Conference on Uncertainty Quantification](https://www.siam.org/conferences/cm/conference/uq22) 
+    which was held in Atlanta, GA, USA and virtually <br />
+    A Quantile Conserving Particle Filter with Likelihood Localization
+    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2022/2022_talk_SIAMUQ_Virtual.pdf)
+
+![](/images/pin4.gif) **Ben Johnson** Feb 2022 :
+    Presented at the 
+    [Ocean Sciences Meeting 2022](https://www.aslo.org/osm2022/)
+    which was held virtually <br />
+    New Capabilities in the Data Assimilation Research Testbed for the Ocean Science Community
+    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2022/2022_poster_OSM_Honolulu.pdf)
+
+![](/images/pin4.gif) **Helen Kershaw** Jan 2022 :
+    Presented at the 
+    [ISDA Data Assimilation Infrastructure - Software, Frameworks, HPC Event](https://isda-online.univie.ac.at/online-events/january-2022-data-assimilation-infrastructure/) 
+    which was held virtually <br />
+    The Data Assimilation Research Testbed in 2022 and Beyond: Not Your Parents’ DART
+    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2022/2022_talk_ISDAonline_Virtual.pdf)
+    [\[recording\]](https://www.youtube.com/watch?v=t1M5ywUL-Y0)
+
+![](/images/pin4.gif) **Ben Johnson** Jan 2022 :
+    Presented at the 
+    [102nd AMS Annual Meeting](https://annual.ametsoc.org/index.cfm/2022/program-events/) 
+    in Houston, TX, USA and virtually <br />
+    A Comparison of Three Kalman Filters Using a Large Atmospheric General Circulation Model Ensemble
+    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2022/2022_poster_AMS_Houston.pdf)
+
+![](/images/pin4.gif) **Kevin Raeder** Jan 2022 :
+    Presented at the 
+    [102nd AMS Annual Meeting](https://annual.ametsoc.org/index.cfm/2022/program-events/) 
+    in Houston, TX, USA and virtually <br />
+    The Data Assimilation Research Testbed; a Suite of Tools for Understanding the Earth System with Confidence
+    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2022/2022_talk_AMS_virtual.pdf)
+
+----
+## 2021
+----
+
+![](/images/pin4.gif) **Kevin Raeder** Sep 2021 :
+    Presented at the 
+    [WCRP-WWRP Symposium on Data Assimilation and Reanalysis](https://symp-bonn2021.sciencesconf.org/resource/page/id/15) 
+    which was held virtually <br />
+     A CESM+DART Atmospheric Reanalysis for Forcing Ocean, Land, and Other Surface Models
+    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2021/2021_talk_WCRP-WWRP_virtual.pdf)
+
 ----
 ## 2020
 ----
