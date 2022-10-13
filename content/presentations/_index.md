@@ -123,10 +123,26 @@ aliases   :
     The Data Assimilation Research Testbed; a Suite of Tools for Understanding the Earth System with Confidence.
     [\[pdf\]](http://www.image.ucar.edu/pub/DART/2021/2021_poster_AGU_virtual.pdf)
 
+![](/images/pin4.gif) **Brett Raczka** Nov 2021 :
+    Presented at the 
+    [NCAR Climate and Global Dynamics Lab Seminar](http://ncas-m.org/opportunities/cgd-seminar-series-brett-raczka/)
+    in Boulder, CO, USA <br />
+    Improving Carbon Cycling using Land Data Assimilation: Progress and Challenges
+    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2021/2021_lecture_CGD_Seminar.pdf)
+    [\[recording\]](https://www.youtube.com/watch?v=9oHPdsXK6Ks)
+
 ![](/images/pin4.gif) **Moha Gharamti** Nov 2021 :
     Presented as a lecture for APPM 5510 at the University of Colorado in Boulder, CO, USA <br />
     Hybrid Ensemble Kalman Filtering and Optimal Interpolation a New Adaptive Formulation
     [\[pdf\]](http://www.image.ucar.edu/pub/DART/2021/2021_lecture_CU_Boulder.pdf)
+
+
+![](/images/pin4.gif) **Jeff Anderson** Sep 2021 :
+    Presented at the 
+    [CISL Work In Progress Seminar](https://www2.cisl.ucar.edu/events/cisl-work-progress-wip-seminar-september-2021) 
+    which was held virtually <br />
+    A General Ensemble Filtering Framework: Improved Data Assimilation for Tracers
+    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2021/2021_talk_agu_Virtual.pdf)
 
 ![](/images/pin4.gif) **Kevin Raeder** Sep 2021 :
     Presented at the 
@@ -148,6 +164,30 @@ aliases   :
     which was held virtually <br />
     Enhanced Streamflow Forecasting Using Ensemble da Hurricane Florence Flooding 2018
     [\[pdf\]](http://www.image.ucar.edu/pub/DART/2021/2021_talk_AIMES_Virtual.pdf)
+
+![](/images/pin4.gif) **Brett Raczka** Jun 2021 :
+    Presented at the 
+    [Biogeochemistry Working Group](https://www.cesm.ucar.edu/events/workshops/2021/files/2021-cesm-agenda-biogeochemistry.pdf) session of the
+    [2021 CESM Workshop](https://www.cesm.ucar.edu/events/workshops/2021/) in 
+    in Boulder, CO, USA <br />
+    Improving CLM5.0 Biomass and Carbon Exchange across the Western US using Data Assimilation (DART)
+    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2021/2021_lecture_CESM_BGCWG.pdf)
+
+![](/images/pin4.gif) **Kevin Raeder** Jun 2021 :
+    Presented at the 
+    [Machine Learning: CESM-Related Efforts Cross Working Group](https://www.cesm.ucar.edu/events/workshops/2021/files/2021-cesm-agenda-machine-learning.pdf) session of the
+    [2021 CESM Workshop](https://www.cesm.ucar.edu/events/workshops/2021/) in 
+    in Boulder, CO, USA <br />
+    The CAM6+DART Ensemble Reanalysis Provides a Variety of Datasets for Machine Learning Training and Verification Algorithms
+    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2021/2021_talk_CESM_virtual.pdf)
+
+![](/images/pin4.gif) **Brett Raczka** Jun 2021 :
+    Presented at the 
+    [Land Model Working Group](https://www.cesm.ucar.edu/events/workshops/2021/files/2021-cesm-agenda-land.pdf) session of the
+    [2021 CESM Workshop](https://www.cesm.ucar.edu/events/workshops/2021/) in 
+    in Boulder, CO, USA <br />
+    Opportunities for Data Assimilation in Land Surface Modeling
+    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2021/2021_talk_CESM_LMWG.pdf)
 
 ![](/images/pin4.gif) **Kevin Raeder** Jun 2021 :
     Presented at the 
@@ -177,6 +217,13 @@ aliases   :
     which was held virtually <br />
     Improved Streamflow Prediction using WRF-Hydro and DART: Recent Advances and Developments
     [\[pdf\]](http://www.image.ucar.edu/pub/DART/2021/2021_poster_AMS_Virtual.pdf)
+
+![](/images/pin4.gif) **Jeff Anderson** Jan 2021 :
+    Presented at the 
+    [101st AMS Annual Meeting](https://annual.ametsoc.org/index.cfm/2021/)
+    which was held virtually <br />
+    Using More Trusted Observations to Reduce Systematic Error in Less Trusted Observations using Ensemble Data Assimilation
+    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2021/2021_talk_ams_Virtual.pdf)
 
 ----
 ## 2020
