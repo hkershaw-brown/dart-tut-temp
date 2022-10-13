@@ -27,7 +27,7 @@ aliases   :
     Presented at the 
     [8th International Symposium on Data Assimilation](https://www.cira.colostate.edu/conferences/isda/) 
     in Fort Collins, CO, USA <br />
-    A Randomized Dormant Ensemble Kalman Filter // Sampling Errors: An Alternative Look
+    A Randomized Dormant Ensemble Kalman Filter; Sampling Errors: An Alternative Look
     [\[presentation - pdf\]](http://www.image.ucar.edu/pub/DART/2022/2022_talk_ISDA_FortCollins.pdf)
     [\[poster - pdf\]](http://www.image.ucar.edu/pub/DART/2022/2022_poster_ISDA_FortCollins.pdf)
 
@@ -116,6 +116,11 @@ aliases   :
 ## 2021
 ----
 
+![](/images/pin4.gif) **Brett Raczka** Dec 2021 :
+    Presented a DART Tutorial at Auburn University in Auburn, AL, USA <br />
+    CLM5-DART Tutorial: Setting up and running a global assimilation
+    [\[pdf\]](https://www.image.ucar.edu/pub/DART/2021/2021_lecture_UofAuburn.pdf)
+
 ![](/images/pin4.gif) **Kevin Raeder** Dec 2021 :
     Presented at the 
     [2021 AGU Fall Meeting](https://www.agu.org/Fall-Meeting-2021) 
@@ -131,11 +136,16 @@ aliases   :
     [\[pdf\]](http://www.image.ucar.edu/pub/DART/2021/2021_lecture_CGD_Seminar.pdf)
     [\[recording\]](https://www.youtube.com/watch?v=9oHPdsXK6Ks)
 
+
 ![](/images/pin4.gif) **Moha Gharamti** Nov 2021 :
     Presented as a lecture for APPM 5510 at the University of Colorado in Boulder, CO, USA <br />
     Hybrid Ensemble Kalman Filtering and Optimal Interpolation a New Adaptive Formulation
     [\[pdf\]](http://www.image.ucar.edu/pub/DART/2021/2021_lecture_CU_Boulder.pdf)
 
+![](/images/pin4.gif) **Brett Raczka** Oct 2021 :
+    Presented a lecture to the Land-Atmosphere Interaction Group at the University of Utah in Salt Lake City, Utah, USA <br />
+    Land Data Assimilation using DART : Carbon cycling across the Western US
+    [\[pdf\]](https://www.image.ucar.edu/pub/DART/2021/2021_lecture_UofUtah.pdf)
 
 ![](/images/pin4.gif) **Jeff Anderson** Sep 2021 :
     Presented at the 
@@ -157,6 +167,25 @@ aliases   :
     which was held virtually <br />
     A General Ensemble Filtering Framework Using Quantiles
     [\[pdf\]](http://www.image.ucar.edu/pub/DART/2021/2021_talk_jsm_Virtual.pdf)
+
+![](/images/pin4.gif) **Moha Gharamti** Jun 2021 :
+    Presented at 
+    [The International EnKF Workshop 2021](https://enkf.norceprosjekt.no/previous-workshops/enkf-workshop-2021-free-online-event-) 
+    which was held virtually <br />
+    Data Assimilation in Hydrology and Streamflow Forecasting: Hurricane Florence Flooding 2018
+    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2021/2021_talk_EnKFWorkshop_Virtual.pdf)
+
+![](/images/pin4.gif) **Moha Gharamti** Jun 2021 :
+    Presented at the 
+    [Nansen Environmental and Remote Sensing Center Summer School](https://events.nersc.no/event/3rd-summer-school-crash-course-data-assimilation-theoretical-foundations-and-advanced) 
+    which was held virtually <br />
+    Data Assimilation in Hydrology and Streamflow Forecasting: Hurricane Florence Flooding 2018
+    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2021/2021_lecture_DASummerSchool_Virtual.pdf)
+
+![](/images/pin4.gif) **Brett Raczka** Jun 2021 :
+    Presented virtually to the [NASA Carbon Monitoring System Project, Flux Working Group](https://carbon.nasa.gov/wg_cms.html)<br />
+    Carbon Monitoring System in Mountains (CMS-Mountains): Development and Testing in the Western U.S.
+    [\[pdf\]](https://www.image.ucar.edu/pub/DART/2021/2021_talk_CMSMountainsFluxWG.pdf)
 
 ![](/images/pin4.gif) **Moha Gharamti** Jun 2021 :
     Presented at the 
@@ -204,12 +233,27 @@ aliases   :
     Ensemble Kalman Filters for Data Assimilation: An Overview and Future Directions
     [\[pdf\]](http://www.image.ucar.edu/pub/DART/2021/2021_talk_SIAMCSE_Plenary_Virtual.pdf)
 
+![](/images/pin4.gif) **Moha Gharamti** Mar 2021 :
+    Presented at 
+    [2021 SIAM Conference on Computational Science and Engineering](https://www.siam.org/conferences/cm/conference/cse21) 
+    which was held virtually <br />
+    Inflation in Ensemble Filters: Why, How and When?
+    Real High-Dimensional Atmospheric and Hydrologic Applications
+    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2021/2021_talk_SIAM_Virtual.pdf)
+
 ![](/images/pin4.gif) **Jeff Anderson** Mar 2021 :
     Presented at the 
     [2021 SIAM Conference on Computational Science and Engineering](https://www.siam.org/conferences/cm/conference/cse21) 
     which was held virtually <br />
     Non-Gaussian, Nonlinear Extensions for Ensemble Filter Data Assimilation with a Marginal Adjustment Rank Histogram Filter
     [\[pdf\]](http://www.image.ucar.edu/pub/DART/2021/2021_talk_SIAMCSE_Virtual.pdf)
+
+![](/images/pin4.gif) **Jeff Anderson** Feb 2021 :
+    Presented at the 
+    Ludwig Maximilian University of Munich Colloquium in Data Science
+    which was held virtually <br />
+    Removing the Kalman from the Ensemble Kalman Filter
+    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2021/2021_talk_LMU_Virtual.pdf)
 
 ![](/images/pin4.gif) **Moha Gharamti** Jan 2021 :
     Presented at the 
