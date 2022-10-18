@@ -48,8 +48,7 @@ aliases   :
 ![](/images/pin4.gif) **Kevin Raeder** Jun 2022 :
     Presented at the 
     [Poster Session](https://www.cesm.ucar.edu/events/workshops/2022/files/2022-cesm-agenda-posters.pdf) session of the
-    [2022 CESM Workshop](https://www.cesm.ucar.edu/events/workshops/2022/) in 
-    in Boulder, CO, USA <br />
+    [2022 CESM Workshop](https://www.cesm.ucar.edu/events/workshops/2022/) in Boulder, CO, USA <br />
     Extending the CAM6+DART Reanalysis Past 2020, for use in CLM, POP, and CICE
     Data Assimilation, CAM Model Development, and Machine Learning
     [\[pdf\]](http://www.image.ucar.edu/pub/DART/2022/2022_poster_CESM_AMWG_virtual.pdf)
@@ -57,8 +56,7 @@ aliases   :
 ![](/images/pin4.gif) **Brett Raczka** Jun 2022 :
     Presented at the 
     [Land Model Working Group](https://www.cesm.ucar.edu/events/workshops/2022/files/2022-cesm-agenda-land.pdf) session of the
-    [2022 CESM Workshop](https://www.cesm.ucar.edu/events/workshops/2022/) in 
-    in Boulder, CO, USA <br />
+    [2022 CESM Workshop](https://www.cesm.ucar.edu/events/workshops/2022/) in Boulder, CO, USA <br />
     Applying the Data Assimilation Research Testbed to improve the Representation of Earth System Carbon, Water and Energy Cycling
     [\[pdf\]](http://www.image.ucar.edu/pub/DART/2022/2022_talk_CESM_LMWG.pdf)
 
@@ -143,7 +141,7 @@ aliases   :
     [\[pdf\]](http://www.image.ucar.edu/pub/DART/2021/2021_lecture_CU_Boulder.pdf)
 
 ![](/images/pin4.gif) **Brett Raczka** Oct 2021 :
-    Presented a lecture to the Land-Atmosphere Interaction Group at the University of Utah in Salt Lake City, Utah, USA <br />
+    Presented a lecture to the Land-Atmosphere Interaction Group at the University of Utah in Salt Lake City, UT, USA <br />
     Land Data Assimilation using DART : Carbon cycling across the Western US
     [\[pdf\]](https://www.image.ucar.edu/pub/DART/2021/2021_lecture_UofUtah.pdf)
 
@@ -197,32 +195,28 @@ aliases   :
 ![](/images/pin4.gif) **Brett Raczka** Jun 2021 :
     Presented at the 
     [Biogeochemistry Working Group](https://www.cesm.ucar.edu/events/workshops/2021/files/2021-cesm-agenda-biogeochemistry.pdf) session of the
-    [2021 CESM Workshop](https://www.cesm.ucar.edu/events/workshops/2021/) in 
-    in Boulder, CO, USA <br />
+    [2021 CESM Workshop](https://www.cesm.ucar.edu/events/workshops/2021/) in Boulder, CO, USA <br />
     Improving CLM5.0 Biomass and Carbon Exchange across the Western US using Data Assimilation (DART)
     [\[pdf\]](http://www.image.ucar.edu/pub/DART/2021/2021_lecture_CESM_BGCWG.pdf)
 
 ![](/images/pin4.gif) **Kevin Raeder** Jun 2021 :
     Presented at the 
     [Machine Learning: CESM-Related Efforts Cross Working Group](https://www.cesm.ucar.edu/events/workshops/2021/files/2021-cesm-agenda-machine-learning.pdf) session of the
-    [2021 CESM Workshop](https://www.cesm.ucar.edu/events/workshops/2021/) in 
-    in Boulder, CO, USA <br />
+    [2021 CESM Workshop](https://www.cesm.ucar.edu/events/workshops/2021/) in Boulder, CO, USA <br />
     The CAM6+DART Ensemble Reanalysis Provides a Variety of Datasets for Machine Learning Training and Verification Algorithms
     [\[pdf\]](http://www.image.ucar.edu/pub/DART/2021/2021_talk_CESM_virtual.pdf)
 
 ![](/images/pin4.gif) **Brett Raczka** Jun 2021 :
     Presented at the 
     [Land Model Working Group](https://www.cesm.ucar.edu/events/workshops/2021/files/2021-cesm-agenda-land.pdf) session of the
-    [2021 CESM Workshop](https://www.cesm.ucar.edu/events/workshops/2021/) in 
-    in Boulder, CO, USA <br />
+    [2021 CESM Workshop](https://www.cesm.ucar.edu/events/workshops/2021/) in Boulder, CO, USA <br />
     Opportunities for Data Assimilation in Land Surface Modeling
     [\[pdf\]](http://www.image.ucar.edu/pub/DART/2021/2021_talk_CESM_LMWG.pdf)
 
 ![](/images/pin4.gif) **Kevin Raeder** Jun 2021 :
     Presented at the 
     [Poster Session](https://www.cesm.ucar.edu/events/workshops/2021/files/2021-cesm-agenda-posters.pdf) session of the
-    [2021 CESM Workshop](https://www.cesm.ucar.edu/events/workshops/2021/) in 
-    in Boulder, CO, USA <br />
+    [2021 CESM Workshop](https://www.cesm.ucar.edu/events/workshops/2021/) in Boulder, CO, USA <br />
     A CAM6+CLM5 Ensemble Reanalysis for Forcing CESM Ice Models and Data Assimilation
     [\[pdf\]](http://www.image.ucar.edu/pub/DART/2021/2021_poster_CESM_virtual.pdf)
 
@@ -306,8 +300,7 @@ aliases   :
 ![](/images/pin4.gif) **Kevin Raeder** Jun 2020 :
     Presented at the 
     [Earth System Prediction Working Group](http://www.cesm.ucar.edu/events/workshops/2020/#presentations-espwg) session of the
-    [2020 CESM Workshop](http://www.cesm.ucar.edu/events/workshops/2020/) in 
-    in Boulder, CO, USA <br />
+    [2020 CESM Workshop](http://www.cesm.ucar.edu/events/workshops/2020/) in Boulder, CO, USA <br />
     A New CAM6+DART 80-Member Ensemble Reanalysis for 2011-2019: 
     Initial Conditions for CAM, CLM and CICE Forecasts and Forcing for POP, CLM and CICE
     [\[pdf\]](http://www.image.ucar.edu/pub/DART/2020/espwg_CAM6_reanalysis.pdf)
