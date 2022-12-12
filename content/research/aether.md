@@ -2,13 +2,14 @@
 title: "Next-Generation Space Weather Prediction"
 date: 2020-12-30T14:58:06-07:00
 type: research
-image: "images/featured-article/aurora-featured-article.jpg"
+image: "images/featured-articles/aurora-featured-article.jpg"
 hero: "images/hero/aether.jpg"
-category: ["SPACE WEATHER PREDICTION"]
-weight: 30
 figures:
  - image : "images/featured-articles/aurora-captured-from-the-iss.jpg"
    caption : "Aurora australis over the Southern Ocean, photographed from the International Space Station. Aurora are produced in the upper atmosphere as a result of disturbances from solar wind. Severe disturbances can have broad societal impacts."
+
+category: ["SPACE WEATHER PREDICTION"]
+weight: 30
 ---
 
 Space weather events can wreak widespread societal havoc, disabling satellites 
