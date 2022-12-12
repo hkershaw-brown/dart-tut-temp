@@ -106,6 +106,10 @@ The Data Assimilation Research Testbed: A Community Facility.
    Improving CLM5.0 Biomass and Carbon Exchange across the Western US Using a Data Assimilation System.  
    *Journal of Advances in Modeling Earth Systems*, [doi.org/10.1029/2020MS002421](https://doi.org/10.1029/2020MS002421)  
 
+![](/images/pin4.gif) **Raeder, K., T. J. Hoar, M. El Gharamti, B. K. Johnson, N. Collins, J. L. Anderson, J. Steward, and M. Coady**, 2021  
+    A new CAM6 + DART reanalysis with surface forcing from CAM6 to other CESM models.  
+    *Scientific Reports*, **11**, 16384, [doi.org/10.1038/s41598-021-92927-0](https://doi.org/10.1038/s41598-021-92927-0)
+
 ![](/images/pin4.gif) **Kodikara, T., Zhang, K., Pedatella, N. M., & Borries, C.**, 2021  
    The impact of solar activity on forecasting the upper atmosphere via assimilation of electron density data.  
    *Space Weather*, **19**, e2020SW002660, [doi.org/10.1029/2020SW002660](https://doi.org/10.1029/2020SW002660)  
