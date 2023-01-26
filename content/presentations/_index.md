@@ -4,10 +4,41 @@ aliases   :
    - /pages/Presentations.html
 ---
 
+----
+## 2023
+----
+
+![](/images/pin4.gif) **Kevin Raeder** Jan 2023 :
+     Presented at the
+     [103rd AMS Annual Meeting](https://annual.ametsoc.org/index.cfm/2023/program-events/)
+     in Denver, CO, USA and virtually <br />
+     A CESM+DART Atmospheric Reanalysis for Forcing Ocean, Land, and Other Surface Models
+     [\[pdf\]](http://www.image.ucar.edu/pub/DART/2023/talk_AMS_Denver_2023.pdf)
+
+![](/images/pin4.gif) **Jeff Anderson** Jan 2023 :
+     Presented at the
+     [103rd AMS Annual Meeting](https://annual.ametsoc.org/index.cfm/2023/program-events/)
+     in Denver, CO, USA and virtually <br />
+     A Quantile Conserving Ensemble Filtering Framework: Next Generation Nonlinear and Non-Gaussian Data Assimilation Capabilities for DART
+     [\[pdf\]](http://www.image.ucar.edu/pub/DART/2023/poster_AMS_Denver_JLA_2023.pdf)
+
+![](/images/pin4.gif) **Kevin Raeder** Jan 2023 :
+     Presented at the
+     [103rd AMS Annual Meeting](https://annual.ametsoc.org/index.cfm/2023/program-events/)
+     in Denver, CO, USA and virtually <br />
+     The Latest from the Data Assimilation Research Testbed: Powerful New Assimilation Algorithms, Advances in Efficiency and Capabilities, New Model and Observation Interfaces, and Novel Results
+     [\[pdf\]](http://www.image.ucar.edu/pub/DART/2023/poster_AMS_Denver_2023.pdf)
 
 ----
 ## 2022
 ----
+
+![](/images/pin4.gif) **Kevin Raeder** Dec 2022 :
+     Presented at the
+     [2022 AGU Fall Meeting](https://www.agu.org/Fall-Meeting)
+     which was held in Chicago, IL, USA and virtually <br />
+     The Data Assimilation Research Testbed; a Suite of Tools for Understanding the Earth System with Confidence.
+     [\[pdf\]](http://www.image.ucar.edu/pub/DART/2022/poster_AGU_virtual_2022.pdf)
 
 ![](/images/pin4.gif) **Brett Raczka** Jun 2022 :
     Presented at the 
