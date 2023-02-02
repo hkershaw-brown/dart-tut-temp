@@ -237,7 +237,7 @@ The `themes` directory contains the .scss files that control the look of the sit
 
 **Note, these instructions are for when the dart website has been switched to gh-pages**
 
-The dart webiste is hosted on the `gh-pages` branch on  https://github.com/NCAR/DART.git
+The dart website is hosted on the `gh-pages` branch on  https://github.com/NCAR/DART.git
 
 You can clone the single branch gh-pages into a DART-gh-pages directory with:
 
