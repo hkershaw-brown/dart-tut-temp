@@ -39,6 +39,6 @@ members  :
 
   - image       : images/team/iceberg4.jpg
     name        : BRETT RACZKA
-    designation : Associate Scientist
+    designation : Associate Data Scientist
     ncarpage    : https://staff.ucar.edu/browse/people/26663
     github      : https://github.com/NCAR/DART
