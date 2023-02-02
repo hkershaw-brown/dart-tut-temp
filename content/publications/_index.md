@@ -29,6 +29,14 @@ The Data Assimilation Research Testbed: A Community Facility.
 
 
 ---
+## 2023
+---
+
+![](/images/pin4.gif) **Kurosawa, K., and J. Poterjoy**, 2023:
+   A Statistical Hypothesis Testing Strategy for Adaptively Blending Particle Filters and Ensemble Kalman Filters for Data Assimilation.
+   *Monthly Weather Review*, **151**, 105–125, [doi.org/10.1175/MWR-D-22-0108.1](https://doi.org/10.1175/MWR-D-22-0108.1)
+
+---
 ## 2022
 ---
 
