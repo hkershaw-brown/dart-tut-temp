@@ -112,7 +112,7 @@ research:
   intelligence research.
 
 A very detailed description is available in [A new CAM6+DART reanalysis with
-surface forcing from CAM6 to other CESM models (Raeder et al. 2021)](https://doi.org/10.1038/s41598-021-92927-0).
+surface forcing from CAM6 to other CESM models (Raeder et al. 2021)](https://opensky.ucar.edu/islandora/object/articles%3A24601).
 
 This reanalysis required 17 million core hours on NCAR's Cheyenne supercomputer
 and resulted in 120 Tbytes of archived data. Crucial resources to complete this
@@ -170,7 +170,7 @@ Here are glimpses into how these products have been used:
 - Raeder, K., T. J. Hoar, M. El Gharamti, B. K. Johnson, N. Collins, J. L.
   Anderson, J. Steward, and M. Coady, 2021: A new CAM6 + DART reanalysis with
   surface forcing from CAM6 to other CESM models. *Scientific Reports*, **11**,
-  16384, [https://doi.org/10.1038/s41598-021-92927-0](https://doi.org/10.1038/s41598-021-92927-0).
+  16384, [https://doi.org/10.1038/s41598-021-92927-0](https://opensky.ucar.edu/islandora/object/articles%3A24601)
 - Riedel, C. and Anderson, J.L. Exploring Non-Gaussian Sea Ice Characteristics
   via Observing System Simulation Experiments (submitted to The Cryosphere,
   2023).
