@@ -2,6 +2,12 @@ enable  : true
 title   : "Benefits of DART"
 carousel_item :
 
+  - background_image : "images/hero/cam6-reanalysis.jpg"
+    heading  : "THE CAM6+DART REANALYSIS FOR EARTH SYSTEM SCIENCE"
+    tagline: "Featured project: Computational & Information Systems Lab"
+    primary_button : "Using the CAM6+DART Reanalysis for Earth System Research"
+    url : "research/cam6-reanalysis"
+
   - background_image : "images/hero/kalman-filter.jpg"
     heading  : "REMOVING KALMAN FROM ENSEMBLE KALMAN FILTERING"
     tagline  : "Society for Industrial and Applied Mathematics News"
