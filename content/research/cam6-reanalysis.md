@@ -1,11 +1,11 @@
 ---
-title: "Using the CAM6+DART Reanalysis for Earth System Research"
+title: "The CAM6+DART Reanalysis for Earth System Science"
 date: 2023-02-12T11:34:06-07:00
 type: research
-image: "images/science_nuggets/ats_local_200_1_teaser.png"
+image: "/images/featured-articles/cam6-reanalysis/chugatch-lake.jpg"
 hero: "images/hero/cam6-reanalysis.jpg"
 category: ["Reanalysis"]
-weight: 30
+weight: 10
 figures:
  - image : "/images/featured-articles/cam6-reanalysis/chugatch-lake.jpg"
    caption : "Figure 1: Earth system components interact in many ways at the
