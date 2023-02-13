@@ -4,7 +4,7 @@ date: 2023-02-12T11:34:06-07:00
 type: research
 image: "/images/featured-articles/cam6-reanalysis/chugatch-lake.jpg"
 hero: "images/hero/cam6-reanalysis.jpg"
-category: ["Reanalysis"]
+category: ["EARTH SYSTEM SCIENCE"]
 weight: 10
 figures:
  - image : "/images/featured-articles/cam6-reanalysis/chugatch-lake.jpg"
