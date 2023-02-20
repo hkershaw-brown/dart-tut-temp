@@ -8,6 +8,12 @@ carousel_item :
     primary_button : "Using the CAM6+DART Reanalysis for Earth System Research"
     url : "research/cam6-reanalysis"
 
+  - background_image : "images/hero/agu-fellow.jpg"
+    heading  : "2022 AMERICAN GEOPHYSICAL UNION FELLOW: JEFFREY ANDERSON"
+    tagline: "American Geophysical Union Honors"
+    primary_button : "FOR CONTRIBUTIONS TO EARTH SCIENCE"
+    url : "https://news.ucar.edu/132874/ucar-and-ncar-scientists-and-staff-receive-agu-and-ams-awards"
+  
   - background_image : "images/hero/kalman-filter.jpg"
     heading  : "REMOVING KALMAN FROM ENSEMBLE KALMAN FILTERING"
     tagline  : "Society for Industrial and Applied Mathematics News"
