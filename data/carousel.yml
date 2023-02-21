@@ -7,12 +7,6 @@ carousel_item :
     tagline: "Featured project: Computational & Information Systems Lab"
     primary_button : "Using the CAM6+DART Reanalysis for Earth System Research"
     url : "research/cam6-reanalysis"
-
-  - background_image : "images/hero/agu-fellow.jpg"
-    heading  : "2022 AMERICAN GEOPHYSICAL UNION FELLOW: JEFFREY ANDERSON"
-    tagline: "American Geophysical Union Honors"
-    primary_button : "FOR CONTRIBUTIONS TO EARTH SCIENCE"
-    url : "https://news.ucar.edu/132874/ucar-and-ncar-scientists-and-staff-receive-agu-and-ams-awards"
   
   - background_image : "images/hero/kalman-filter.jpg"
     heading  : "REMOVING KALMAN FROM ENSEMBLE KALMAN FILTERING"
@@ -43,4 +37,10 @@ carousel_item :
     tagline: "National Science Foundation Research News"
     primary_button : "NSF Research News"
     url : "https://beta.nsf.gov/news/confronting-models-observations"
+
+  - background_image : "images/hero/agu-fellow.jpg"
+    heading  : "2022 AMERICAN GEOPHYSICAL UNION FELLOW: JEFFREY ANDERSON"
+    tagline: "American Geophysical Union Honors"
+    primary_button : "FOR CONTRIBUTIONS TO EARTH SCIENCE"
+    url : "https://news.ucar.edu/132874/ucar-and-ncar-scientists-and-staff-receive-agu-and-ams-awards"
 
