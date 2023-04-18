@@ -32,6 +32,10 @@ The Data Assimilation Research Testbed: A Community Facility.
 ## 2023
 ---
 
+![](/images/pin4.gif) **Chen, Y., Z. Shen, Y. Tang, and X. Song**, 2023:
+   Ocean data assimilation for the initialization of seasonal prediction with the Community Earth System Model.
+   *Ocean Modelling*, **183**, 102194, [doi.org/10.1016/j.ocemod.2023.102194](https://doi.org/10.1016/j.ocemod.2023.102194)
+
 ![](/images/pin4.gif) **Kurosawa, K., and J. Poterjoy**, 2023:
    A Statistical Hypothesis Testing Strategy for Adaptively Blending Particle Filters and Ensemble Kalman Filters for Data Assimilation.
    *Monthly Weather Review*, **151**, 105–125, [doi.org/10.1175/MWR-D-22-0108.1](https://doi.org/10.1175/MWR-D-22-0108.1)
