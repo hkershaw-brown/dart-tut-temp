@@ -2,6 +2,12 @@ enable  : true
 title   : "Benefits of DART"
 carousel_item :
 
+  - background_image : "images/hero/bizwest.jpg"
+    heading  : "SHAPING THE FUTURE OF BOULDER VALLEY: MOHA GHARAMTI"
+    tagline: "BizWest 40 Under Forty Honoree for Boulder Valley"
+    primary_button : "DART Scientist Honored"
+    url : "research/bizwest-40-under-forty"
+  
   - background_image : "images/hero/cam6-reanalysis.jpg"
     heading  : "THE CAM6+DART REANALYSIS FOR EARTH SYSTEM SCIENCE"
     tagline: "Featured project: Computational & Information Systems Lab"
