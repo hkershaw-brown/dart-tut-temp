@@ -3,7 +3,8 @@
   padding: 40px 0;
 
   &-nsf{
-    color: darken($white,40%);
+    color: $quarternary-color;
+    font-family: $tertiary-font;
   }
   &-logo{
     margin-bottom: 0px;
