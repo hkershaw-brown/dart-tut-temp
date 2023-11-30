@@ -1,8 +1,8 @@
 ---
 title: "DART Scientist Moha Gharamti Named to BizWest 40 Under Forty"
-date: 2020-10-16T14:00:00-07:00
+date: 2023-10-16T14:00:00-07:00
 type: research
-image: "images/featured-articles/moha-gharamti.jpg"
+image: "images/hero/bizwest.jpg"
 hero: "images/hero/bizwest.jpg"
 figures:
  - image : "images/featured-articles/moha-gharamti.jpg"
@@ -22,12 +22,12 @@ Research Testbed (DART).
 
 Data assimilation is the process of synthesizing real-world observational data 
 into computational models in order to estimate the state of a physical system
-and improve the skill of model forecasts.
+and improve the skill of the model forecasts.
 
 His research has led to the creation of state-of-the-art algorithms for
 adaptive inflation and randomized dormant ensemble filtering that enhance the
-ability of data assimilation systems to function properly in the presence of
-model errors. These algorithms have been implemented in DART and are publically
+ability of data assimilation systems to function in the presence of model
+errors. These algorithms have been implemented in DART and are publically
 available for the geoscience community to use.
 
 Dr. Gharamti instructs at the graduate level both domestically at the
