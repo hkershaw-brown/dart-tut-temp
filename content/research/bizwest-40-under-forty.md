@@ -1,8 +1,8 @@
 ---
 title: "DART Scientist Moha Gharamti Named to BizWest 40 Under Forty"
-date: 2023-10-16T14:00:00-07:00
+date: 2020-10-16T14:00:00-07:00
 type: research
-image: "images/hero/bizwest.jpg"
+image: "images/featured-articles/moha-gharamti.jpg"
 hero: "images/hero/bizwest.jpg"
 figures:
  - image : "images/featured-articles/moha-gharamti.jpg"
