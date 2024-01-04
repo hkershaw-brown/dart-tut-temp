@@ -32,15 +32,19 @@ The Data Assimilation Research Testbed: A Community Facility.
 ## 2023
 ---
 
-![](/images/pin4.gif) **Risanto, C. B., J. M. Moker, A. F. Arellano, C. L. Castro, Y. L. Serra, T. M. Luong, and D. K. Adams**, 2023:  
+![](/images/pin4.gif) **Gaubert, B., D. P. Edwards, J. L. Anderson, A. F. Arellano, J. Barre, R. R. Buchholz, S. Darras, L. K. Emmons, D. Fillmore, C. Granier, J. W. Hannigan, I. Ortega, K. D. Raeder, A. Soulie, W. Tang, H. M. Worden, D. Ziskin**, 2023  
+   Global Scale Inversions from MOPITT CO and MODIS AOD.  
+   *Remote Sensing*, **15**, 4813, [doi.org/10.3390/rs15194813](https://doi.org/10.3390/rs15194813).
+
+![](/images/pin4.gif) **Risanto, C. B., J. M. Moker, A. F. Arellano, C. L. Castro, Y. L. Serra, T. M. Luong, and D. K. Adams**, 2023  
     On the Collective Importance of Model Physics and Data Assimilation on Mesoscale Convective System and Precipitation Forecasts over Complex Terrain.  
     *Monthly Weather Review*, **151**, 1993–2008, [doi.org/10.1175/MWR-D-22-0221.1](https://doi.org/10.1175/MWR-D-22-0221.1)
 
-![](/images/pin4.gif) **Chen, Y., Z. Shen, Y. Tang, and X. Song**, 2023:
+![](/images/pin4.gif) **Chen, Y., Z. Shen, Y. Tang, and X. Song**, 2023  
    Ocean data assimilation for the initialization of seasonal prediction with the Community Earth System Model.  
    *Ocean Modelling*, **183**, 102194, [doi.org/10.1016/j.ocemod.2023.102194](https://doi.org/10.1016/j.ocemod.2023.102194)
 
-![](/images/pin4.gif) **Kurosawa, K., and J. Poterjoy**, 2023:
+![](/images/pin4.gif) **Kurosawa, K., and J. Poterjoy**, 2023  
    A Statistical Hypothesis Testing Strategy for Adaptively Blending Particle Filters and Ensemble Kalman Filters for Data Assimilation.  
    *Monthly Weather Review*, **151**, 105–125, [doi.org/10.1175/MWR-D-22-0108.1](https://doi.org/10.1175/MWR-D-22-0108.1)
 
