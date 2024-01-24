@@ -28,6 +28,18 @@ The Data Assimilation Research Testbed: A Community Facility.
 
 
 ---
+## 2024
+---
+
+![](/images/pin4.gif) **Hsu C., D.K. Henze, A.P. Mizzi, G. González Abad, J. He, C. Harkins, A.R. Naeger, C. Lyu, X. Liu, C. Chan Miller, R.B. Pierce, M.S. Johnson & B.C. McDonald**, 2024  
+    An Observing System Simulation Experiment Analysis of How Well Geostationary Satellite Trace-Gas Observations Constrain NOx Emissions in the US.  
+    *Journal of Geophysical Research: Atmospheres*, **129**, e2023JD039323, [doi:10.1029/2023JD039323](https://doi.org/doi:10.1029/2023JD039323)
+
+![](/images/pin4.gif) **Britt K.C., P.S. Skinner, P.L. Heinselman, C.K. Potvin, M.L. Flora, B. Matilla, K.H. Knopfmeier & A.E. Reinhart**, 2024  
+    Verification of Quasi-Linear Convective Systems Predicted by the Warn-on-Forecast System (WoFS).  
+    *Weather and Forecasting*, **39**, 155-176, [doi:10.1175/WAF-D-23-0106.1](https://doi.org/doi:10.1175/WAF-D-23-0106.1)
+
+---
 ## 2023
 ---
 
@@ -78,6 +90,26 @@ The Data Assimilation Research Testbed: A Community Facility.
 ![](/images/pin4.gif) **Zhang J., J. Oberheide, N.M. Pedatella & N. Koushik**, 2023  
     Mesospheric Water Vapor From SABER as a Tracer for the Residual Mean Circulation During SSW Events.  
     *Journal of Geophysical Research: Atmospheres*, **128**, e2023JD039526, [doi:10.1029/2023JD039526](https://doi.org/doi:10.1029/2023JD039526)
+
+![](/images/pin4.gif) **Santer H., J. Poterjoy & J. McCurry**, 2023  
+    Evaluating Contour Band Depth as a Method for Understanding Ensemble Uncertainty.  
+    *Monthly Weather Review*, **151**, 2097-2113, [doi:10.1175/MWR-D-22-0281.1](https://doi.org/doi:10.1175/MWR-D-22-0281.1)
+
+![](/images/pin4.gif) **Huang C., C. Ma, T. Wang, Y. Qu, M. Li, S. Li, B. Zhuang & M. Xie**, 2023  
+    Study on the assimilation of the sulphate reaction rates based on WRF-Chem/DART.  
+    *Science China Earth Sciences*, **66**, 2239-2253, [doi:10.1007/s11430-023-1153-9](https://doi.org/doi:10.1007/s11430-023-1153-9)
+
+![](/images/pin4.gif) **Zhou Y., Y. Liu & W. Han**, 2023  
+    Demonstrating the Potential Impacts of Assimilating FY-4A Visible Radiances on Forecasts of Cloud and Precipitation with a Localized Particle Filter.  
+    *Monthly Weather Review*, **151**, 1167-1188, [doi:10.1175/MWR-D-22-0133.1](https://doi.org/doi:10.1175/MWR-D-22-0133.1)
+
+![](/images/pin4.gif) **Dibia E.C., R.H. Reichle, J.L. Anderson & X. Liang**, 2023  
+    Non-Gaussian Ensemble Filtering and Adaptive Inflation for Soil Moisture Data Assimilation.  
+    *Journal of Hydrometeorology*, **24**, 1039-1053, [doi:10.1175/JHM-D-22-0046.1](https://doi.org/doi:10.1175/JHM-D-22-0046.1)
+
+![](/images/pin4.gif) **Fomin V.V. & N.A. Diansky**, 2023  
+    Methods of Assimilation of Sea Surface Temperature Satellite Data and Their Influence on the Reconstruction of Hydrophysical Fields of the Black, Azov, and Marmara Seas Using the Institute of Numerical Mathematics Ocean Model (INMOM).  
+    *Russian Meteorology and Hydrology*, **48**, 97-108, [doi:10.3103/S1068373923020024](https://doi.org/doi:10.3103/S1068373923020024)
 
 ---
 ## 2022
@@ -134,6 +166,18 @@ The Data Assimilation Research Testbed: A Community Facility.
 ![](/images/pin4.gif) **Chen Y., Z. Shen & Y. Tang**, 2022  
     On Oceanic Initial State Errors in the Ensemble Data Assimilation for a Coupled General Circulation Model.  
     *Journal of Advances in Modeling Earth Systems*, **14**, e2022MS003106, [doi:10.1029/2022MS003106](https://doi.org/doi:10.1029/2022MS003106)
+
+![](/images/pin4.gif) **Poterjoy J.**, 2022  
+    Regularization and tempering for a moment-matching localized particle filter.  
+    *Quarterly Journal of the Royal Meteorological Society*, **148**, 2631-2651, [doi:10.1002/qj.4328](https://doi.org/doi:10.1002/qj.4328)
+
+![](/images/pin4.gif) **Forootan E., M. Kosary, S. Farzaneh, T. Kodikara, K. Vielberg, I. Fernandez-Gomez, C. Borries & M. Schumacher**, 2022  
+    Forecasting global and multi-level thermospheric neutral density and ionospheric electron content by tuning models against satellite-based accelerometer measurements.  
+    *Scientific Reports*, **12**, 2095, [doi:10.1038/s41598-022-05952-y](https://doi.org/doi:10.1038/s41598-022-05952-y)
+
+![](/images/pin4.gif) **Schwartz C.S., J. Poterjoy, J.R. Carley, D.C. Dowell, G.S. Romine & K. Ide**, 2022  
+    Comparing Partial and Continuously Cycling Ensemble Kalman Filter Data Assimilation Systems for Convection-Allowing Ensemble Forecast Initialization.  
+    *Weather and Forecasting*, **37**, 85-112, [doi:10.1175/WAF-D-21-0069.1](https://doi.org/doi:10.1175/WAF-D-21-0069.1)
 
 ---
 ## 2021
@@ -207,6 +251,22 @@ The Data Assimilation Research Testbed: A Community Facility.
     DART-PFLOTRAN: An ensemble-based data assimilation system for estimating subsurface flow and transport model parameters.  
     *Environmental Modelling & Software*, **142**, 105074, [doi:10.1016/j.envsoft.2021.105074](https://doi.org/doi:10.1016/j.envsoft.2021.105074)
 
+![](/images/pin4.gif) **Hoteit I., Y. Abualnaja, S. Afzal, B. Ait-El-Fquih, T. Akylas, C. Antony, C. Dawson, K. Asfahani, R.J. Brewin, L. Cavaleri, I. Cerovecki, B. Cornuelle, S. Desamsetti, R. Attada, H. Dasari, J. Sanchez-Garrido, L. Genevier, M.E. Gharamti, J.A. Gittings, E. Gokul, G. Gopalakrishnan, D. Guo, B. Hadri, M. Hadwiger, M.A. Hammoud, M. Hendershott, M. Hittawe, A. Karumuri, O. Knio, A. Köhl, S. Kortas, G. Krokos, R. Kunchala, L. Issa, I. Lakkis, S. Langodan, P. Lermusiaux, T. Luong, J. Ma, O.L. Maitre, M. Mazloff, S.E. Mohtar, V.P. Papadopoulos, T. Platt, L. Pratt, N. Raboudi, M. Racault, D.E. Raitsos, S. Razak, S. Sanikommu, S. Sathyendranath, S. Sofianos, A. Subramanian, R. Sun, E. Titi, H. Toye, G. Triantafyllou, K. Tsiaras, P. Vasou, Y. Viswanadhapalli, Y. Wang, F. Yao, P. Zhan & G. Zodiatis**, 2021  
+    Towards an End-to-End Analysis and Prediction System for Weather, Climate, and Marine Applications in the Red Sea.  
+    *Bulletin of the American Meteorological Society*, **102**, E99-E122, [doi:10.1175/BAMS-D-19-0005.1](https://doi.org/doi:10.1175/BAMS-D-19-0005.1)
+
+![](/images/pin4.gif) **Jensen A.A., J.O. Pinto, S.C.C. Bailey, R.A. Sobash, G. Boer, A.L. Houston, P.B. Chilson, T. Bell, G. Romine, S.W. Smith, D.A. Lawrence, C. Dixon, J.K. Lundquist, J.D. Jacob, J. Elston, S. Waugh & M. Steiner**, 2021  
+    Assimilation of a Coordinated Fleet of Uncrewed Aircraft System Observations in Complex Terrain: EnKF System Design and Preliminary Assessment.  
+    *Monthly Weather Review*, **149**, 1459-1480, [doi:10.1175/MWR-D-20-0359.1](https://doi.org/doi:10.1175/MWR-D-20-0359.1)
+
+![](/images/pin4.gif) **Zhang Y., M. Bushuk, M. Winton, B. Hurlin, X. Yang, T. Delworth & L. Jia**, 2021  
+    Assimilation of Satellite-Retrieved Sea Ice Concentration and Prospects for September Predictions of Arctic Sea Ice.  
+    *Journal of Climate*, **34**, 2107-2126, [doi:10.1175/JCLI-D-20-0469.1](https://doi.org/doi:10.1175/JCLI-D-20-0469.1)
+
+![](/images/pin4.gif) **McCormack J.P., V.L. Harvey, C.E. Randall, N. Pedatella, D. Koshin, K. Sato, L. Coy, S. Watanabe, F. Sassi & L.A. Holt**, 2021  
+    Intercomparison of middle atmospheric meteorological analyses for the Northern Hemisphere winter 2009–2010.  
+    *Atmospheric Chemistry and Physics*, **21**, 17577-17605, [doi:10.5194/acp-21-17577-2021](https://doi.org/doi:10.5194/acp-21-17577-2021)
+
 ---
 ## 2020
 ---
@@ -278,6 +338,18 @@ The Data Assimilation Research Testbed: A Community Facility.
 ![](/images/pin4.gif) **Gaubert B., L.K. Emmons, K. Raeder, S. Tilmes, K. Miyazaki, A.F. Arellano Jr., N. Elguindi, C. Granier, W. Tang, J. Barré, H.M. Worden, R.R. Buchholz, D.P. Edwards, P. Franke, J.L. Anderson, M. Saunois, J. Schroeder, J. Woo, I.J. Simpson, D.R. Blake, S. Meinardi, P.O. Wennberg, J. Crounse, A. Teng, M. Kim, R.R. Dickerson, H. He, X. Ren, S.E. Pusede & G.S. Diskin**, 2020  
     Correcting model biases of CO in East Asia: impact on oxidant distributions during KORUS-AQ.  
     *Atmospheric Chemistry and Physics*, **20**, 14617-14647, [doi:10.5194/acp-20-14617-2020](https://doi.org/doi:10.5194/acp-20-14617-2020)
+
+![](/images/pin4.gif) **Fabry F. & V. Meunier**, 2020  
+    Why Are Radar Data so Difficult to Assimilate Skillfully?.  
+    *Monthly Weather Review*, **148**, 2819-2836, [doi:10.1175/MWR-D-19-0374.1](https://doi.org/doi:10.1175/MWR-D-19-0374.1)
+
+![](/images/pin4.gif) **Necker T., M. Weissmann, Y. Ruckstuhl, J. Anderson & T. Miyoshi**, 2020  
+    Sampling Error Correction Evaluated Using a Convective-Scale 1000-Member Ensemble.  
+    *Monthly Weather Review*, **148**, 1229-1249, [doi:10.1175/MWR-D-19-0154.1](https://doi.org/doi:10.1175/MWR-D-19-0154.1)
+
+![](/images/pin4.gif) **Necker T., S. Geiss, M. Weissmann, J. Ruiz, T. Miyoshi & G. Lien**, 2020  
+    A convective-scale 1,000-member ensemble simulation and potential applications.  
+    *Quarterly Journal of the Royal Meteorological Society*, **146**, 1423-1442, [doi:10.1002/qj.3744](https://doi.org/doi:10.1002/qj.3744)
 
 ---
 ## 2019
