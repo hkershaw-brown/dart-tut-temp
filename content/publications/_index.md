@@ -16,13 +16,13 @@ searching for a given publication's title.
 To cite DART in your publication, please use this citation updating the DART
 version and year as appropriate:
 
-> The Data Assimilation Research Testbed (Version X.Y.Z) [Software]. (2024). Boulder, Colorado: NSF NCAR/CISL/DAReS. [http://doi.org/10.5065/D6WQ0202](http://doi.org/10.5065/D6WQ0202)  
+> The Data Assimilation Research Testbed (Version X.Y.Z) [Software]. (2024). Boulder, Colorado: NSF NCAR/CISL/DAReS. [http://doi.org/10.5065/D6WQ0202](http://doi.org/10.5065/D6WQ0202)
 
-The seminal reference is:   
+The seminal reference is:
 
 **Anderson, J. L., T. Hoar, K. Raeder, H. Liu, N. Collins, R. Torn
-and A. Arellano**, 2009  
-The Data Assimilation Research Testbed: A Community Facility.  
+and A. Arellano**, 2009
+The Data Assimilation Research Testbed: A Community Facility.
 *Bulletin of the American Meteorological Society*, **90**, 1283-1296,
 [doi:10.1175/2009BAMS2618.1](http://dx.doi.org/10.1175/2009BAMS2618.1)
 
@@ -111,6 +111,10 @@ The Data Assimilation Research Testbed: A Community Facility.
     Methods of Assimilation of Sea Surface Temperature Satellite Data and Their Influence on the Reconstruction of Hydrophysical Fields of the Black, Azov, and Marmara Seas Using the Institute of Numerical Mathematics Ocean Model (INMOM).  
     *Russian Meteorology and Hydrology*, **48**, 97-108, [doi:10.3103/S1068373923020024](https://doi.org/doi:10.3103/S1068373923020024)
 
+![](/images/pin4.gif) **Carrió D.S.**, 2023  
+    Improving the predictability of the Qendresa Medicane by the assimilation of conventional and atmospheric motion vector observations. Storm-scale analysis and short-range forecast.  
+    *Natural Hazards and Earth System Sciences*, **23**, 847-869, [doi:10.5194/nhess-23-847-2023](https://doi.org/doi:10.5194/nhess-23-847-2023)
+
 ---
 ## 2022
 ---
@@ -178,6 +182,38 @@ The Data Assimilation Research Testbed: A Community Facility.
 ![](/images/pin4.gif) **Schwartz C.S., J. Poterjoy, J.R. Carley, D.C. Dowell, G.S. Romine & K. Ide**, 2022  
     Comparing Partial and Continuously Cycling Ensemble Kalman Filter Data Assimilation Systems for Convection-Allowing Ensemble Forecast Initialization.  
     *Weather and Forecasting*, **37**, 85-112, [doi:10.1175/WAF-D-21-0069.1](https://doi.org/doi:10.1175/WAF-D-21-0069.1)
+
+![](/images/pin4.gif) **Huang Y., X. Wang, A. Mahre, T. Yu & D. Bodine**, 2022  
+    Impacts of Assimilating Future Clear-Air Radial Velocity Observations from Phased Array Radar on Convection Initiation Forecasts: An Observing System Simulation Experiment Study.  
+    *Monthly Weather Review*, **150**, 1563-1583, [doi:10.1175/MWR-D-21-0199.1](https://doi.org/doi:10.1175/MWR-D-21-0199.1)
+
+![](/images/pin4.gif) **Carrió D.S., A. Jansà, V. Homar, R. Romero, T. Rigo, C. Ramis, A. Hermoso & A. Maimó**, 2022  
+    Exploring the benefits of a Hi-EnKF system to forecast an extreme weather event. The 9th October 2018 catastrophic flash flood in Mallorca.  
+    *Atmospheric Research*, **265**, 105917, [doi:10.1016/j.atmosres.2021.105917](https://doi.org/doi:10.1016/j.atmosres.2021.105917)
+
+![](/images/pin4.gif) **Ancell B.C. & A.A. Coleman**, 2022  
+    New Perspectives on Ensemble Sensitivity Analysis with Applications to a Climatology of Severe Convection.  
+    *Bulletin of the American Meteorological Society*, **103**, E511-E530, [doi:10.1175/BAMS-D-20-0321.1](https://doi.org/doi:10.1175/BAMS-D-20-0321.1)
+
+![](/images/pin4.gif) **Laskar F.I., N.M. Pedatella, M.V. Codrescu, R.W. Eastes & W.E. McClintock**, 2022  
+    Improving the Thermosphere Ionosphere in a Whole Atmosphere Model by Assimilating GOLD Disk Temperatures.  
+    *Journal of Geophysical Research: Space Physics*, **127**, e2021JA030045, [doi:10.1029/2021JA030045](https://doi.org/doi:10.1029/2021JA030045)
+
+![](/images/pin4.gif) **Schwartz C.S., J. Poterjoy, G.S. Romine, D.C. Dowell, J.R. Carley & J. Bresch**, 2022  
+    Short-Term Convection-Allowing Ensemble Precipitation Forecast Sensitivity to Resolution of Initial Condition Perturbations and Central Initial States.  
+    *Weather and Forecasting*, **37**, 1259-1286, [doi:10.1175/WAF-D-21-0165.1](https://doi.org/doi:10.1175/WAF-D-21-0165.1)
+
+![](/images/pin4.gif) **Sodhi J.S. & F. Fabry**, 2022  
+    Benefits of Smoothing Backgrounds and Radar Reflectivity Observations for Multiscale Data Assimilation with an Ensemble Kalman Filter at Convective Scales: A Proof-of-Concept Study.  
+    *Monthly Weather Review*, **150**, 589-601, [doi:10.1175/MWR-D-21-0130.1](https://doi.org/doi:10.1175/MWR-D-21-0130.1)
+
+![](/images/pin4.gif) **Berman J.D. & R.D. Torn**, 2022  
+    The Sensitivity of Downstream Ridge Building Forecasts to Upstream Warm Conveyor Belt Forecast Uncertainty Using MPAS.  
+    *Monthly Weather Review*, **150**, 2573-2592, [doi:10.1175/MWR-D-21-0048.1](https://doi.org/doi:10.1175/MWR-D-21-0048.1)
+
+![](/images/pin4.gif) **Stratman D.R. & C.K. Potvin**, 2022  
+    Testing the Feature Alignment Technique (FAT) in an Ensemble-Based Data Assimilation and Forecast System with Multiple-Storm Scenarios.  
+    *Monthly Weather Review*, **150**, 2033-2054, [doi:10.1175/MWR-D-21-0289.1](https://doi.org/doi:10.1175/MWR-D-21-0289.1)
 
 ---
 ## 2021
@@ -267,6 +303,59 @@ The Data Assimilation Research Testbed: A Community Facility.
     Intercomparison of middle atmospheric meteorological analyses for the Northern Hemisphere winter 2009–2010.  
     *Atmospheric Chemistry and Physics*, **21**, 17577-17605, [doi:10.5194/acp-21-17577-2021](https://doi.org/doi:10.5194/acp-21-17577-2021)
 
+![](/images/pin4.gif) **Schwartz C.S., G.S. Romine & D.C. Dowell**, 2021  
+    Toward Unifying Short-Term and Next-Day Convection-Allowing Ensemble Forecast Systems with a Continuously Cycling 3-km Ensemble Kalman Filter over the Entire Conterminous United States.  
+    *Weather and Forecasting*, **36**, 379-405, [doi:10.1175/WAF-D-20-0110.1](https://doi.org/doi:10.1175/WAF-D-20-0110.1)
+
+![](/images/pin4.gif) **Zhang Q., M. Li, M. Wang, A.P. Mizzi, Y. Huang, C. Wei, J. Jin & Q. Gu**, 2021  
+    CO2 Flux over the Contiguous United States in 2016 Inverted by WRF-Chem/DART from OCO-2 XCO2 Retrievals.  
+    *Remote Sensing*, **13**, 2996, [doi:10.3390/rs13152996](https://doi.org/doi:10.3390/rs13152996)
+
+![](/images/pin4.gif) **Trier S.B., G.S. Romine, D.A. Ahijevych, R.A. Sobash & M.B. Chasteen**, 2021  
+    Relationship of Convection Initiation and Subsequent Storm Strength to Ensemble Simulated Environmental Conditions during IOP3b of VORTEX Southeast 2017.  
+    *Monthly Weather Review*, **149**, 3265-3287, [doi:10.1175/MWR-D-21-0111.1](https://doi.org/doi:10.1175/MWR-D-21-0111.1)
+
+![](/images/pin4.gif) **Patil A., B. Fersch, H. Hendricks Franssen & H. Kunstmann**, 2021  
+    Assimilation of Cosmogenic Neutron Counts for Improved Soil Moisture Prediction in a Distributed Land Surface Model.  
+    *Frontiers in Water*, **3**,  [doi:10.3389/frwa.2021.729592](https://doi.org/doi:10.3389/frwa.2021.729592)
+
+![](/images/pin4.gif) **Tangborn A., B. Demoz, B.J. Carroll, J. Santanello & J.L. Anderson**, 2021  
+    Assimilation of lidar planetary boundary layer height observations.  
+    *Atmospheric Measurement Techniques*, **14**, 1099-1110, [doi:10.5194/amt-14-1099-2021](https://doi.org/doi:10.5194/amt-14-1099-2021)
+
+![](/images/pin4.gif) **Hsu C. & N.M. Pedatella**, 2021  
+    Assessing the Impact of ICON/MIGHTI Zonal and Meridional Winds on Upper Atmosphere Weather Specification in a Whole Atmosphere Data Assimilation System: An Observing System Simulation Experiment.  
+    *Journal of Geophysical Research: Space Physics*, **126**, e2021JA029275, [doi:10.1029/2021JA029275](https://doi.org/doi:10.1029/2021JA029275)
+
+![](/images/pin4.gif) **Datta-Barua S., N. Pedatella, K. Greer, N. Wang, L. Nutter & V.L. Harvey**, 2021  
+    Lower Thermospheric Material Transport via Lagrangian Coherent Structures.  
+    *Journal of Geophysical Research: Space Physics*, **126**, e2020JA028834, [doi:10.1029/2020JA028834](https://doi.org/doi:10.1029/2020JA028834)
+
+![](/images/pin4.gif) **Hsu C., N.M. Pedatella & J.L. Anderson**, 2021  
+    Impact of Thermospheric Wind Data Assimilation on Ionospheric Electrodynamics Using a Coupled Whole Atmosphere Data Assimilation System.  
+    *Journal of Geophysical Research: Space Physics*, **126**, e2021JA029656, [doi:10.1029/2021JA029656](https://doi.org/doi:10.1029/2021JA029656)
+
+![](/images/pin4.gif) **Kerr C.A., L.J. Wicker & P.S. Skinner**, 2021  
+    Updraft-Based Adaptive Assimilation of Radial Velocity Observations in a Warn-on-Forecast System.  
+    *Weather and Forecasting*, **36**, 21-37, [doi:10.1175/WAF-D-19-0251.1](https://doi.org/doi:10.1175/WAF-D-19-0251.1)
+
+![](/images/pin4.gif) **Phillipson L., Y. Li & R. Toumi**, 2021  
+    Strongly Coupled Assimilation of a Hypothetical Ocean Current Observing Network within a Regional Ocean–Atmosphere Coupled Model: An OSSE Case Study of Typhoon Hato.  
+    *Monthly Weather Review*, **149**, 1317-1336, [doi:10.1175/MWR-D-20-0108.1](https://doi.org/doi:10.1175/MWR-D-20-0108.1)
+
+![](/images/pin4.gif) **Matsuo T. & C. Hsu**, 2021  
+    Inference of Hidden States by Coupled Thermosphere-Ionosphere Data Assimilation,  
+    *Upper Atmosphere Dynamics and Energetics*.  
+    Wang W., Y. Zhang & L.J. Paxton, American Geophysical Union, ISBN: 978-1-119-81563-1
+
+![](/images/pin4.gif) **Liu X., A.P. Mizzi, J.L. Anderson, I. Fung & R.C. Cohen**, 2021  
+    The potential for geostationary remote sensing of NO<sub>2</sub> to improve weather prediction.  
+    *Atmospheric Chemistry and Physics*, **21**, 9573-9583, [doi:10.5194/acp-21-9573-2021](https://doi.org/doi:10.5194/acp-21-9573-2021)
+
+![](/images/pin4.gif) **Fomin V.V., I.I. Panasenkova, A.V. Gusev, A.V. Chaplygin & N.A. Diansky**, 2021  
+    Operational Modeling System of the Arctic Ocean and Adjacent Waters Based on the Russian INMOM-Arctic Model.  
+    *Scientific Research in the Arctic*, **11**, 205-218, [doi:10.25283/2223-4594-2021-2-205-218](https://doi.org/doi:10.25283/2223-4594-2021-2-205-218)
+
 ---
 ## 2020
 ---
@@ -350,6 +439,38 @@ The Data Assimilation Research Testbed: A Community Facility.
 ![](/images/pin4.gif) **Necker T., S. Geiss, M. Weissmann, J. Ruiz, T. Miyoshi & G. Lien**, 2020  
     A convective-scale 1,000-member ensemble simulation and potential applications.  
     *Quarterly Journal of the Royal Meteorological Society*, **146**, 1423-1442, [doi:10.1002/qj.3744](https://doi.org/doi:10.1002/qj.3744)
+
+![](/images/pin4.gif) **Jayakrishnan K.U., G. Kutty & B. George**, 2020  
+    On the Predictability and Dynamics of Tropical Cyclone: Nargis (2008).  
+    *Journal of Geophysical Research: Atmospheres*, **125**, e2019JD032040, [doi:10.1029/2019JD032040](https://doi.org/doi:10.1029/2019JD032040)
+
+![](/images/pin4.gif) **Britt K.C., P.S. Skinner, P.L. Heinselman & K.H. Knopfmeier**, 2020  
+    Effects of Horizontal Grid Spacing and Inflow Environment on Forecasts of Cyclic Mesocyclogenesis in NSSL’s Warn-on-Forecast System (WoFS).  
+    *Weather and Forecasting*, **35**, 2423-2444, [doi:10.1175/WAF-D-20-0094.1](https://doi.org/doi:10.1175/WAF-D-20-0094.1)
+
+![](/images/pin4.gif) **Kerr C.A. & X. Wang**, 2020  
+    Ensemble-Based Targeted Observation Method Applied to Radar Radial Velocity Observations on Idealized Supercell Low-Level Rotation Forecasts: A Proof of Concept.  
+    *Monthly Weather Review*, **148**, 877-890, [doi:10.1175/MWR-D-19-0197.1](https://doi.org/doi:10.1175/MWR-D-19-0197.1)
+
+![](/images/pin4.gif) **Huang Y., X. Wang, C. Kerr, A. Mahre, T. Yu & D. Bodine**, 2020  
+    Impact of Assimilating Future Clear-Air Radial Velocity Observations from Phased-Array Radar on a Supercell Thunderstorm Forecast: An Observing System Simulation Experiment Study.  
+    *Monthly Weather Review*, **148**, 3825-3845, [doi:10.1175/MWR-D-19-0391.1](https://doi.org/doi:10.1175/MWR-D-19-0391.1)
+
+![](/images/pin4.gif) **Chen Y., W. Zhang & P. Wang**, 2020  
+    An application of the localized weighted ensemble Kalman filter for ocean data assimilation.  
+    *Quarterly Journal of the Royal Meteorological Society*, **146**, 3029-3047, [doi:10.1002/qj.3824](https://doi.org/doi:10.1002/qj.3824)
+
+![](/images/pin4.gif) **Lewis W.E., T.J. Wagner, J.A. Otkin & T.A. Jones**, 2020  
+    Impact of AERI Temperature and Moisture Retrievals on the Simulation of a Central Plains Severe Convective Weather Event.  
+    *Atmosphere*, **11**, 729, [doi:10.3390/atmos11070729](https://doi.org/doi:10.3390/atmos11070729)
+
+![](/images/pin4.gif) **Coleman A. & B. Ancell**, 2020  
+    Toward the Improvement of High-Impact Probabilistic Forecasts with a Sensitivity-Based Convective-Scale Ensemble Subsetting Technique.  
+    *Monthly Weather Review*, **148**, 4995-5014, [doi:10.1175/MWR-D-20-0043.1](https://doi.org/doi:10.1175/MWR-D-20-0043.1)
+
+![](/images/pin4.gif) **Wu Y., Z. Shen & Y. Tang**, 2020  
+    A Flow-Dependent Targeted Observation Method for Ensemble Kalman Filter Assimilation Systems.  
+    *Earth and Space Science*, **7**, e2020EA001149, [doi:10.1029/2020EA001149](https://doi.org/doi:10.1029/2020EA001149)
 
 ---
 ## 2019
@@ -546,6 +667,10 @@ The Data Assimilation Research Testbed: A Community Facility.
 ![](/images/pin4.gif) **Gaubert B., H.M. Worden, A.F.J. Arellano, L.K. Emmons, S. Tilmes, J. Barré, S. Martinez Alonso, F. Vitt, J.L. Anderson, F. Alkemade, S. Houweling & D.P. Edwards**, 2017  
     Chemical Feedback From Decreasing Carbon Monoxide Emissions.  
     *Geophysical Research Letters*, **44**, 9985-9995, [doi:10.1002/2017GL074987](https://doi.org/doi:10.1002/2017GL074987)
+
+![](/images/pin4.gif) **Li Y. & R. Toumi**, 2017  
+    A balanced Kalman filter ocean data assimilation system with application to the South Australian Sea.  
+    *Ocean Modelling*, **116**, 159-172, [doi:10.1016/j.ocemod.2017.06.007](https://doi.org/doi:10.1016/j.ocemod.2017.06.007)
 
 ---
 ## 2016
@@ -785,7 +910,7 @@ The Data Assimilation Research Testbed: A Community Facility.
 
 ![](/images/pin4.gif) **Rostkier-Edelstein D. & J.P. Hacker**, 2011  
     Experience and Conclusions from the Factor Separation Method: Ensemble Data Assimilation and Forecasting Applications,  
-    The Factor Separation Method in the Atmosphere - Applications and Future Prospects.  
+    *The Factor Separation Method in the Atmosphere - Applications and Future Prospects*.  
     Alpert P. & T. Sholokhman, Cambridge University Press, ISBN: 978-0-521-19173-9
 
 ![](/images/pin4.gif) **Pincus R., R.J.P. Hofmann, J.L. Anderson, K. Raeder, N. Collins & J.S. Whitaker**, 2011  
