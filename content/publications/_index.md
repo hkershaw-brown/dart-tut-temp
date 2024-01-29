@@ -672,6 +672,10 @@ The Data Assimilation Research Testbed: A Community Facility.
     Impacts of GNSS Radio Occultation Data on Predictions of Two Super-Intense Typhoons with WRF Hybrid Variational-Ensemble Data Assimilation.  
     *Journal of Aeronautics, Astronautics and Aviation*, **50**, 347-364, [doi:10.6125/JoAAA.201812_50(4).02](https://doi.org/doi:10.6125/JoAAA.201812_50(4).02)
 
+![](/images/pin4.gif) **Chen Y., M. Hsieh, H. Liu, L. Hsiao, L. Chang, C. Huang & Y. Kuo**, 2018  
+    Applications of Local Spectral Width on GPS RO Data Assimilation to Operational Typhoon Track Forecasts.  
+    *Journal of Aeronautics, Astronautics and Aviation*, **50**, 415-427, [doi:10.6125/JoAAA.201812_50(4).07](https://doi.org/doi:10.6125/JoAAA.201812_50(4).07)
+
 ---
 ## 2017
 ---
@@ -940,6 +944,10 @@ The Data Assimilation Research Testbed: A Community Facility.
     Evaluation of Wind Forecasts and Observation Impacts from Variational and Ensemble Data Assimilation for Wind Energy Applications.  
     *Monthly Weather Review*, **143**, 3230-3245, [doi:10.1175/MWR-D-15-0001.1](https://doi.org/doi:10.1175/MWR-D-15-0001.1)
 
+![](/images/pin4.gif) **Fernando H.J.S., E.R. Pardyjak, S.D. Sabatino, F.K. Chow, S.F.J.D. Wekker, S.W. Hoch, J. Hacker, J.C. Pace, T. Pratt, Z. Pu, W.J. Steenburgh, C.D. Whiteman, Y. Wang, D. Zajic, B. Balsley, R. Dimitrova, G.D. Emmitt, C.W. Higgins, J.C.R. Hunt, J.C. Knievel, D. Lawrence, Y. Liu, D.F. Nadeau, E. Kit, B.W. Blomquist, P. Conry, R.S. Coppersmith, E. Creegan, M. Felton, A. Grachev, N. Gunawardena, C. Hang, C.M. Hocut, G. Huynh, M.E. Jeglum, D. Jensen, V. Kulandaivelu, M. Lehner, L.S. Leo, D. Liberzon, J.D. Massey, K. McEnerney, S. Pal, T. Price, M. Sghiatti, Z. Silver, M. Thompson, H. Zhang & T. Zsedrovits**, 2015  
+    The MATERHORN: Unraveling the Intricacies of Mountain Weather.  
+    *Bulletin of the American Meteorological Society*, **96**, 1945-1967, [doi:10.1175/BAMS-D-13-00131.1](https://doi.org/doi:10.1175/BAMS-D-13-00131.1)
+
 ---
 ## 2014
 ---
@@ -988,6 +996,10 @@ The Data Assimilation Research Testbed: A Community Facility.
     Upper Atmosphere Data Assimilation With an Ensemble Kalman Filter,  
     *Modeling the Ionosphere–Thermosphere System*.  
     Huba J., R. Schunk & G. Khazanov, American Geophysical Union (AGU), ISBN: 978-1-118-70441-7
+
+![](/images/pin4.gif) **Rosolem R., T. Hoar, A. Arellano, J.L. Anderson, W.J. Shuttleworth, X. Zeng & T.E. Franz**, 2014  
+    Translating aboveground cosmic-ray neutron intensity to high-frequency soil moisture profiles at sub-kilometer scale.  
+    *Hydrology and Earth System Sciences*, **18**, 4363-4379, [doi:10.5194/hess-18-4363-2014](https://doi.org/doi:10.5194/hess-18-4363-2014)
 
 ---
 ## 2013
