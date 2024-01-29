@@ -8,6 +8,13 @@ aliases   :
 ## 2023
 ----
 
+![](/images/pin4.gif) **Jeff Anderson** Nov 2023 :
+    Presented at the 
+    [NSF NCAR ACOM Seminar Series](https://www2.acom.ucar.edu/seminars/acom-seminars-2023) 
+    in Boulder, CO and virtually <br />
+    Improving Analysis and Prediction of Chemical Tracers and Sources with Non-Gaussian, Nonlinear Ensemble Data Assimilation
+    [\[recording\]](https://www.youtube.com/watch?v=74Bpr5o3SbI)
+
 ![](/images/pin4.gif) **Kevin Raeder** Jan 2023 :
      Presented at the
      [103rd AMS Annual Meeting](https://annual.ametsoc.org/index.cfm/2023/program-events/)
