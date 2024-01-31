@@ -1028,6 +1028,58 @@ The Data Assimilation Research Testbed: A Community Facility.
     The MATERHORN: Unraveling the Intricacies of Mountain Weather.  
     *Bulletin of the American Meteorological Society*, **96**, 1945-1967, [doi:10.1175/BAMS-D-13-00131.1](https://doi.org/doi:10.1175/BAMS-D-13-00131.1)
 
+![](/images/pin4.gif) **Yussouf N., D.C. Dowell, L.J. Wicker, K.H. Knopfmeier & D.M. Wheatley**, 2015  
+    Storm-Scale Data Assimilation and Ensemble Forecasts for the 27 April 2011 Severe Weather Outbreak in Alabama.  
+    *Monthly Weather Review*, **143**, 3044-3066, [doi:10.1175/MWR-D-14-00268.1](https://doi.org/doi:10.1175/MWR-D-14-00268.1)
+
+![](/images/pin4.gif) **Bednarczyk C.N. & B.C. Ancell**, 2015  
+    Ensemble Sensitivity Analysis Applied to a Southern Plains Convective Event.  
+    *Monthly Weather Review*, **143**, 230-249, [doi:10.1175/MWR-D-13-00321.1](https://doi.org/doi:10.1175/MWR-D-13-00321.1)
+
+![](/images/pin4.gif) **Jones T.A., D. Stensrud, L. Wicker, P. Minnis & R. Palikonda**, 2015  
+    Simultaneous Radar and Satellite Data Storm-Scale Assimilation Using an Ensemble Kalman Filter Approach for 24 May 2011.  
+    *Monthly Weather Review*, **143**, 165-194, [doi:10.1175/MWR-D-14-00180.1](https://doi.org/doi:10.1175/MWR-D-14-00180.1)
+
+![](/images/pin4.gif) **Sobash R.A. & D.J. Stensrud**, 2015  
+    Assimilating Surface Mesonet Observations with the EnKF to Improve Ensemble Forecasts of Convection Initiation on 29 May 2012.  
+    *Monthly Weather Review*, **143**, 3700-3725, [doi:10.1175/MWR-D-14-00126.1](https://doi.org/doi:10.1175/MWR-D-14-00126.1)
+
+![](/images/pin4.gif) **Karspeck A., S. Yeager, G. Danabasoglu & H. Teng**, 2015  
+    An evaluation of experimental decadal predictions using CCSM4.  
+    *Climate Dynamics*, **44**, 907-923, [doi:10.1007/s00382-014-2212-7](https://doi.org/doi:10.1007/s00382-014-2212-7)
+
+![](/images/pin4.gif) **Wu T., C.S. Velden, S.J. Majumdar, H. Liu & J.L. Anderson**, 2015  
+    Understanding the Influence of Assimilating Subsets of Enhanced Atmospheric Motion Vectors on Numerical Analyses and Forecasts of Tropical Cyclone Track and Intensity with an Ensemble Kalman Filter.  
+    *Monthly Weather Review*, **143**, 2506-2531, [doi:10.1175/MWR-D-14-00220.1](https://doi.org/doi:10.1175/MWR-D-14-00220.1)
+
+![](/images/pin4.gif) **Jones T.A. & D.J. Stensrud**, 2015  
+    Assimilating Cloud Water Path as a Function of Model Cloud Microphysics in an Idealized Simulation.  
+    *Monthly Weather Review*, **143**, 2052-2081, [doi:10.1175/MWR-D-14-00266.1](https://doi.org/doi:10.1175/MWR-D-14-00266.1)
+
+![](/images/pin4.gif) **Viskari T., B. Hardiman, A.R. Desai & M.C. Dietze**, 2015  
+    Model-data assimilation of multiple phenological observations to constrain and predict leaf area index.  
+    *Ecological Applications*, **25**, 546-558, [doi:10.1890/14-0497.1](https://doi.org/doi:10.1890/14-0497.1)
+
+![](/images/pin4.gif) **Kerr C.A., D.J. Stensrud & X. Wang**, 2015  
+    Assimilation of Cloud-Top Temperature and Radar Observations of an Idealized Splitting Supercell Using an Observing System Simulation Experiment.  
+    *Monthly Weather Review*, **143**, 1018-1034, [doi:10.1175/MWR-D-14-00146.1](https://doi.org/doi:10.1175/MWR-D-14-00146.1)
+
+![](/images/pin4.gif) **Brown B.R. & G.J. Hakim**, 2015  
+    Sensitivity of intensifying Atlantic hurricanes to vortex structure.  
+    *Quarterly Journal of the Royal Meteorological Society*, **141**, 2538-2551, [doi:10.1002/qj.2540](https://doi.org/doi:10.1002/qj.2540)
+
+![](/images/pin4.gif) **Kwon Y., A.M. Toure, Z. Yang, M. Rodell & G. Picard**, 2015  
+    Error Characterization of Coupled Land Surface-Radiative Transfer Models for Snow Microwave Radiance Assimilation.  
+    *IEEE Transactions on Geoscience and Remote Sensing*, **53**, 5247-5268, [doi:10.1109/TGRS.2015.2419977](https://doi.org/doi:10.1109/TGRS.2015.2419977)
+
+![](/images/pin4.gif) **Wile S.M., J.P. Hacker & K.H. Chilcoat**, 2015  
+    The Potential Utility of High-Resolution Ensemble Sensitivity Analysis for Observation Placement during Weak Flow in Complex Terrain.  
+    *Weather and Forecasting*, **30**, 1521-1536, [doi:10.1175/WAF-D-14-00066.1](https://doi.org/doi:10.1175/WAF-D-14-00066.1)
+
+![](/images/pin4.gif) **Hollan M.A. & B.C. Ancell**, 2015  
+    Ensemble Mean Storm-Scale Performance in the Presence of Nonlinearity.  
+    *Monthly Weather Review*, **143**, 5115-5133, [doi:10.1175/MWR-D-14-00417.1](https://doi.org/doi:10.1175/MWR-D-14-00417.1)
+
 ---
 ## 2014
 ---
