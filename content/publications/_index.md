@@ -1133,6 +1133,58 @@ The Data Assimilation Research Testbed: A Community Facility.
     Translating aboveground cosmic-ray neutron intensity to high-frequency soil moisture profiles at sub-kilometer scale.  
     *Hydrology and Earth System Sciences*, **18**, 4363-4379, [doi:10.5194/hess-18-4363-2014](https://doi.org/doi:10.5194/hess-18-4363-2014)
 
+![](/images/pin4.gif) **Mass C.F. & L.E. Madaus**, 2014  
+    Surface Pressure Observations from Smartphones: A Potential Revolution for High-Resolution Weather Prediction?  
+    *Bulletin of the American Meteorological Society*, **95**, 1343-1349, [doi:10.1175/BAMS-D-13-00188.1](https://doi.org/doi:10.1175/BAMS-D-13-00188.1)
+
+![](/images/pin4.gif) **Wheatley D.M., N. Yussouf & D.J. Stensrud**, 2014  
+    Ensemble Kalman Filter Analyses and Forecasts of a Severe Mesoscale Convective System Using Different Choices of Microphysics Schemes.  
+    *Monthly Weather Review*, **142**, 3243-3263, [doi:10.1175/MWR-D-13-00260.1](https://doi.org/doi:10.1175/MWR-D-13-00260.1)
+
+![](/images/pin4.gif) **Schumacher R.S. & A.J. Clark**, 2014  
+    Evaluation of Ensemble Configurations for the Analysis and Prediction of Heavy-Rain-Producing Mesoscale Convective Systems.  
+    *Monthly Weather Review*, **142**, 4108-4138, [doi:10.1175/MWR-D-13-00357.1](https://doi.org/doi:10.1175/MWR-D-13-00357.1)
+
+![](/images/pin4.gif) **Madaus L.E., G.J. Hakim & C.F. Mass**, 2014  
+    Utility of Dense Pressure Observations for Improving Mesoscale Analyses and Forecasts.  
+    *Monthly Weather Review*, **142**, 2398-2413, [doi:10.1175/MWR-D-13-00269.1](https://doi.org/doi:10.1175/MWR-D-13-00269.1)
+
+![](/images/pin4.gif) **Jones T.A., J.A. Otkin, D.J. Stensrud & K. Knopfmeier**, 2014  
+    Forecast Evaluation of an Observing System Simulation Experiment Assimilating Both Radar and Satellite Data.  
+    *Monthly Weather Review*, **142**, 107-124, [doi:10.1175/MWR-D-13-00151.1](https://doi.org/doi:10.1175/MWR-D-13-00151.1)
+
+![](/images/pin4.gif) **Lei L. & J.L. Anderson**, 2014  
+    Comparisons of Empirical Localization Techniques for Serial Ensemble Kalman Filters in a Simple Atmospheric General Circulation Model.  
+    *Monthly Weather Review*, **142**, 739-754, [doi:10.1175/MWR-D-13-00152.1](https://doi.org/doi:10.1175/MWR-D-13-00152.1)
+
+![](/images/pin4.gif) **Torn R.D.**, 2014  
+    The Impact of Targeted Dropwindsonde Observations on Tropical Cyclone Intensity Forecasts of Four Weak Systems during PREDICT.  
+    *Monthly Weather Review*, **142**, 2860-2878, [doi:10.1175/MWR-D-13-00284.1](https://doi.org/doi:10.1175/MWR-D-13-00284.1)
+
+![](/images/pin4.gif) **Zhang H. & Z. Pu**, 2014  
+    Influence of Assimilating Surface Observations on Numerical Prediction of Landfalls of Hurricane Katrina (2005) with an Ensemble Kalman Filter.  
+    *Monthly Weather Review*, **142**, 2915-2934, [doi:10.1175/MWR-D-14-00014.1](https://doi.org/doi:10.1175/MWR-D-14-00014.1)
+
+![](/images/pin4.gif) **Majumdar S.J. & R.D. Torn**, 2014  
+    Probabilistic Verification of Global and Mesoscale Ensemble Forecasts of Tropical Cyclogenesis.  
+    *Weather and Forecasting*, **29**, 1181-1198, [doi:10.1175/WAF-D-14-00028.1](https://doi.org/doi:10.1175/WAF-D-14-00028.1)
+
+![](/images/pin4.gif) **Lei L. & J.L. Anderson**, 2014  
+    Empirical Localization of Observations for Serial Ensemble Kalman Filter Data Assimilation in an Atmospheric General Circulation Model.  
+    *Monthly Weather Review*, **142**, 1835-1851, [doi:10.1175/MWR-D-13-00288.1](https://doi.org/doi:10.1175/MWR-D-13-00288.1)
+
+![](/images/pin4.gif) **Rubin J.I. & W.D. Collins**, 2014  
+    Global simulations of aerosol amount and size using MODIS observations assimilated with an Ensemble Kalman Filter.  
+    *Journal of Geophysical Research: Atmospheres*, **119**, 12,780-12,806, [doi:10.1002/2014JD021627](https://doi.org/doi:10.1002/2014JD021627)
+
+![](/images/pin4.gif) **Kolczynski W.C. & J.P. Hacker**, 2014  
+    The Potential for Self-Organizing Maps to Identify Model Error Structures.  
+    *Monthly Weather Review*, **142**, 1688-1696, [doi:10.1175/MWR-D-13-00189.1](https://doi.org/doi:10.1175/MWR-D-13-00189.1)
+
+![](/images/pin4.gif) **Dhanya M. & A. Chandrasekar**, 2014  
+    Improved Rainfall Simulation by Assimilating Oceansat-2 Surface Winds Using Ensemble Kalman Filter for a Heavy Rainfall Event over South India.  
+    *IEEE Transactions on Geoscience and Remote Sensing*, **52**, 7721-7726, [doi:10.1109/TGRS.2014.2317501](https://doi.org/doi:10.1109/TGRS.2014.2317501)
+
 ---
 ## 2013
 ---
