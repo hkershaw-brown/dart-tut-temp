@@ -1229,6 +1229,87 @@ The Data Assimilation Research Testbed: A Community Facility.
     Ensemble Kalman filter assimilation of near-surface observations over complex terrain: comparison with 3DVAR for short-range forecasts.  
     *Tellus A: Dynamic Meteorology and Oceanography*, **65**, 19620, [doi:10.3402/tellusa.v65i0.19620](https://doi.org/doi:10.3402/tellusa.v65i0.19620)
 
+![](/images/pin4.gif) **Stensrud D.J., L.J. Wicker, M. Xue, D.T. Dawson, N. Yussouf, D.M. Wheatley, T.E. Thompson, N.A. Snook, T.M. Smith, A.D. Schenkman, C.K. Potvin, E.R. Mansell, T. Lei, K.M. Kuhlman, Y. Jung, T.A. Jones, J. Gao, M.C. Coniglio, H.E. Brooks & K.A. Brewster**, 2013  
+    Progress and challenges with Warn-on-Forecast.  
+    *Atmospheric Research*, **123**, 2-16, [doi:10.1016/j.atmosres.2012.04.004](https://doi.org/doi:10.1016/j.atmosres.2012.04.004)
+
+![](/images/pin4.gif) **Yussouf N., E.R. Mansell, L.J. Wicker, D.M. Wheatley & D.J. Stensrud**, 2013  
+    The Ensemble Kalman Filter Analyses and Forecasts of the 8 May 2003 Oklahoma City Tornadic Supercell Storm Using Single- and Double-Moment Microphysics Schemes.  
+    *Monthly Weather Review*, **141**, 3388-3412, [doi:10.1175/MWR-D-12-00237.1](https://doi.org/doi:10.1175/MWR-D-12-00237.1)
+
+![](/images/pin4.gif) **Anderson J. & L. Lei**, 2013  
+    Empirical Localization of Observation Impact in Ensemble Kalman Filters.  
+    *Monthly Weather Review*, **141**, 4140-4153, [doi:10.1175/MWR-D-12-00330.1](https://doi.org/doi:10.1175/MWR-D-12-00330.1)
+
+![](/images/pin4.gif) **Shuttleworth J., R. Rosolem, M. Zreda & T. Franz**, 2013  
+    The COsmic-ray Soil Moisture Interaction Code (COSMIC) for use in data assimilation.  
+    *Hydrology and Earth System Sciences*, **17**, 3205-3217, [doi:10.5194/hess-17-3205-2013](https://doi.org/doi:10.5194/hess-17-3205-2013)
+
+![](/images/pin4.gif) **Schirber S., D. Klocke, R. Pincus, J. Quaas & J.L. Anderson**, 2013  
+    Parameter estimation using data assimilation in an atmospheric general circulation model: From a perfect toward the real world.  
+    *Journal of Advances in Modeling Earth Systems*, **5**, 58-70, [doi:10.1029/2012MS000167](https://doi.org/doi:10.1029/2012MS000167)
+
+![](/images/pin4.gif) **Karspeck A.R., S. Yeager, G. Danabasoglu, T. Hoar, N. Collins, K. Raeder, J. Anderson & J. Tribbia**, 2013  
+    An Ensemble Adjustment Kalman Filter for the CCSM4 Ocean Component.  
+    *Journal of Climate*, **26**, 7392-7413, [doi:10.1175/JCLI-D-12-00402.1](https://doi.org/doi:10.1175/JCLI-D-12-00402.1)
+
+![](/images/pin4.gif) **Fang X. & Y. Kuo**, 2013  
+    Improving Ensemble-Based Quantitative Precipitation Forecasts for Topography-Enhanced Typhoon Heavy Rainfall over Taiwan with a Modified Probability-Matching Technique.  
+    *Monthly Weather Review*, **141**, 3908-3932, [doi:10.1175/MWR-D-13-00012.1](https://doi.org/doi:10.1175/MWR-D-13-00012.1)
+
+![](/images/pin4.gif) **Cavallo S.M., R.D. Torn, C. Snyder, C. Davis, W. Wang & J. Done**, 2013  
+    Evaluation of the Advanced Hurricane WRF Data Assimilation System for the 2009 Atlantic Hurricane Season.  
+    *Monthly Weather Review*, **141**, 523-541, [doi:10.1175/MWR-D-12-00139.1](https://doi.org/doi:10.1175/MWR-D-12-00139.1)
+
+![](/images/pin4.gif) **Chang E.K.M., M. Zheng & K. Raeder**, 2013  
+    Medium-Range Ensemble Sensitivity Analysis of Two Extreme Pacific Extratropical Cyclones.  
+    *Monthly Weather Review*, **141**, 211-231, [doi:10.1175/MWR-D-11-00304.1](https://doi.org/doi:10.1175/MWR-D-11-00304.1)
+
+![](/images/pin4.gif) **Jones T.A., D.J. Stensrud, P. Minnis & R. Palikonda**, 2013  
+    Evaluation of a Forward Operator to Assimilate Cloud Water Path into WRF-DART.  
+    *Monthly Weather Review*, **141**, 2272-2289, [doi:10.1175/MWR-D-12-00238.1](https://doi.org/doi:10.1175/MWR-D-12-00238.1)
+
+![](/images/pin4.gif) **Jones T.A., J.A. Otkin, D.J. Stensrud & K. Knopfmeier**, 2013  
+    Assimilation of Satellite Infrared Radiances and Doppler Radar Observations during a Cool Season Observing System Simulation Experiment.  
+    *Monthly Weather Review*, **141**, 3273-3299, [doi:10.1175/MWR-D-12-00267.1](https://doi.org/doi:10.1175/MWR-D-12-00267.1)
+
+![](/images/pin4.gif) **Torn R.D. & D. Cook**, 2013  
+    The Role of Vortex and Environment Errors in Genesis Forecasts of Hurricanes Danielle and Karl (2010).  
+    *Monthly Weather Review*, **141**, 232-251, [doi:10.1175/MWR-D-12-00086.1](https://doi.org/doi:10.1175/MWR-D-12-00086.1)
+
+![](/images/pin4.gif) **Yussouf N., J. Gao, D.J. Stensrud & G. Ge**, 2013  
+    The Impact of Mesoscale Environmental Uncertainty on the Prediction of a Tornadic Supercell Storm Using Ensemble Data Assimilation Approach.  
+    *Advances in Meteorology*, **2013**, e731647, [doi:10.1155/2013/731647](https://doi.org/doi:10.1155/2013/731647)
+
+![](/images/pin4.gif) **Khade V.M., J.A. Hansen, J.S. Reid & D.L. Westphal**, 2013  
+    Ensemble filter based estimation of spatially distributed parameters in a mesoscale dust model: experiments with simulated and real data.  
+    *Atmospheric Chemistry and Physics*, **13**, 3481-3500, [doi:10.5194/acp-13-3481-2013](https://doi.org/doi:10.5194/acp-13-3481-2013)
+
+![](/images/pin4.gif) **Pedatella N.M., K. Raeder, J.L. Anderson & H. Liu**, 2013  
+    Application of data assimilation in the Whole Atmosphere Community Climate Model to the study of day-to-day variability in the middle and upper atmosphere.  
+    *Geophysical Research Letters*, **40**, 4469-4474, [doi:10.1002/grl.50884](https://doi.org/doi:10.1002/grl.50884)
+
+![](/images/pin4.gif) **Hakkarainen J., A. Solonen, A. Ilin, J. Susiluoto, M. Laine, H. Haario & H. Järvinen**, 2013  
+    A dilemma of the uniqueness of weather and climate model closure parameters.  
+    *Tellus A: Dynamic Meteorology and Oceanography*, **65**, 20147, [doi:10.3402/tellusa.v65i0.20147](https://doi.org/doi:10.3402/tellusa.v65i0.20147)
+
+![](/images/pin4.gif) **Žagar N., L. Isaksen, D. Tan & J. Tribbia**, 2013  
+    Balance properties of the short-range forecast errors in the ECMWF 4D-Var ensemble.  
+    *Quarterly Journal of the Royal Meteorological Society*, **139**, 1229-1238, [doi:10.1002/qj.2033](https://doi.org/doi:10.1002/qj.2033)
+
+![](/images/pin4.gif) **Knopfmeier K.H. & D.J. Stensrud**, 2013  
+    Influence of Mesonet Observations on the Accuracy of Surface Analyses Generated by an Ensemble Kalman Filter.  
+    *Weather and Forecasting*, **28**, 815-841, [doi:10.1175/WAF-D-12-00078.1](https://doi.org/doi:10.1175/WAF-D-12-00078.1)
+
+![](/images/pin4.gif) **Nadiga B.T., W.R. Casper & P.W. Jones**, 2013  
+    Ensemble-based global ocean data assimilation.  
+    *Ocean Modelling*, **72**, 210-230, [doi:10.1016/j.ocemod.2013.09.002](https://doi.org/doi:10.1016/j.ocemod.2013.09.002)
+
+![](/images/pin4.gif) **Hodyss D. & A. Reinecke**, 2013  
+    Skewness of the Prior Through Position Errors and Its Impact on Data Assimilation,  
+    *Data Assimilation for Atmospheric, Oceanic and Hydrologic Applications (Vol. II)*.  
+    Park S.K. & L. Xu, Springer, ISBN: 978-3-642-35088-7
+
 ---
 ## 2012
 ---
