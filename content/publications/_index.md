@@ -1378,6 +1378,11 @@ The Data Assimilation Research Testbed: A Community Facility.
     Application of a WRF Mesoscale Data Assimilation System to Springtime Severe Weather Events 2007–09.  
     *Monthly Weather Review*, **140**, 1539-1557, [doi:10.1175/MWR-D-11-00106.1](https://doi.org/doi:10.1175/MWR-D-11-00106.1)
 
+![](/images/pin4.gif) **Doyle J.D., Y. Jin, R.M. Hodur, S. Chen, H. Jin, J. Moskaitis, A. Reinecke, P. Black, J. Cummings, E. Hendricks, T. Holt, C. Liou, M. Peng, C. Reynolds, K. Sashegyi, J. Schmidt & S. Wang**, 2012  
+    Real-Time Tropical Cyclone Prediction using COAMPS-TC,  
+    *Advances in Geosciences*.  
+    Wu C. & J. Gan, World Scientific Publishing Company, ISBN: 978-981-4405-67-6
+
 ---
 ## 2011
 ---
