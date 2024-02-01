@@ -1419,6 +1419,10 @@ The Data Assimilation Research Testbed: A Community Facility.
     High-Resolution Hurricane Forecasts.  
     *Computing in Science & Engineering*, **13**, 22-30, [doi:10.1109/MCSE.2010.74](https://doi.org/doi:10.1109/MCSE.2010.74)
 
+![](/images/pin4.gif) **Michel Y., T. Auligné & T. Montmerle**, 2011  
+    Heterogeneous Convective-Scale Background Error Covariances with the Inclusion of Hydrometeor Variables.  
+    *Monthly Weather Review*, **139**, 2994-3015, [doi:10.1175/2011MWR3632.1](https://doi.org/doi:10.1175/2011MWR3632.1)
+
 ---
 ## 2010
 ---
