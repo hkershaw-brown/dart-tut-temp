@@ -1358,6 +1358,26 @@ The Data Assimilation Research Testbed: A Community Facility.
     Assimilation of water vapor sensitive infrared brightness temperature observations during a high impact weather event.  
     *Journal of Geophysical Research: Atmospheres*, **117**,  [doi:10.1029/2012JD017568](https://doi.org/doi:10.1029/2012JD017568)
 
+![](/images/pin4.gif) **Marquis J., Y. Richardson, P. Markowski, D. Dowell & J. Wurman**, 2012  
+    Tornado Maintenance Investigated with High-Resolution Dual-Doppler and EnKF Analysis.  
+    *Monthly Weather Review*, **140**, 3-27, [doi:10.1175/MWR-D-11-00025.1](https://doi.org/doi:10.1175/MWR-D-11-00025.1)
+
+![](/images/pin4.gif) **Torn R.D. & C.A. Davis**, 2012  
+    The Influence of Shallow Convection on Tropical Cyclone Track Forecasts.  
+    *Monthly Weather Review*, **140**, 2188-2197, [doi:10.1175/MWR-D-11-00246.1](https://doi.org/doi:10.1175/MWR-D-11-00246.1)
+
+![](/images/pin4.gif) **Liu H., J. Anderson & Y. Kuo**, 2012  
+    Improved Analyses and Forecasts of Hurricane Ernesto’s Genesis Using Radio Occultation Data in an Ensemble Filter Assimilation System.  
+    *Monthly Weather Review*, **140**, 151-166, [doi:10.1175/MWR-D-11-00024.1](https://doi.org/doi:10.1175/MWR-D-11-00024.1)
+
+![](/images/pin4.gif) **Jones T.A. & D.J. Stensrud**, 2012  
+    Assimilating AIRS Temperature and Mixing Ratio Profiles Using an Ensemble Kalman Filter Approach for Convective-Scale Forecasts.  
+    *Weather and Forecasting*, **27**, 541-564, [doi:10.1175/WAF-D-11-00090.1](https://doi.org/doi:10.1175/WAF-D-11-00090.1)
+
+![](/images/pin4.gif) **Wheatley D.M., D.J. Stensrud, D.C. Dowell & N. Yussouf**, 2012  
+    Application of a WRF Mesoscale Data Assimilation System to Springtime Severe Weather Events 2007–09.  
+    *Monthly Weather Review*, **140**, 1539-1557, [doi:10.1175/MWR-D-11-00106.1](https://doi.org/doi:10.1175/MWR-D-11-00106.1)
+
 ---
 ## 2011
 ---
