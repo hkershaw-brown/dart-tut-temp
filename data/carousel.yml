@@ -2,11 +2,17 @@ enable  : true
 title   : "Benefits of DART"
 carousel_item :
 
-  - background_image : "images/hero/bizwest.jpg"
-    heading  : "SHAPING THE FUTURE OF BOULDER: DART SCIENTIST MOHA GHARAMTI"
-    tagline: "BizWest 40 Under Forty Honoree"
-    primary_button : "DART Scientist Honored"
-    url : "research/bizwest-40-under-forty"
+  - background_image : "images/hero/foothills-of-the-brooks-range.jpg"
+    heading  : "CLM+DART RESEARCH ON BOREAL AND ARCTIC FORESTS"
+    tagline: "Featured project: Arizona, Wisconsin, NASA, NCAR, DOE Collaboration"
+    primary_button : "Improving estimates of Gross Primary Productivity"
+    url : "research/research-of-the-remote-arctic"
+
+  - background_image : "images/hero/aether.jpg"
+    heading  : "NEXT-GENERATION SPACE WEATHER PREDICTION"
+    tagline: "Featured project: University of Michigan, NCAR, NASA & NRL Collaboration"
+    primary_button : "AETHER: THERMOSPHERE & IONOSPHERE FORECASTING"
+    url : "research/aether"
   
   - background_image : "images/hero/cam6-reanalysis.jpg"
     heading  : "THE CAM6+DART REANALYSIS FOR EARTH SYSTEM SCIENCE"
@@ -25,12 +31,6 @@ carousel_item :
     tagline: "Featured project: Computational & Information Systems Lab & Research Applications Lab Collaboration"
     primary_button : "DART + WRF-HYDRO ENHANCES FLOOD FORECASTING"
     url : "research/wrf-hydro"
-  
-  - background_image : "images/hero/aether.jpg"
-    heading  : "NEXT-GENERATION SPACE WEATHER PREDICTION"
-    tagline: "Featured project: University of Michigan, NCAR, NASA & NRL Collaboration"
-    primary_button : "AETHER: THERMOSPHERE & IONOSPHERE FORECASTING"
-    url : "research/aether"
 
   - background_image : "images/hero/roms.jpg"
     heading  : "UNDERSTANDING GULF OF MEXICO EDDY DYNAMICS"

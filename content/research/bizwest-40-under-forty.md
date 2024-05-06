@@ -1,6 +1,6 @@
 ---
-title: "DART Scientist Moha Gharamti Named to BizWest 40 Under Forty"
-date: 2020-10-16T14:00:00-07:00
+title: "Moha Gharamti Named to Boulder 40 Under Forty"
+date: 2023-09-27T14:00:00-07:00
 type: research
 image: "images/featured-articles/moha-gharamti.jpg"
 hero: "images/hero/bizwest.jpg"
@@ -10,7 +10,7 @@ figures:
    Grace Place in Berthoud, Colorado on September 27, 2023."
 
 category: ["AWARDS"]
-weight: 30
+weight: 9
 ---
 
 NCAR Scientist Moha Gharamti, PhD, was recognized as one of the 40 Under Forty
