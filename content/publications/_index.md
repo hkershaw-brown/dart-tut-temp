@@ -139,6 +139,10 @@ The Data Assimilation Research Testbed: A Community Facility.
     Improving the predictability of the Qendresa Medicane by the assimilation of conventional and atmospheric motion vector observations. Storm-scale analysis and short-range forecast.  
     *Natural Hazards and Earth System Sciences*, **23**, 847-869, [doi:10.5194/nhess-23-847-2023](https://doi.org/doi:10.5194/nhess-23-847-2023)
 
+![](/images/pin4.gif) **Sanikommu S., S. Langodan, H.P. Dasari, P. Zhan, G. Krokos, Y.O. Abualnaja, K. Asfahani & I. Hoteit**, 2023  
+    Making the Case for High-Resolution Regional Ocean Reanalyses: An Example with the Red Sea.  
+    *Bulletin of the American Meteorological Society*,  [doi:10.1175/BAMS-D-21-0287.1](https://doi.org/doi:10.1175/BAMS-D-21-0287.1)
+
 ---
 ## 2022
 ---
@@ -507,6 +511,10 @@ The Data Assimilation Research Testbed: A Community Facility.
 ![](/images/pin4.gif) **Eliashiv J., A.C. Subramanian & A.J. Miller**, 2020  
     A Reliability Budget Analysis of CESM-DART.  
     *Journal of Advances in Modeling Earth Systems*, **12**, e2019MS001678, [doi:10.1029/2019MS001678](https://doi.org/doi:10.1029/2019MS001678)
+
+![](/images/pin4.gif) **Sanikommu S., H. Toye, P. Zhan, S. Langodan, G. Krokos, O. Knio & I. Hoteit**, 2020  
+    Impact of Atmospheric and Model Physics Perturbations on a High-Resolution Ensemble Data Assimilation System of the Red Sea.  
+    *Journal of Geophysical Research: Oceans*, **125**, e2019JC015611, [doi:10.1029/2019JC015611](https://doi.org/doi:10.1029/2019JC015611)
 
 ---
 ## 2019
