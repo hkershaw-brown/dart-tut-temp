@@ -63,6 +63,10 @@ The Data Assimilation Research Testbed: A Community Facility.
     A Quantile-Conserving Ensemble Filter Framework. Part III: Data Assimilation for Mixed Distributions with Application to a Low-Order Tracer Advection Model.  
     *Monthly Weather Review*,  [doi:10.1175/MWR-D-23-0255.1](https://doi.org/doi:10.1175/MWR-D-23-0255.1)
 
+![](/images/pin4.gif) **Gaubert B., J.L. Anderson, M. Trudeau, N. Smith, K. McKain, G. Pétron, K. Raeder, A.F. Arellano Jr, C. Granier, L.K. Emmons, I. Ortega, J.W. Hannigan, W. Tang, H.M. Worden, D. Ziskin & D.P. Edwards**, 2024  
+    Nonlinear and Non-Gaussian Ensemble Assimilation of MOPITT CO.  
+    *Journal of Geophysical Research: Atmospheres*, **129**, e2023JD040647, [doi:10.1029/2023JD040647](https://doi.org/doi:10.1029/2023JD040647)
+
 ---
 ## 2023
 ---
