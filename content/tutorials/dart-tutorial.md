@@ -58,12 +58,10 @@ Instructions for installing DART and the MATLAB&reg; diagnostics can be found in
 
 [21. Observation Types and Observing System Design](/pdfs/tutorial/section_21.pdf)
 
-[22. Parallel Algorithm Implementation: Coming Soon](/pdfs/tutorial/section_01.pdf)
+(Not available) 22. Parallel Algorithm Implementation
 
-[23. Location Module Design](/pdfs/tutorial/section_01.pdf)
+(Not available) 23. Location Module Design
 
-[24. Fixed Lag Ensemble Kalman Smoother (not available yet)](/pdfs/tutorial/section_01.pdf)
+(Not available) 24. Fixed Lag Ensemble Kalman Smoother 
 
-[25. A Simple 1D Advection Model: Tracer Data Assimilation](/pdfs/tutorial/section_01.pdf)
-
-
+[25. A Simple 1D Advection Model: Tracer Data Assimilation](/pdfs/tutorial/section_25.pdf)
