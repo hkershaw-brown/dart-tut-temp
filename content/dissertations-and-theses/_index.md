@@ -1,5 +1,5 @@
 ---
-title       : "Dissertations"
+title       : "Dissertations and Theses"
 aliases     :
    - /pages/dissertations.html
 ---
