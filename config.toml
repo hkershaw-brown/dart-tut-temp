@@ -31,10 +31,15 @@ summarylength = 25
     parent  = "research"
     weight  = 2 
   [[menu.nav]]
+    name    = "Dissertations and Theses"
+    url     = "dissertations-and-theses"
+    parent  = "research"
+    weight  = 3
+  [[menu.nav]]
     name    = "Presentations"
     url     = "presentations"
     parent  = "research"
-    weight  = 3
+    weight  = 4
   [[menu.nav]]
     name    = "Documentation"
     url     = "https://docs.dart.ucar.edu/"

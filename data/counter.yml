@@ -2,14 +2,15 @@ enable : true
 heading : "DART's benefit to the community"
 counter_item: 
   - title: "Models supported"
-    number: "25+"
+    number: "30+"
 
   - title: "Publications"
     number: "375+"
     url: "publications"
 
-  - title: "ASP postdocs"
-    number: "8"
+  - title: "Dissertations and Theses"
+    number: "50+"
+    url: dissertations-and-theses
 
-  - title: "SIParCS interns"
-    number: "3"
+  - title: "Interns and PostDocs"
+    number: "20+"
