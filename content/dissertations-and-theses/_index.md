@@ -32,10 +32,10 @@ or thesis to the list.
 ---
 
 ![](/images/pin4.gif) **Dufort J.A.**, 2022: Improving the Short-Term Forecast Accuracy of Heavy Precipitation Events Using Time-Lagged Ensembles.  
-    Masters thesis, *Texas Tech University*, Lubbock, TX. [https://hdl.handle.net/2346/96517](https://hdl.handle.net/2346/96517)
+    Master's thesis, *Texas Tech University*, Lubbock, TX. [https://hdl.handle.net/2346/96517](https://hdl.handle.net/2346/96517)
 
 ![](/images/pin4.gif) **Wieringa M.**, 2022: The Promise of Sea Ice Thickness: A Data Assimilation Application for Modern Arctic Climate.  
-    Masters thesis, *University of Washington*, Seattle, WA. [http://hdl.handle.net/1773/48820](http://hdl.handle.net/1773/48820)
+    Master's thesis, *University of Washington*, Seattle, WA. [http://hdl.handle.net/1773/48820](http://hdl.handle.net/1773/48820)
 
 ---
 ## 2021
@@ -71,7 +71,7 @@ or thesis to the list.
     Doctoral dissertation, *Royal Melbourne Institute of Technology*, Melbourne, VIC, Australia. [https://researchrepository.rmit.edu.au/esploro/outputs/doctoral/Physical-understanding-and-forecasting-of-the-thermospheric-structure-and-dynamics/9921863942601341](https://researchrepository.rmit.edu.au/esploro/outputs/doctoral/Physical-understanding-and-forecasting-of-the-thermospheric-structure-and-dynamics/9921863942601341)
 
 ![](/images/pin4.gif) **Laine M.**, 2019: Data assimilation using the Ensemble Adjustment Kalman ﬁlter with application to soil organic carbon modelling.  
-    Masters thesis, *University of Helsinki*, Helsinki, Finland. [https://helda.helsinki.fi/items/URN:NBN:fi:hulib-201905292226](https://helda.helsinki.fi/items/URN:NBN:fi:hulib-201905292226)
+    Master's thesis, *University of Helsinki*, Helsinki, Finland. [https://helda.helsinki.fi/items/URN:NBN:fi:hulib-201905292226](https://helda.helsinki.fi/items/URN:NBN:fi:hulib-201905292226)
 
 ![](/images/pin4.gif) **Elmer N.**, 2019: Using satellite observations of river height and vegetation to improve National Water Model initialization and streamflow prediction.  
     Doctoral dissertation, *University of Alabama*, Huntsville, AL. [https://louis.uah.edu/uah-dissertations/166](https://louis.uah.edu/uah-dissertations/166)
@@ -86,23 +86,23 @@ or thesis to the list.
     Doctoral dissertation, *Université de la Réunion*, Réunion, France. [https://theses.hal.science/tel-02495080/](https://theses.hal.science/tel-02495080/)
 
 ![](/images/pin4.gif) **Coleman A.A.**, 2019: Convective-scale ensemble subsetting with ensemble sensitivity analysis.  
-    Masters thesis, *Texas Tech University*, Lubbock, TX. [https://hdl.handle.net/2346/85334](https://hdl.handle.net/2346/85334)
+    Master's thesis, *Texas Tech University*, Lubbock, TX. [https://hdl.handle.net/2346/85334](https://hdl.handle.net/2346/85334)
 
 ---
 ## 2018
 ---
 
 ![](/images/pin4.gif) **Matus S.A.**, 2018: Using ensemble precipitation forecasts to improve hydrologic risk assessment at river crossings.  
-    Masters thesis, *University of Illinois*, Urbana-Champaign, IL. [https://hdl.handle.net/2142/102508](https://hdl.handle.net/2142/102508)
+    Master's thesis, *University of Illinois*, Urbana-Champaign, IL. [https://hdl.handle.net/2142/102508](https://hdl.handle.net/2142/102508)
 
 ![](/images/pin4.gif) **Kuroski A.**, 2018: An Investigation of the Conditional Practical Predictability of the 31 May 2013 Heavy-Rain-Producing Mesoscale Convective System.  
-    Masters thesis, *University of Milwaukee*, Milwaukee, WI. [https://dc.uwm.edu/etd/1853](https://dc.uwm.edu/etd/1853)
+    Master's thesis, *University of Milwaukee*, Milwaukee, WI. [https://dc.uwm.edu/etd/1853](https://dc.uwm.edu/etd/1853)
 
 ![](/images/pin4.gif) **Li Y.**, 2018: Applications of regional ocean Ensemble Kalman Filter data assimilation.  
     Doctoral dissertation, *Imperial College London*, London, UK. [https://core.ac.uk/outputs/195780835/](https://core.ac.uk/outputs/195780835/)
 
 ![](/images/pin4.gif) **Sutherland B.**, 2018: Veriﬁcation of cloud production in the Community Atmosphere Model: A comparison of two data assimilation techniques.  
-    Masters thesis, *University of Washington*, Seattle, WA. [http://hdl.handle.net/1773/42184](http://hdl.handle.net/1773/42184)
+    Master's thesis, *University of Washington*, Seattle, WA. [http://hdl.handle.net/1773/42184](http://hdl.handle.net/1773/42184)
 
 ---
 ## 2017
@@ -112,13 +112,13 @@ or thesis to the list.
     Doctoral dissertation, *Università Ca' Foscari Venezia*, Venezia VE, Italy. [http://dspace.unive.it/handle/10579/10343](http://dspace.unive.it/handle/10579/10343)
 
 ![](/images/pin4.gif) **McNicholas C.**, 2017: Advanced Approaches for the Collection, Quality Control, and Bias Correction of Smartphone Pressure Observations and Their Application in Numerical Weather Prediction.  
-    Masters thesis, *University of Washington*, Seattle, WA. [http://hdl.handle.net/1773/39940](http://hdl.handle.net/1773/39940)
+    Master's thesis, *University of Washington*, Seattle, WA. [http://hdl.handle.net/1773/39940](http://hdl.handle.net/1773/39940)
 
 ![](/images/pin4.gif) **Burghardt B.J.**, 2017: Performance characteristics of convection-allowing ensemble forecasts with varied physics parameterizations.  
     Doctoral dissertation, *Texas Tech University*, Lubbock, TX. [http://hdl.handle.net/2346/72721](http://hdl.handle.net/2346/72721)
 
 ![](/images/pin4.gif) **Pan S.**, 2017: Simultaneous Assimilation of Radar and Satellite Data for Covective Scale NWP Using Hybrid Ensemble Variational Data Assimilation Approach.  
-    Masters thesis, *University of Oklahoma*, Norman, OK. [https://shareok.org/handle/11244/51870](https://shareok.org/handle/11244/51870)
+    Master's thesis, *University of Oklahoma*, Norman, OK. [https://shareok.org/handle/11244/51870](https://shareok.org/handle/11244/51870)
 
 ![](/images/pin4.gif) **Kerr C.**, 2017: Analysis of environmental modifications by deep convection during the Mesoscale Predictability Experiment.  
     Doctoral dissertation, *University of Oklahoma*, Norman, OK. [https://shareok.org/handle/11244/50449](https://shareok.org/handle/11244/50449)
@@ -163,10 +163,10 @@ or thesis to the list.
     Doctoral dissertation, *Université Paris 6*, Paris, France. [https://theses.hal.science/tel-01176779](https://theses.hal.science/tel-01176779)
 
 ![](/images/pin4.gif) **Vincente V.**, 2014: Ensemble-based analysis of Front Range severe convection on 6-7 June 2012: forecast uncertainty and communication of weather information to Front Range decision-makers.  
-    Masters thesis, *Colorado State University*, Fort Collins, CO. [http://hdl.handle.net/10217/82539](http://hdl.handle.net/10217/82539)
+    Master's thesis, *Colorado State University*, Fort Collins, CO. [http://hdl.handle.net/10217/82539](http://hdl.handle.net/10217/82539)
 
 ![](/images/pin4.gif) **Mitchell M.C.**, 2014: Impacts of potential aircraft observations on forecasts of tropical cyclones over the western North Pacific.  
-    Masters thesis, *Naval Postgraduate School*, Monterey, CA. [https://hdl.handle.net/10945/44619](https://hdl.handle.net/10945/44619)
+    Master's thesis, *Naval Postgraduate School*, Monterey, CA. [https://hdl.handle.net/10945/44619](https://hdl.handle.net/10945/44619)
 
 ---
 ## 2013
@@ -182,23 +182,23 @@ or thesis to the list.
     Doctoral dissertation, *Naval Postgraduate School*, Monterey, CA. [https://hdl.handle.net/10945/37639](https://hdl.handle.net/10945/37639)
 
 ![](/images/pin4.gif) **Wile S.M.**, 2013: A Further Examination of Potential Observation Network Design with Mesoscale Ensemble Sensitivities in Complex Terrain.  
-    Masters thesis, *Naval Postgraduate School*, Monterey, CA. [https://hdl.handle.net/10945/32917](https://hdl.handle.net/10945/32917)
+    Master's thesis, *Naval Postgraduate School*, Monterey, CA. [https://hdl.handle.net/10945/32917](https://hdl.handle.net/10945/32917)
 
 ![](/images/pin4.gif) **Hollan M.A.**, 2013: Ensemble mean storm-scale performance in the presence of nonlinearity and best member techniques for improved prediction.  
-    Masters thesis, *Texas Tech University*, Lubbock, TX. [http://hdl.handle.net/2346/58479](http://hdl.handle.net/2346/58479)
+    Master's thesis, *Texas Tech University*, Lubbock, TX. [http://hdl.handle.net/2346/58479](http://hdl.handle.net/2346/58479)
 
 ![](/images/pin4.gif) **Bednarczyk C.N.**, 2013: Ensemble sensitivity analysis applied to Southern Plains convection.  
-    Masters thesis, *Texas Tech University*, Lubbock, TX. [http://hdl.handle.net/2346/50308](http://hdl.handle.net/2346/50308)
+    Master's thesis, *Texas Tech University*, Lubbock, TX. [http://hdl.handle.net/2346/50308](http://hdl.handle.net/2346/50308)
 
 ---
 ## 2012
 ---
 
 ![](/images/pin4.gif) **Kashawlic E.**, 2012: Comparing observation impact between variational and ensemble data assimilation schemes on short-term, low-level wind forecasting.  
-    Masters thesis, *Texas Tech University*, Lubbock, TX. [http://hdl.handle.net/2346/46963](http://hdl.handle.net/2346/46963)
+    Master's thesis, *Texas Tech University*, Lubbock, TX. [http://hdl.handle.net/2346/46963](http://hdl.handle.net/2346/46963)
 
 ![](/images/pin4.gif) **Chilcoat K.H.**, 2012: The Potential Observation Network Design with Mesoscale Ensemble Sensitivities in Complex Terrain.  
-    Masters thesis, *Naval Postgraduate School*, Monterey, CA. [https://hdl.handle.net/10945/6774](https://hdl.handle.net/10945/6774)
+    Master's thesis, *Naval Postgraduate School*, Monterey, CA. [https://hdl.handle.net/10945/6774](https://hdl.handle.net/10945/6774)
 
 ![](/images/pin4.gif) **Williams J.**, 2012: Building a better wind forecast: a stochastic forecast system using a fully-coupled hydrologic-atmospheric model.  
     Doctoral dissertation, *Colorado School of Mines*, Golden, CO. [https://repository.mines.edu/handle/11124/76832](https://repository.mines.edu/handle/11124/76832)
