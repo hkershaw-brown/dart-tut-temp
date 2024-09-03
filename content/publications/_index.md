@@ -67,6 +67,10 @@ The Data Assimilation Research Testbed: A Community Facility.
     Nonlinear and Non-Gaussian Ensemble Assimilation of MOPITT CO.  
     *Journal of Geophysical Research: Atmospheres*, **129**, e2023JD040647, [doi:10.1029/2023JD040647](https://doi.org/doi:10.1029/2023JD040647)
 
+![](/images/pin4.gif) **Hsu C., T. Matsuo, H. Kershaw, N. Dietrich, M. Smith, J. Anderson, K. Garcia-Sage, J. Yue, Y. Hozumi & M. Chou**, 2024  
+    A Community Ionosphere-Thermosphere Observing System Simulation Experiment (OSSE) Tool: Geospace Dynamics Constellation Example.  
+    *Earth and Space Science*, **11**, e2024EA003684, [doi:10.1029/2024EA003684](https://doi.org/doi:10.1029/2024EA003684)
+
 ---
 ## 2023
 ---
