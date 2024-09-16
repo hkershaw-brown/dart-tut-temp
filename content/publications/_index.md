@@ -71,6 +71,14 @@ The Data Assimilation Research Testbed: A Community Facility.
     A Community Ionosphere-Thermosphere Observing System Simulation Experiment (OSSE) Tool: Geospace Dynamics Constellation Example.  
     *Earth and Space Science*, **11**, e2024EA003684, [doi:10.1029/2024EA003684](https://doi.org/doi:10.1029/2024EA003684)
 
+![](/images/pin4.gif) **Grooms I. & C. Riedel**, 2024  
+    A Quantile-Conserving Ensemble Filter Based on Kernel-Density Estimation.  
+    *Remote Sensing*, **16**, 2377, [doi:10.3390/rs16132377](https://doi.org/doi:10.3390/rs16132377)
+
+![](/images/pin4.gif) **Riedel C. & J. Anderson**, 2024  
+    Exploring non-Gaussian sea ice characteristics via observing system simulation experiments.  
+    *The Cryosphere*, **18**, 2875-2896, [doi:10.5194/tc-18-2875-2024](https://doi.org/doi:10.5194/tc-18-2875-2024)
+
 ---
 ## 2023
 ---
