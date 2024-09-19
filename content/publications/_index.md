@@ -79,6 +79,10 @@ The Data Assimilation Research Testbed: A Community Facility.
     Exploring non-Gaussian sea ice characteristics via observing system simulation experiments.  
     *The Cryosphere*, **18**, 2875-2896, [doi:10.5194/tc-18-2875-2024](https://doi.org/doi:10.5194/tc-18-2875-2024)
 
+![](/images/pin4.gif) **Chan M.**, 2024  
+    Improving ensemble data assimilation through Probit-space Ensemble Size Expansion for Gaussian Copulas (PESE-GC).  
+    *Nonlinear Processes in Geophysics*, **31**, 287-302, [doi:10.5194/npg-31-287-2024](https://doi.org/doi:10.5194/npg-31-287-2024)
+
 ---
 ## 2023
 ---
