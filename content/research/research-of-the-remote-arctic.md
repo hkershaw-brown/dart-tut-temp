@@ -94,12 +94,12 @@ assimilation. "As a user of DART, I like DART_LAB the most because it allows me 
 different 'knobs' and better understand how and why each of them can remove biases in model
 simulations and makes the assimilation perform better," said Huo.
 
-In an article that is currently in review for publication in the Journal of Geophysical Research:
-Biogeosciences, Huo worked with a team that used DART to assimilate two data sources into CLM to
-assess the model's fidelity in Alaska and Western Canada. The first data source she assimilated was
-Leaf Area Index (LAI), or the ratio of leaf area to ground surface area inferred from a remote
-sensing instrument, in this case the Moderate Resolution Imaging Spectroradiometer. The second data
-source she assimilated was a machine learning product that estimated aboveground biomass.
+In an article published in the Journal of Geophysical Research: Biogeosciences, Huo worked with a
+team that used DART to assimilate two data sources into CLM to assess the model's fidelity in Alaska
+and Western Canada. The first data source she assimilated was Leaf Area Index (LAI), or the ratio of
+leaf area to ground surface area inferred from a remote sensing instrument, in this case the
+Moderate Resolution Imaging Spectroradiometer. The second data source she assimilated was a machine
+learning product that estimated aboveground biomass.
 
 The experiment compared CLM's estimates of Gross Primary Productivity (GPP) — how much carbon is
 photosynthesized per year in a given area — both with and without data assimilation. This
@@ -135,10 +135,11 @@ Huo will surely relish the opportunity to contribute.
 ### References
 
 Huo, X., A. M. Fox, H. Dashti, C. Devine, W. Gallery, W. K. Smith, B. Raczka, J. L. Anderson,
-A. Rogers, D. J. P. Moore, 2024: Assimilating leaf area index and aboveground biomass reveals new
-processes in carbon update in the Arctic and Boreal Region. *JGR Biosciences* (in review).
+A. Rogers, D. J. P. Moore, 2024: Integrating State Data Assimilation and Innovative Model
+Parameterization Reduces Simulated Carbon Uptake in the Arctic and Boreal Region. *JGR Biosciences*, 
+**129**, e2024JG008004, [doi.org/10.1029/2024JG008004](https://doi.org/10.1029/2024JG008004).
 
 Rogers, A., S. P. Serbin, K. S. Ely, and S. D. Wullschleger, 2019: Terrestrial biosphere models may
 overestimate Arctic CO2 assimilation if they do not account for decreased quantum yield and
-convexity at low temperature. *New Phytologist*, **223**, 167–179
+convexity at low temperature. *New Phytologist*, **223**, 167–179,
 [doi.org/10.1111/nph.15750](https://doi.org/10.1111/nph.15750).
