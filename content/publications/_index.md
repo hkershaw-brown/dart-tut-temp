@@ -91,6 +91,10 @@ The Data Assimilation Research Testbed: A Community Facility.
     Evaluating Radio Occultation (RO) Constellation Designs Using Observing System Simulation Experiments (OSSEs) for Ionospheric Specification.  
     *Space Weather*, **22**, e2024SW003958, [doi:10.1029/2024SW003958](https://doi.org/doi:10.1029/2024SW003958)
 
+![](/images/pin4.gif) **Sun R., S. Sanikommu, A.C. Subramanian, M.R. Mazloff, B.D. Cornuelle, G. Gopalakrishnan, A.J. Miller & I. Hoteit**, 2024  
+    Enhanced regional ocean ensemble data assimilation through atmospheric coupling in the SKRIPS model.  
+    *Ocean Modelling*, **191**, 102424, [doi:10.1016/j.ocemod.2024.102424](https://doi.org/doi:10.1016/j.ocemod.2024.102424)
+
 ---
 ## 2023
 ---
