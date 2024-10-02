@@ -103,6 +103,10 @@ The Data Assimilation Research Testbed: A Community Facility.
     Leveraging a novel hybrid ensemble and optimal interpolation approach for enhanced streamflow and flood prediction.  
     *Hydrology and Earth System Sciences*, **28**, 3133-3159, [doi:10.5194/hess-28-3133-2024](https://doi.org/doi:10.5194/hess-28-3133-2024)
 
+![](/images/pin4.gif) **McCurry J. & J. Poterjoy**, 2024  
+    Optimizing Numerical Weather Prediction Utility of the Maryland Mesonet with Observing System Simulation Experiments.  
+    *Weather and Forecasting*, **39**, 1-41, [doi:10.1175/WAF-D-24-0089.1](https://doi.org/doi:10.1175/WAF-D-24-0089.1)
+
 ---
 ## 2023
 ---
