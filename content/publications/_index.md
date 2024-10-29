@@ -28,6 +28,14 @@ The Data Assimilation Research Testbed: A Community Facility.
 
 
 ---
+## 2025
+---
+
+![](/images/pin4.gif) **Wu S. & R. Wang**, 2025  
+    Dynamics of real-time forecasting failure and recovery due to data gaps: A study using EnKF-based assimilation with the Lorenz model.  
+    *Environmental Modelling & Software*, **183**, 106250, [doi:10.1016/j.envsoft.2024.106250](https://doi.org/doi:10.1016/j.envsoft.2024.106250)
+
+---
 ## 2024
 ---
 
