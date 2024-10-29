@@ -9,8 +9,8 @@ The following publication list contains known publications that use DART.
 Please contact [dart@ucar.edu](mailto:dart@ucar.edu) to add your publication
 to the list.
 
-Recent publications coauthored by NCAR staff should be freely available in the
-NSF NCAR online database known as [Opensky](https://opensky.ucar.edu/) by
+Recent publications coauthored by NSF NCAR staff should be freely available in
+the NSF NCAR online database known as [Opensky](https://opensky.ucar.edu/) by
 searching for a given publication's title.
 
 To cite DART in your publication, please use this citation updating the DART
@@ -114,6 +114,10 @@ The Data Assimilation Research Testbed: A Community Facility.
 ![](/images/pin4.gif) **Sanikommu S., N. Raboudi, M. El Gharamti, P. Zhan, B. Hadri & I. Hoteit**, 2024  
     Insights from very-large-ensemble data assimilation experiments with a high-resolution general circulation model of the Red Sea.  
     *Quarterly Journal of the Royal Meteorological Society*, **150**, 1-17, [doi:10.1002/qj.4813](https://doi.org/doi:10.1002/qj.4813)
+
+![](/images/pin4.gif) **Wang Q., Z. Shen, Y. Chen, X. Chen & Y. Zhang**, 2024  
+    Improving ocean analyses in the ensemble-based data assimilation system using the Community Earth System Model by assimilating satellite sea surface salinity.  
+    *Journal of Operational Oceanography*, **17**, 1-14, [doi:10.1080/1755876X.2024.2418687](https://doi.org/doi:10.1080/1755876X.2024.2418687)
 
 ---
 ## 2023
