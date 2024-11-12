@@ -127,6 +127,10 @@ The Data Assimilation Research Testbed: A Community Facility.
     Improving ocean analyses in the ensemble-based data assimilation system using the Community Earth System Model by assimilating satellite sea surface salinity.  
     *Journal of Operational Oceanography*, **17**, 1-14, [doi:10.1080/1755876X.2024.2418687](https://doi.org/doi:10.1080/1755876X.2024.2418687)
 
+![](/images/pin4.gif) **Coleman A., B. Ancell & C. Schwartz**, 2024  
+    Can We Predict the Predictability of High-Impact Weather Events?  
+    *Journal of Operational Oceanography*, **152**, 2483–2504, [doi:10.1175/MWR-D-23-0293.1](https://doi.org/doi:10.1175/MWR-D-23-0293.1)
+
 ---
 ## 2023
 ---
