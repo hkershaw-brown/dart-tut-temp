@@ -113,7 +113,7 @@ The Data Assimilation Research Testbed: A Community Facility.
 
 ![](/images/pin4.gif) **McCurry J. & J. Poterjoy**, 2024  
     Optimizing Numerical Weather Prediction Utility of the Maryland Mesonet with Observing System Simulation Experiments.  
-    *Weather and Forecasting*, **39**, 1-41, [doi:10.1175/WAF-D-24-0089.1](https://doi.org/doi:10.1175/WAF-D-24-0089.1)
+    *Weather and Forecasting*, **39**, 1849-1867, [doi:10.1175/WAF-D-24-0089.1](https://doi.org/doi:10.1175/WAF-D-24-0089.1)
 
 ![](/images/pin4.gif) **Hu C., P.J. Leeuwen & J.L. Anderson**, 2024  
     An Implementation of the Particle Flow Filter in an Atmospheric Model.  
@@ -121,11 +121,11 @@ The Data Assimilation Research Testbed: A Community Facility.
 
 ![](/images/pin4.gif) **Sanikommu S., N. Raboudi, M. El Gharamti, P. Zhan, B. Hadri & I. Hoteit**, 2024  
     Insights from very-large-ensemble data assimilation experiments with a high-resolution general circulation model of the Red Sea.  
-    *Quarterly Journal of the Royal Meteorological Society*, **150**, 1-17, [doi:10.1002/qj.4813](https://doi.org/doi:10.1002/qj.4813)
+    *Quarterly Journal of the Royal Meteorological Society*, **150**, 4235-4251, [doi:10.1002/qj.4813](https://doi.org/doi:10.1002/qj.4813)
 
 ![](/images/pin4.gif) **Wang Q., Z. Shen, Y. Chen, X. Chen & Y. Zhang**, 2024  
     Improving ocean analyses in the ensemble-based data assimilation system using the Community Earth System Model by assimilating satellite sea surface salinity.  
-    *Journal of Operational Oceanography*, **17**, 1-14, [doi:10.1080/1755876X.2024.2418687](https://doi.org/doi:10.1080/1755876X.2024.2418687)
+    *Journal of Operational Oceanography*, **17**, 217-230, [doi:10.1080/1755876X.2024.2418687](https://doi.org/doi:10.1080/1755876X.2024.2418687)
 
 ![](/images/pin4.gif) **Coleman A., B. Ancell & C. Schwartz**, 2024  
     Can We Predict the Predictability of High-Impact Weather Events?  
