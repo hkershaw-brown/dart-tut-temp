@@ -139,6 +139,22 @@ The Data Assimilation Research Testbed: A Community Facility.
     Characterizing and communicating uncertainty: lessons from NASA’s Carbon Monitoring System.  
     *Environmental Research Letters*, **19**, 123003, [doi:10.1088/1748-9326/ad8be0](https://doi.org/doi:10.1088/1748-9326/ad8be0)
 
+![](/images/pin4.gif) **Laskar F.I., N.M. Pedatella, M.V. Codrescu, R.W. Eastes & J.L. Anderson**, 2024  
+    Assessing the Impacts of Assimilating GOLD Disk O/N2 Observations on the Thermosphere-Ionosphere System.  
+    *Journal of Geophysical Research: Space Physics*, **129**, e2024JA033163, [doi:10.1029/2024JA033163](https://doi.org/doi:10.1029/2024JA033163)
+
+![](/images/pin4.gif) **Kay J. & T.M. Weckwerth**, 2024  
+    Impact of Assimilation of New York State Mesonet Doppler Wind Lidar on High Impact Weather Predictions in New York State.  
+    *Atmosphere*, **34**, 481-497, [doi:10.14191/Atmos.2024.34.4.481](https://doi.org/doi:10.14191/Atmos.2024.34.4.481)
+
+![](/images/pin4.gif) **Wieringa M.M., C. Riedel, J.L. Anderson & C.M. Bitz**, 2024  
+    Bounded and categorized: targeting data assimilation for sea ice fractional coverage and nonnegative quantities in a single-column multi-category sea ice model.  
+    *The Cryosphere*, **18**, 5365-5382, [doi:10.5194/tc-18-5365-2024](https://doi.org/doi:10.5194/tc-18-5365-2024)
+
+![](/images/pin4.gif) **Pinto J.O., S.C.C. Bailey, K.R. Fossell, S. Binau, M. Xu, J. Kay, R.D. Nolin, C.N. Vezzi, S.W. Smith, J. Lave, J. Colavito, M.B. Wilson & T.M. Weckwerth**, 2024  
+    Impact of Assimilating Uncrewed Aircraft System Observations on River Valley Fog Prediction.  
+    *The Cryosphere*,  [doi:10.1175/WAF-D-23-0087.1](https://doi.org/doi:10.1175/WAF-D-23-0087.1)
+
 ---
 ## 2023
 ---
