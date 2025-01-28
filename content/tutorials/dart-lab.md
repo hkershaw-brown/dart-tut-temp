@@ -11,23 +11,26 @@ author: dart
 
 
 DART\_LAB is a MATLAB®-based tutorial to demonstrate the principles of 
-ensemble data assimilation. The DART\_LAB tutorial begins at a more introductory 
-level than the materials in the tutorial directory, and includes hands-on exercises.
+ensemble data assimilation. This tutorial begins at a more introductory level
+than the materials in the tutorial directory, and includes hands-on exercises
+at several points. In a workshop setting, these materials and exercises took
+about 1.5 days to complete.
+
 DART\_LAB consists of PDF tutorial materials and MATLAB® exercises.
 See below for links to the PDF files and a list of the 
 corresponding MATLAB scripts.
 
 #### DART\_LAB tutorial slides
 
-[1. The basics in 1D.](/pdfs/dart_lab/DART_LAB_Section01.pdf)
+[1. Ensemble Data Assimilation Concepts in 1D.](https://docs.dart.ucar.edu/en/latest/_downloads/7d7f7127807b27dc004fc495daa6c075/DART_LAB_Section01.pdf)
 
-[2. Multivariate assimilation.](/pdfs/dart_lab/DART_LAB_Section02.pdf)  How should observations of a state variable impact an unobserved state variable?
+[2. How Should Observations Impact an Unobserved State Variable? Multivariate Assimilation.](https://docs.dart.ucar.edu/en/latest/_downloads/c41fccc195c1c0334ac0360b0add33fd/DART_LAB_Section02.pdf)
 
-[3. Sampling error and localization.](/pdfs/dart_lab/DART_LAB_Section03.pdf)
+[3. Inflation and Localization to Improve Performance.](https://docs.dart.ucar.edu/en/latest/_downloads/f50386414b0cddd1fafce5a942240f42/DART_LAB_Section03.pdf)
 
-[4. The Ensemble Kalman Filter (Perturbed Observations).](/pdfs/dart_lab/DART_LAB_Section04.pdf)
+[4. Nonlinear and Non-Gaussian Extensions.](https://docs.dart.ucar.edu/en/latest/_downloads/0b8f5ce742ddd403f16e4d5a15ce6b8a/DART_LAB_Section04.pdf)
 
-[5. Adaptive Inflation.](/pdfs/dart_lab/DART_LAB_Section05.pdf)
+[5. Adaptive Inflation.](https://docs.dart.ucar.edu/en/latest/_downloads/99efe1ee0df2c5453e390b56f59be784/DART_LAB_Section05.pdf)
 
 
 #### Hands-on Exercises
@@ -49,16 +52,17 @@ license is needed to run these scripts.
 
 The exercises use the following functions:
 
+- `bounded_oned_ensemble`
+- `gaussian_product`
+- `oned_cycle`
+- `oned_ensemble`
+- `oned_model`
+- `oned_model_inf`
+- `run_lorenz_63`
+- `run_lorenz_96`
+- `run_lorenz_96_inf`
+- `twod_ensemble`
+- `twod_ppi_ensemble`
 
-| function            | description |
-| ---                 | :---         |   
-| `gaussian_product`  | graphical representation of the product of two gaussians |
-| `oned_ensemble`     | explore the details of ensemble data assimilation for a scalar |
-| `oned_model`        | simple ensemble data assimilation example |
-| `oned_model_inf`    | simple ensemble data assimilation example *with inflation* |
-| `run_lorenz_63`     | ensemble DA with the 3-variable Lorenz '63 dynamical model - the "butterfly" model |
-| `run_lorenz_96`     | ensemble DA with the 40-variable Lorenz '96 dynamical model |
-| `run_lorenz_96_inf` | ensemble DA with the 40-variable Lorenz '96 dynamical model *with inflation* |
-| `twod_ensemble`     | demonstrates the impact of observations on unobserved state variables |
-
-
+To run these, cd into the `DART_LAB/matlab` directory, start matlab, and type
+the names at the prompt.
