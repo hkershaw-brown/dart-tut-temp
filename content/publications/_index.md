@@ -35,6 +35,10 @@ The Data Assimilation Research Testbed: A Community Facility.
     Dynamics of real-time forecasting failure and recovery due to data gaps: A study using EnKF-based assimilation with the Lorenz model.  
     *Environmental Modelling & Software*, **183**, 106250, [doi:10.1016/j.envsoft.2024.106250](https://doi.org/doi:10.1016/j.envsoft.2024.106250)
 
+![](/images/pin4.gif) **Kugler L. & M. Weissmann**, 2025  
+    The synergy of assimilating visible and infrared radiances and radar observations.  
+    *Quarterly Journal of the Royal Meteorological Society*, **151**, e4938, [doi:10.1002/qj.4938](https://doi.org/doi:10.1002/qj.4938)
+
 ---
 ## 2024
 ---
