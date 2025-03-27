@@ -39,6 +39,10 @@ The Data Assimilation Research Testbed: A Community Facility.
     The synergy of assimilating visible and infrared radiances and radar observations.  
     *Quarterly Journal of the Royal Meteorological Society*, **151**, e4938, [doi:10.1002/qj.4938](https://doi.org/doi:10.1002/qj.4938)
 
+![](/images/pin4.gif) **Shrestha P. & A.P. Barros**, 2025  
+    Multi-Physics Data Assimilation Framework for Remotely Sensed Snowpacks to Improve Water Prediction.  
+    *Water Resources Research*, **61**, e2024WR037885, [doi:10.1029/2024WR037885](https://doi.org/doi:10.1029/2024WR037885)
+
 ---
 ## 2024
 ---
