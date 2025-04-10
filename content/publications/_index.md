@@ -43,6 +43,10 @@ The Data Assimilation Research Testbed: A Community Facility.
     Multi-Physics Data Assimilation Framework for Remotely Sensed Snowpacks to Improve Water Prediction.  
     *Water Resources Research*, **61**, e2024WR037885, [doi:10.1029/2024WR037885](https://doi.org/doi:10.1029/2024WR037885)
 
+![](/images/pin4.gif) **Riedel C.P., M.M. Wieringa & J.L. Anderson**, 2025  
+    Exploring Bounded Non-parametric Ensemble Filter Impacts on Sea Ice Data Assimilation.  
+    *Water Resources Research*,  [doi:10.1175/MWR-D-24-0096.1](https://doi.org/doi:10.1175/MWR-D-24-0096.1)
+
 ---
 ## 2024
 ---
