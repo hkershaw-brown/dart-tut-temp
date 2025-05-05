@@ -47,6 +47,10 @@ The Data Assimilation Research Testbed: A Community Facility.
     Exploring Bounded Non-parametric Ensemble Filter Impacts on Sea Ice Data Assimilation.  
     *Water Resources Research*,  [doi:10.1175/MWR-D-24-0096.1](https://doi.org/doi:10.1175/MWR-D-24-0096.1)
 
+![](/images/pin4.gif) **Capute P.K. & R.D. Torn**, 2025  
+    A Comparison of Arctic and Atlantic Basin Cyclone Track and Intensity Forecast Uncertainty.  
+    *Water Resources Research*,  [doi:10.1175/MWR-D-24-0135.1](https://doi.org/doi:10.1175/MWR-D-24-0135.1)
+
 ---
 ## 2024
 ---
