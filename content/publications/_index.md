@@ -51,6 +51,10 @@ The Data Assimilation Research Testbed: A Community Facility.
     A Comparison of Arctic and Atlantic Basin Cyclone Track and Intensity Forecast Uncertainty.  
     *Water Resources Research*,  [doi:10.1175/MWR-D-24-0135.1](https://doi.org/doi:10.1175/MWR-D-24-0135.1)
 
+![](/images/pin4.gif) **Casaretto G., C.S. Schwartz, M.E. Dillon, Y.G. Skabar & J.J. Ruiz**, 2025  
+    Exploring Quantitative Observation Impact in Partial and Continuous Cycling Ensemble Kalman Filter Data Assimilation Systems.  
+    *Weather and Forecasting*, **40**, 1-28, [doi:10.1175/WAF-D-24-0127.1](https://doi.org/doi:10.1175/WAF-D-24-0127.1)
+
 ---
 ## 2024
 ---
