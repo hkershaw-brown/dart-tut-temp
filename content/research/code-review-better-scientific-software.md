@@ -1,6 +1,6 @@
 ---
 title: "Better Scientific Software with Helen Kershaw"
-date: 2025-05-11T14:00:00-07:00
+date: 2025-05-10T14:00:00-07:00
 type: research
 image: "images/featured-articles/helen-kershaw.jpg"
 hero: "images/hero/glass-plate-facade.jpg"
