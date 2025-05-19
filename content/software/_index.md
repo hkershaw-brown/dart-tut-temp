@@ -10,20 +10,14 @@ github        : "https://github.com/NCAR/DART"
 readthedocs   : "https://docs.dart.ucar.edu"
 ---
 
-DART has been developed since the early 2000's. There have been nine major
-releases of DART, each denoted by the name of an island. The releases began
-with the Easter release on April 9, 2004 and continued with Fiji, Guam, Hawaii,
-Iceland, Jamaica, Kodiak and Lanai.
+DART has been developed since the early 2000s. The first nine major [releases](https://github.com/NCAR/DART/releases)
+were named after islands: Easter (April 9, 2004), followed by Fiji, Guam, Hawaii, Iceland, Jamaica, Kodiak, Lanai, 
+and Manhattan. 
 
-The current release of DART is the Manhattan release. It is available for
-download via [GitHub](https://github.com/NCAR/DART). All previous releases of
-DART are also available by checking out a tagged commit. If you are a new user,
-DAReS staff strongly recommend using the Manhattan version. The DART
-documentation can be viewed online at
-[https://docs.dart.ucar.edu](https://docs.dart.ucar.edu). 
+Beginning with the Manhattan release (v9), DART adopted [semantic versioning](https://semver.org/), which uses a three-part version number (MAJOR.MINOR.PATCH)
+to communicate the nature of changes. The current release of DART is available for download on [GitHub](https://github.com/NCAR/DART). 
+Earlier island-named [releases](https://github.com/NCAR/DART/releases) are also accessible. 
+If you are new to DART, DAReS staff strongly recommend starting with the latest version.
 
-DART also provides a framework for developing, testing, and distributing
-advances in ensemble DA to a broad community of users by handling the
-implementation details common to data assimilation methods.  DART can be used
-with external forward operators such as those provided in [NOAA's Gridpoint
-Statistical Interpolation](https://docs.dart.ucar.edu/en/latest/observations/obs_converters/GSI2DART/readme.html)  System.
+Comprehensive documentation is available at [docs.dart.ucar.edu](https://docs.dart.ucar.edu/en/latest/).
+
