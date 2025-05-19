@@ -31,12 +31,6 @@ members  :
     ncarpage    : https://staff.ucar.edu/browse/people/35721
     github      : https://github.com/mjs2369
 
-  - image       : images/team/iceberg3.jpg
-    name        : BEN JOHNSON
-    designation : Project Scientist
-    ncarpage    : https://staff.ucar.edu/users/johnsonb
-    github      : https://github.com/johnsonbk
-
   - image       : images/team/iceberg4.jpg
     name        : BRETT RACZKA
     designation : Associate Data Scientist
