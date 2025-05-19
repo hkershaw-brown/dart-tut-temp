@@ -20,8 +20,14 @@
               <h3>{{ .name }}</h3>
               <p>{{ .designation }}</p>
               <ul class="site-team-member-social">
-                <li><a href="{{ .ncarpage | absURL }}"><span class="icon-symbol-ncar"></span></a></li>
-                <li><a href="{{ .github | absURL }}"><i class="fa fa-github"></i></a></li>
+                <li><a href="{{ .github | absURL }}"><i class="fa fa-github" style="font-size:1.6em;"></i></a></li>
+                {{ if .orcid }}
+                <li>
+                <a href="{{ .orcid | absURL }}">
+                  <img src="/images/ORCID-iD_icon_vector-small.png" alt="ORCID iD" style="height:1.9em;vertical-align:middle; padding-bottom:0.5em;">
+                </a>
+                </li>
+                {{ end }}
               </ul>
             </div>
           </div>
