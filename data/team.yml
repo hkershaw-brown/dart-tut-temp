@@ -37,5 +37,5 @@ members  :
     name        : BRETT RACZKA
     designation : Associate Data Scientist
     ncarpage    : https://staff.ucar.edu/browse/people/26663
-    orcid       : https://orcid.org/0000-0003-0582-1118
+#    orcid       : https://orcid.org/0000-0003-0582-1118
     github      : https://github.com/NCAR/DART
