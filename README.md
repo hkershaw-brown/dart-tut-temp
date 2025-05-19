@@ -5,9 +5,9 @@
 
 To install Hugo on your mac you can download a binary from the [hugo release page](https://github.com/gohugoio/hugo/releases). Choose an _extended version. 
 
-The version I have been using to build the site is Hugo Static Site Generator v0.80.0-792EF0F4/extended darwin/amd64 BuildDate: 2020-12-31T13:44:15Z
+The version I have been using to build the site is Hugo Static Site Generator hugo v0.147.3-05417512bd001c0b2cc0042dcc584575825b89b3+extended darwin/arm64 BuildDate=2025-05-12T12:25:03Z VendorInfo=gohugoio
 which you can download from here:
-https://github.com/gohugoio/hugo/releases/tag/v0.80.0
+https://github.com/gohugoio/hugo/releases/tag/v0.147.3
 
 
 For more details see:<br>
@@ -99,7 +99,7 @@ Edit `data/team.yml` to add a new team member
   - image       : images/team/profile-pic.jpg
     name        : MARGARET HAMILTON
     designation : Scientist
-    ncarpage    : https://staff.ucar.edu/users/mhamilton
+    orcid       : https://orcid.org/XXXX-XXXX-XXXX-XXXX
     github      : https://github.com/mhamilton
 ````
 
@@ -235,7 +235,6 @@ The `themes` directory contains the .scss files that control the look of the sit
 
 ## Publishing the website at dart.ucar.edu
 
-**Note, these instructions are for when the dart website has been switched to gh-pages**
 
 The dart website is hosted on the `gh-pages` branch on  https://github.com/NCAR/DART.git
 
@@ -260,6 +259,7 @@ Replace `../DART-gh-pages` with wherever you checked out the DART repo.
 Add and commit your changes:
 
 ````
+cd ../DART-gh-pages
 git add .
 git commit
 ````
