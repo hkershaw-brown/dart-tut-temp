@@ -276,7 +276,7 @@ git push origin gh-pages
 You may want to do something cooler and automate push process in the future. 
 
 
-By the magic of gitpages, this becomes the website at:
+By the magic of GitHub pages, this becomes the website at:
 
 ````
 https://dart.ucar.edu/
