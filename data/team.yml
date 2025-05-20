@@ -5,12 +5,14 @@ members  :
     name        : JEFFREY ANDERSON
     designation : Senior Scientist
     ncarpage    : https://staff.ucar.edu/users/jla/
+    orcid       : https://orcid.org/0000-0001-6227-6983
     github      : https://github.com/jlaucar
  
   - image       : images/team/iceberg2.jpg
     name        : MOHA GHARAMTI
     designation : Scientist
     ncarpage    : https://staff.ucar.edu/users/gharamti
+    orcid       : https://orcid.org/0009-0004-2248-7363
     github      : https://github.com/mgharamti
 
   - image       : images/team/KevinHeadShot.jpg
@@ -37,5 +39,5 @@ members  :
     name        : BRETT RACZKA
     designation : Associate Data Scientist
     ncarpage    : https://staff.ucar.edu/browse/people/26663
-#    orcid       : https://orcid.org/0000-0003-0582-1118
+    orcid       : https://orcid.org/0000-0003-0582-1118
     github      : https://github.com/NCAR/DART
