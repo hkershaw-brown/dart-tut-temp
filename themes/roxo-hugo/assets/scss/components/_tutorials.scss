@@ -46,7 +46,7 @@
   &-content {
     h4 {
       margin: 25px 0 5px;
-      text-transform: uppercase;
+      text-transform: none;
       color: $secondary-color;
     }
     .col-lg-8 {
@@ -56,4 +56,25 @@
       margin: 10px 0 30px;
     }
   }
+}
+
+.card-body {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.card-body h4 {
+  min-height: 3em; /* Adjust as needed for your title font-size */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.embed-responsive {
+  flex: 1 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }

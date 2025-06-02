@@ -41,6 +41,10 @@ summarylength = 25
     parent  = "research"
     weight  = 4
   [[menu.nav]]
+    name    = "Videos"
+    url     = "videos"
+    weight  = 3
+  [[menu.nav]]
     name    = "Documentation"
     url     = "https://docs.dart.ucar.edu/"
     weight  = 4

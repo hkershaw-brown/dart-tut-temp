@@ -1,0 +1,10 @@
+videos:
+  - title: "NCAR Explorer Series Lecture"
+    youtube_id: "7Rp8YpltYzE"
+    description: "How ensemble prediction systems can tell us what we know (and don't know) about the future"
+  - title: "Accelerating NCAR Science with Ensemble Data Assimilation"
+    youtube_id: "rxPGKFxJAkE"
+    description: "Deep dive into advanced data assimilation techniques."
+  - title: "Improving Carbon Cycling using Land Data Assimilation"
+    youtube_id: "9oHPdsXK6Ks"
+    description: "Improving Carbon Cycling using Land Data Assimilation: Progress and Challenges"

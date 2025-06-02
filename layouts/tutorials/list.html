@@ -12,24 +12,12 @@
 
 <section class="site-tutorials-content">
   <div class="container">
-
-    <div class="row">
-      <div class="col-lg-4 mx-auto">
-        <video width=100% autoplay loop muted>
-          <source src="{{ .Params.animation }}" />
-        </video>
-      </div>
-      <div class="col-lg-8 mx-auto">
-        <h4>{{ .Params.first_line }}</h4>
-        <h4>{{ .Params.second_line }}</h4>
-        <h4>{{ .Params.third_line }}</h4>
-      </div>
-    </div>
-
+   
     <div class="row">
       {{ range (.Paginator 4).Pages.ByWeight }}
       <div class="col-lg-6">
         <article class="site-blog-post">
+          <div class="card-body">
           {{ with .Params.image }}
           <div class="site-blog-post-thumb">
             <img src="{{ . | absURL }}" alt="post-thumb">
@@ -42,6 +30,7 @@
               {{ .Summary }} ...
             </p>
             <a href="{{ .Permalink }}" class="read-more">read more</a>
+          </div>
           </div>
         </article>
       </div>
