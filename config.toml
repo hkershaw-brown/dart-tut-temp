@@ -132,8 +132,8 @@ summarylength = 25
           name = "About Us"
           url  = "about"
         [[params.footer.sitemap.link]]
-          name = "Research"
-          url  = "research"
+          name = "Videos"
+          url  = "videos"
         [[params.footer.sitemap.link]]
           name = "Tutorials"
           url  = "tutorials"
