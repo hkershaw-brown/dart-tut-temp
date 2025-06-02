@@ -3,6 +3,7 @@
       background: $gray;
       background-image: url('/images/banners/peaks.jpg');
       padding-top: 180px;
+      margin-bottom: 1rem;
       @include mobile{
         padding: 100px 0 20px;
       }

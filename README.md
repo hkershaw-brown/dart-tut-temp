@@ -120,7 +120,7 @@ If you want the counter to link to another page, add a url
     url: "publications"
 ````
 
-#### Adding a new reseach project
+#### Adding a new research project
 
 You can use Hugo to create a new project.md file with the Hugo front matter. In the top level directory run the command:
 
@@ -130,9 +130,19 @@ hugo new research/my-cool-project.md
 
 This creates `content/research/my-cool-project.md`
 
+#### Adding a new video
+
+Add a new entry in data/videos.yml
+
+```
+- title: "DART on automated computing engines"
+  youtube_id: "hNy71aFkejY"
+  description: "Alan Turing, SIParCS Presentation"
+```
+
 #### Adding a new tutorial page
 
-You can use Hugo to create a new tutorial.md file with the hugo front matter. In the top level dircetcory run the command:
+You can use Hugo to create a new tutorial.md file with the hugo front matter. In the top level directory run the command:
 
 ````
 hugo new tutorials/my-cool-tutorial.md
