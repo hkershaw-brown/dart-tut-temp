@@ -6,12 +6,16 @@ feature_image: images/tutorial/dart-lab.png
 weight: 1
 category: "MATLAB"
 author: dart
+summary: "A MATLAB®-based tutorial to demonstrate the principles of 
+          ensemble data assimilation."
 ---
 #### An introduction to Data Assimilation using MATLAB
 
 
 DART\_LAB is a MATLAB®-based tutorial to demonstrate the principles of 
-ensemble data assimilation. This tutorial begins at a more introductory level
+ensemble data assimilation.
+
+This tutorial begins at a more introductory level
 than the materials in the tutorial directory, and includes hands-on exercises
 at several points. In a workshop setting, these materials and exercises took
 about 1.5 days to complete.

@@ -6,11 +6,13 @@ feature_image: images/tutorial/Land_model_WG2.jpg
 category: Fortran
 weight: 4
 author: dart
+summary: "Steps through a simple global assimilation run using CLM5"
 ---
 
-The CLM5-DART tutorial provides a detailed description of the download, setup, executation and
-diagnostic steps required for a simple global assimilation run using CLM5.  It is intended
-to be performed after the completion of the more general 
+The CLM5-DART tutorial provides a detailed description of the download, setup, execution and
+diagnostic steps required for a simple global assimilation run using CLM5. 
+
+It is intended to be performed after the completion of the more general 
 [DART tutorial](https://docs.dart.ucar.edu/en/stable/theory/readme.html) which covers the
 fundamental concepts of the Ensemble Kalman Filter used within DART.  This tutorial 
 provides fundamental concepts unique to a CLM assimilation, and offers some guidance

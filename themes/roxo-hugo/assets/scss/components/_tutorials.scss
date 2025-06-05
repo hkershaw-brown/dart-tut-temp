@@ -43,7 +43,6 @@
         color: $white;
       }
     }
-
   &-content {
     h4 {
       margin: 25px 0 5px;
@@ -56,6 +55,12 @@
     .row {
       margin: 10px 0 30px;
     }
+  }
+  &-feature-image {
+    width: 100%;
+    max-height: 380px;
+    object-fit: cover;
+    margin-bottom: 1.5rem;
   }
 }
 

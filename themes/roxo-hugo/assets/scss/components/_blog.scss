@@ -37,34 +37,45 @@
     &-pagination{
       @extend .site-project-pagination;
     }
-    &-post{
+    &-post {
       @extend .site-project-item;
-      &-thumb{
+      display: flex;
+      flex-direction: column;
+      height: 100%;
+
+      &-thumb {
         @extend .site-project-item-thumb;
       }
-      &-content{
+      &-content {
         @extend .site-project-item-content;
-        @include mobile{
+        flex: 1 1 auto; // Allow content to grow and fill space
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+ 
+        @include mobile {
           padding: 15px 25px 40px;
         }
-        span{
+        span {
           font-size: 14px;
         }
-        h3{
+        h3 {
           margin-bottom: 15px;
-          @include mobile{
+          @include mobile {
             font-size: 20px;
           }
         }
-        a.read-more{
+        a.read-more {
           color: $primary-color;
           letter-spacing: 2px;
-          @include mobile{
+          margin-top: auto; // Push read more to the bottom
+          @include mobile {
             transform: translateY(22px);
           }
         }
       }
     }
+
     &-details{
       background-size: cover;
       background-color: $white;

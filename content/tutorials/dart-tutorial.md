@@ -6,6 +6,7 @@ feature_image: images/tutorial/PIA17896_orig_strip.jpg
 category: Fortran
 weight: 2
 author: dart
+summary: Step-by-step assimilation concepts and companion exercises with DART
 ---
 
 The DART Tutorial is intended to aid in the understanding of ensemble data assimilation
