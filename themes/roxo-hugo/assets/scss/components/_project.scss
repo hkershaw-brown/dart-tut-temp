@@ -35,6 +35,7 @@
     &-content{
       position: absolute;
       background: rgba(247, 249, 255, 0.8);
+      width: 100%;
       padding: 25px 25px;
       bottom: 0;
       transition: all .1s $site-ease;
