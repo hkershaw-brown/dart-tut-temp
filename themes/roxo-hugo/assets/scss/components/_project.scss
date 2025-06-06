@@ -26,7 +26,7 @@
   &-item{
     position: relative;
     margin-bottom: 30px;
-    transition: all 0.3s ease-in;
+    transition: all 0.1s ease-in;
     &-thumb{
       img{
         width: 100%;
@@ -34,11 +34,12 @@
     }
     &-content{
       position: absolute;
-      background: rgba(247, 249, 255, 0.8);
-      width: 100%;
+      background: rgba(247, 249, 255, 1);
+      // there is an overlfow on th right
+      width: calc(100% - 40px);
       padding: 25px 25px;
       bottom: 0;
-      transition: all .3s $site-ease;
+      transition: all .1s $site-ease;
       @include tablet{
         padding: 30px;
         padding-bottom: 75px;
@@ -57,7 +58,7 @@
           transition: 0.3s ease;
           &:hover{
             text-decoration: none;
-            color: $primary-color;
+            color: lighten($primary-color,20%);
           }
         }
       }
@@ -76,20 +77,21 @@
         }
       }
     }
-    &:hover{
+    &:hover{      
       box-shadow: 
-      0px 30px 45px 0px rgba(0, 0, 0, 0.01),
-      0px 30px 45px 0px rgba(0, 0, 0, 0.02),
-      0px 30px 45px 0px rgba(0, 0, 0, 0.03),
-      0px 30px 45px 0px rgba(0, 0, 0, 0.04);
+      0px 0px 45px 0px rgba(0, 0, 0, 0.1),
+      0px 0px 45px 0px rgba(0, 0, 0, 0.2),
+      0px 0px 45px 0px rgba(0, 0, 0, 0.3),
+      0px 0px 45px 0px rgba(0, 0, 0, 0.4);
       .site-project-item-content{
         a{
           transform: translateY(0);
           opacity: 1;
         }
-        padding-bottom: 75px;
-      }
+         padding-bottom: 75px;
+      } 
     }
+      
   }
   &-cta{
     margin-top: 30px;
