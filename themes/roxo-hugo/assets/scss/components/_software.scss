@@ -1,6 +1,6 @@
 .site-software{
   &-header{
-    padding-top: 180px;
+    padding-top: 150px;
     background-color: $gray;
     background-image: url('/images/banners/clouds.jpg');
     background-size: cover;
@@ -35,7 +35,7 @@
   &-content{
     background: $gray;
     width: 100%;
-    padding: 50px 20px;
+    padding: 150px 20px;
     padding-bottom: 40px;
 
     p{
@@ -84,7 +84,7 @@
       font-size: 26px;
     }
   }
-  &-buttons{
+  &-btn{
     margin: 0;
     padding: 0;
     li{ 
@@ -100,13 +100,8 @@
         }   
       }   
       .btn{
-        font-weight: 600;
-        @include mobile{
-          width: 90%;
-          margin: 0 auto;
-          display: block;
+        @extend .btn-primary;
         }   
       }   
-    }   
-  }  
+    }    
 }

@@ -1,42 +1,26 @@
 {{ define "main" }}
 
-<section class="site-software-header">
-  <div class="container" >
-    <div class="row justify-content-right">
-      <div class="col-lg-12 text-center">
-        <h1>{{ .Title }}</h1>
-      </div>
-    </div>
-  </div>
-</section>
-
 <section class="site-software-content">
   <div class="container">
-    <div class="row justify-content-center">
-      <div class="col-lg-4">
-        <div class="site-software-wrapper">
-        <div class="site-software-git">
-          <center>
-            <a target="_blank" href="{{ .Params.github | absURL }}">
-              <h1>
-                Code <i class="fa fa-github"></i>
-              </h1>
-            </a>
-          </center>
-        </div>
-        <div class="site-software-docs">
-          <center>
-            <a target="_blank" href="{{ .Params.readthedocs | absURL }}">
-              <h1>
-                Documentation <span class="icon-data-assimilation"></span>
-              </h1>
-            </a>
-          </center>
-        </div>
+    <div class="row justify-content-center align-items-start">
+      <div class="col-lg-8">
+        <div class="card shadow-sm h-100" style="border-radius: 1rem;">
+          <div class="card-body">
+            {{ .Content | safeHTML }}
+          </div>
         </div>
       </div>
-      <div class="col-lg-8">
-        {{ .Content  | safeHTML }}
+      <div class="col-lg-4 mb-4">
+        <div class="card shadow-sm h-100" style="border-radius: 1rem;">
+          <div class="card-body d-flex flex-column align-items-center justify-content-center" >
+            <a target="_blank" href="{{ .Params.github | absURL }}" class="btn btn-dark btn-lg mb-3 w-100 d-flex align-items-center justify-content-center" style="border-radius: 1rem;">
+              <i class="fa fa-github fa-2x mr-3"></i> View Code
+            </a>
+            <a target="_blank" href="{{ .Params.readthedocs | absURL }}" class="btn btn-primary btn-lg w-100 d-flex align-items-center justify-content-center" style="border-radius: 1rem;">
+              <span class="icon-data-assimilation fa-2x mr-3"></span> Documentation
+            </a>
+          </div>
+        </div>
       </div>
     </div>
   </div>
