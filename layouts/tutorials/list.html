@@ -16,24 +16,28 @@
     <div class="row">
       {{ range (.Paginator 4).Pages.ByWeight }}
       <div class="col-lg-6">
-        <article class="site-blog-post">
-          <div class="card-body">
-          {{ with .Params.image }}
-          <div class="site-blog-post-thumb">
-            <img src="{{ . | absURL }}" alt="post-thumb">
-          </div>
-          {{ end }}
-          <div class="site-blog-post-content">
-            <span>{{ .Params.category }}</span>
-            <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
-            <p>
-              {{ .Summary }} ...
-            </p>
-            <a href="{{ .Permalink }}" class="read-more">read more</a>
-          </div>
-          </div>
-        </article>
-      </div>
+        <a href="{{ .Permalink }}" class="card-link" style="text-decoration:none; color:inherit;">
+          <article class="site-blog-post">
+            <div class="card-body">
+              {{ with .Params.image }}
+              <div class="site-blog-post-thumb">
+                <img src="{{ . | absURL }}" alt="post-thumb">
+              </div>
+              {{ end }}
+              <div class="site-blog-post-content">
+                <span>{{ .Params.category }}</span>
+                <h3>{{ .Title }}</h3>
+                <p>
+                  {{ .Summary }} ...
+                </p>
+                <span class="read-more">read more</span>
+              </div>
+            </div>
+          </article>
+        </a>
+    </div>
+      {{ end }}
+      {{ if not (.Paginator 4).HasNext }}
       {{ end }}
       <div class="col-12">
         <div class="site-blog-pagination">
