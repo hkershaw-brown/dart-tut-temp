@@ -37,8 +37,6 @@
         </a>
     </div>
       {{ end }}
-      {{ if not (.Paginator 4).HasNext }}
-      {{ end }}
       <div class="col-12">
         <div class="site-blog-pagination">
           {{ template "_internal/pagination.html" . }}
