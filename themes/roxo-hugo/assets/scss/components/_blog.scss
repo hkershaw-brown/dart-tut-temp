@@ -48,11 +48,13 @@
       }
       &-content {
         @extend .site-project-item-content;
+        background: rgba(247, 249, 255, 1);
+        // there is an overlfow on th right
+        width: calc(100% - 40px);
         flex: 1 1 auto; // Allow content to grow and fill space
         display: flex;
         flex-direction: column;
         justify-content: space-between;
- 
         @include mobile {
           padding: 15px 25px 40px;
         }

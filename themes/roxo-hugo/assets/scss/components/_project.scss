@@ -34,9 +34,7 @@
     }
     &-content{
       position: absolute;
-      background: rgba(247, 249, 255, 1);
-      // there is an overlfow on th right
-      width: calc(100% - 40px);
+      background: rgba(247, 249, 255, 0.8);
       padding: 25px 25px;
       bottom: 0;
       transition: all .1s $site-ease;
