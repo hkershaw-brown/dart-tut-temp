@@ -3,77 +3,118 @@
 
   <section class="site-collab" style="background-image: url('{{ .background_image }}');">
     <div class="container">
-      
       <span class="site-collab-title">
         <h2> {{ .heading | safeHTML }} </h2>
       </span>
-      <table class="table">
-        <tr>
-          <th>Lower Atmosphere</th>
-          <th>Upper Atmosphere</th>
-          <th>Ocean</th>
-          <th>Cryosphere</th>
-          <th>Land Surface</th>
-          <th>Hydrology</th>
-          <th>Conceptual</th>
-        </tr>
-        <tr>
-          <td>CAM</td>
-          <td>WACCM</td>
-          <td>POP</td>
-          <td>CICE</td>
-          <td>CLM</td>
-          <td>WRF-Hydro</td>
-          <td>Lorenz '63, '84, '96, '05</td>
-        </tr>
-        <tr>
-          <td>WRF</td>
-          <td>GITM</td>
-          <td>ROMS</td>
-          <td></td>
-          <td>NOAH, NOAH-MP</td>
-          <td></td>
-          <td>Ikeda</td>
-        </tr>
-        <tr>
-          <td>WRF-Chem</td>
-          <td>Open GGCM</td>
-          <td>MITgcm-ocean</td>
-          <td></td>
-          <td></td>
-          <td></td>
-          <td>B-grid</td>
-        </tr>
-        <tr>
-          <td>MPAS-Atmosphere</td>
-          <td>TIE GCM</td>
-          <td>MPAS-ocean</td>
-          <td></td>
-          <td></td>
-          <td></td>
-          <td>SQG</td>
-        </tr>
-        <tr>
-          <td>AM2</td>
-          <td>ROSE</td>
-          <td>FESOM</td>
-          <td></td>
-          <td></td>
-          <td></td>
-          <td>9-variable</td>
-        </tr>
-        <tr></tr>
-          <td></td>
-          <td>Aether</td>
-          <td>MOM</td>
-          <td></td>
-          <td></td>
-          <td></td>
-          <td></td>
-        </tr>
-      </table>
+      <!-- Desktop/Tablet Table -->
+      <div class="table-responsive d-none d-md-block">
+        <table class="table table-bordered table-striped mb-0">
+          <thead class="thead-light">
+            <tr>
+              <th>Lower Atmosphere</th>
+              <th>Upper Atmosphere</th>
+              <th>Ocean</th>
+              <th>Cryosphere</th>
+              <th>Land Surface</th>
+              <th>Hydrology</th>
+              <th>Conceptual</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>CAM</td>
+              <td>WACCM</td>
+              <td>POP</td>
+              <td>CICE</td>
+              <td>CLM</td>
+              <td>WRF-Hydro</td>
+              <td>Lorenz '63, '84, '96, '05</td>
+            </tr>
+            <tr>
+              <td>WRF</td>
+              <td>GITM</td>
+              <td>ROMS</td>
+              <td></td>
+              <td>NOAH, NOAH-MP</td>
+              <td></td>
+              <td>Ikeda</td>
+            </tr>
+            <tr>
+              <td>WRF-Chem</td>
+              <td>Open GGCM</td>
+              <td>MITgcm-ocean</td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td>B-grid</td>
+            </tr>
+            <tr>
+              <td>MPAS-Atmosphere</td>
+              <td>TIE GCM</td>
+              <td>MPAS-ocean</td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td>SQG</td>
+            </tr>
+            <tr>
+              <td>AM2</td>
+              <td>ROSE</td>
+              <td>FESOM</td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td>9-variable</td>
+            </tr>
+            <tr>
+              <td></td>
+              <td>Aether</td>
+              <td>MOM</td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <!-- Mobile Table -->
+      <div class="table-responsive d-block d-md-none mt-4">
+  <table class="table table-bordered table-striped mb-0 mobile-collab-table">
+ 
+    <tbody>
+      <tr>
+        <td>Lower Atmosphere</td>
+        <td>CAM, WRF, WRF-Chem, MPAS-Atmosphere, AM2</td>
+      </tr>
+      <tr>
+        <td>Upper Atmosphere</td>
+        <td>WACCM, GITM, Open GGCM, TIE GCM, ROSE, Aether</td>
+      </tr>
+      <tr>
+        <td>Ocean</td>
+        <td>POP, ROMS, MITgcm-ocean, MPAS-ocean, FESOM, MOM</td>
+      </tr>
+      <tr>
+        <td>Cryosphere</td>
+        <td>CICE</td>
+      </tr>
+      <tr>
+        <td>Land Surface</td>
+        <td>CLM, NOAH, NOAH-MP</td>
+      </tr>
+      <tr>
+        <td>Hydrology</td>
+        <td>WRF-Hydro</td>
+      </tr>
+      <tr>
+        <td>Conceptual</td>
+        <td>Lorenz '63, '84, '96, '05, Ikeda, B-grid, SQG, 9-variable</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
   </section>
 
   {{ end }}
 {{ end }}
-

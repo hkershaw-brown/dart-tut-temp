@@ -1,20 +1,10 @@
 .site-collab{
   padding: 80px 0 80px;
-  background: #012169;
+  background: $secondary-color;
   h2 {
-    color: #1A658F;
+    color: lighten($primary-color, 20%);;
   }
 
-  th {
-    color: #A8C700;
-  }
-  td {
-    color: #FFF;
-  }
-
-  table {
-    table-layout: fixed;
-  }
   @include mobile{
     padding: 100px 0 100px;
   }
@@ -49,4 +39,52 @@
     }   
   }
 
+}
+
+// desktop table styles
+.site-collab .thead-light th {
+  background-color: $secondary-color !important;
+  color: #A8C700 !important;
+}
+
+.site-collab td {
+  background-color: $secondary-color; // cell background
+  color: $white;            // cell text
+
+} 
+
+// mobile table styles
+.site-collab .mobile-collab-table th {
+  background-color: $secondary-color; // mobile header background
+  color: #A8C700;            // mobile header text
+}
+
+.site-collab .mobile-collab-table td {
+  background-color: $secondary-color; // cell background
+  color: $white;            // cell text
+}
+
+.site-collab .mobile-collab-table td:nth-child(1),
+.site-collab .mobile-collab-table th:nth-child(1) {
+  background-color: $secondary-color; 
+  color: #A8C700;            // text color
+  font-weight: bold;
+}
+
+
+// border styles
+.site-collab th,
+.site-collab td {
+  border-left: none !important;
+  border-right: none !important;
+}
+
+.site-collab tr {
+  border-left: none !important;
+  border-right: none !important;
+}
+
+.site-collab table {
+  border-left: none !important;
+  border-right: none !important;
 }
