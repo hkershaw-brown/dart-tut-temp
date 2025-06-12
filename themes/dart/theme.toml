@@ -1,0 +1,4 @@
+name = "dart"
+description = "Custom DART Hugo theme based on roxo-hugo with all project-specific changes."
+author = "DART Team"
+license = "MIT"

@@ -1,7 +1,7 @@
 baseURL       = "https://dart.ucar.edu/"
 languageCode  = "en-us"
 title         = "DART | The Data Assimilation Research Testbed"
-theme         = "roxo-hugo"
+theme         = "dart"
 summarylength = 25
 [markup]
   [markup.goldmark]
