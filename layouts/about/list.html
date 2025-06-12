@@ -5,23 +5,26 @@
     <div class="row justify-content-center">
       <div class="col-lg-12">
         <h2>{{ .Title }}</h2>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="site-about-description">
+  <div class="container">
+    <div class="row justify-content-left">
+      <div class="col-lg-10 col-md-12">
         <br>
-        <p>
-          {{ .Params.description }}
-        </p>
-        <br>
-        <p>
-          {{ .Params.purpose }}
-        </p>
-        <br>
-        <p>
-          {{ .Params.small_group }}
-        </p>
+        <p>{{ .Params.description }}</p>
+        <p>{{ .Params.purpose }}</p>
+        <p>{{ .Params.small_group }}</p>
       </div>
     </div>
   </div>
 </section>
 
 {{ partial "team.html" . }}
+
 
 {{ end }}
