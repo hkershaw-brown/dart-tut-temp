@@ -227,21 +227,49 @@ The hugo directory structure looks like this:
 ````
 .
 ├── archetypes
-├── config.toml
 ├── content
+│   ├── about
+│   ├── contact
+│   ├── dissertations-and-theses
+│   ├── presentations
+│   ├── publications
+│   ├── research
+│   ├── software
+│   ├── tutorials
+│   └── videos
 ├── data
-├── layouts
-├── static
+├── logos
 └── themes
+    └── dart
+        ├── archetypes
+        ├── assets
+        │   ├── css
+        │   ├── js
+        │   └── scss
+        │       └── components
+        ├── images
+        └── layouts
+            ├── _default
+            ├── about
+            ├── contact
+            ├── dissertations-and-theses
+            ├── partials
+            ├── presentations
+            ├── publications
+            ├── research
+            ├── software
+            ├── tutorials
+            └── videos
+
 ````
 
-The `layouts` directory contains .html layouts.  These override the default settings for the theme.
 
-The `themes` directory contains the .scss files that control the look of the site. 
+The `themes` directory contains the layout and style .scss files that control the look of the site: 
 
-`themes/roxo-hugo/assets/scss/`
+`themes/dart/layouts/`  
 
-**Future work**   create a dart-theme rather than using roxo-hugo + many overrides. 
+`themes/dart/assets/scss/`
+
 
 ## Publishing the website at dart.ucar.edu
 
