@@ -2,10 +2,10 @@
 title: "Better Scientific Software with Helen Kershaw"
 date: 2025-05-10T14:00:00-07:00
 type: research
-image: "images/featured-articles/helen-kershaw.jpg"
-hero: "images/hero/glass-plate-facade.jpg"
+image: "images/featured-articles/helen-kershaw.webp"
+hero: "images/hero/glass-plate-facade.webp"
 figures:
- - image : "images/featured-articles/helen-kershaw.jpg"
+ - image : "images/featured-articles/helen-kershaw.webp"
    caption : "Helen Kershaw at the UCAR Center Green Campus."
 
 category: ["SOFTWARE DEVELOPMENT"]

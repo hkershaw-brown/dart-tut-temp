@@ -2,7 +2,7 @@
 title: "Forecast sensitivity analysis"
 date: 2019-12-23T15:44:46+06:00
 type: research
-image: "images/science_nuggets/2005082500_f048_DLMU_sens_teaser.png"
+image: "images/science_nuggets/2005082500_f048_DLMU_sens_teaser.webp"
 category: ["HURRICANE KATRINA"]
 weight: 110
 ---
@@ -20,7 +20,7 @@ illustrates the effect of zonal winds aloft on the position of Hurricane Katrina
 
 [Ryan Torn](https://www.albany.edu/daes/faculty/ryan-torn)  torn@atmos.albany.edu
 
-{{< figure src="/images/science_nuggets/2005082500_f048_DLMU_sens.png" class="site-project-single-image" >}} 
+{{< figure src="/images/science_nuggets/2005082500_f048_DLMU_sens.webp" class="site-project-single-image" >}} 
 
 > Early Publications:
 

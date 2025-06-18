@@ -2,10 +2,10 @@
 title: "Moha Gharamti Named to Boulder 40 Under Forty"
 date: 2023-09-27T14:00:00-07:00
 type: research
-image: "images/featured-articles/moha-gharamti.jpg"
-hero: "images/hero/bizwest.jpg"
+image: "images/featured-articles/moha-gharamti.webp"
+hero: "images/hero/bizwest.webp"
 figures:
- - image : "images/featured-articles/moha-gharamti.jpg"
+ - image : "images/featured-articles/moha-gharamti.webp"
    caption : "Moha Gharamti honored at the BizWest 40 Under Forty reception at
    Grace Place in Berthoud, Colorado on September 27, 2023."
 

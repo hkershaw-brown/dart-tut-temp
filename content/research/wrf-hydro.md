@@ -2,16 +2,16 @@
 title: "Predicting Floods and Protecting Lives"
 date: 2021-01-01T14:58:06-07:00
 type: research
-image: "images/science_nuggets/ats_local_200_1_teaser.png"
-hero: "images/hero/wrf-hydro.jpg"
+image: "images/science_nuggets/ats_local_200_1_teaser.webp"
+hero: "images/hero/wrf-hydro.webp"
 category: ["FLOOD PREDICTION"]
 weight: 30
 figures:
- - image : "/images/science_nuggets/ats_local_200_1.png"
+ - image : "/images/science_nuggets/ats_local_200_1.webp"
    caption : "A depiction of the along-the-stream localization scheme implemented in the project. The asterisks depict stream flow gauges and the rainbow-colored segments depict the specific areas affected by the assimilated data."
- - image : "/images/science_nuggets/pee_dee_hydrograph.png"
+ - image : "/images/science_nuggets/pee_dee_hydrograph.webp"
    caption : "Precipitation and estimated stream flow for a hydrograph along the Pee Dee River. The Open Loop (orange line) refers to the estimated stream flow without data assimilation. The Prior (black line) and Posterior (dashed blue line) Means show significant reduction in the root mean squared error (RMSE)."
- - image : "/images/science_nuggets/fig_system_schematic.png"
+ - image : "/images/science_nuggets/fig_system_schematic.webp"
    caption : "A schematic depicting the data assimilation system used in the experiment."
 ---
 

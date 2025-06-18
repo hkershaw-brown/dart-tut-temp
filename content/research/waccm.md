@@ -2,7 +2,7 @@
 title: "Whole Atmosphere Community Climate Model"
 date: 2019-12-23T15:56:43+06:00
 type: research
-image: "images/science_nuggets/waccm_dart_ssw_t_1.png"
+image: "images/science_nuggets/waccm_dart_ssw_t_1.webp"
 category: ["CLIMATE MODELING"]
 weight: 100
 ---
@@ -12,7 +12,7 @@ This is an excerpt from
 by **Brian Bevirt** _07/11/2017_ as part of a _CISL News_ series describing the many 
 ways CISL improves modeling beyond providing supercomputing systems and facilities.
 
-{{< figure src="/images/science_nuggets/waccm_dart_ssw_t.png" class="site-project-single-image" >}} 
+{{< figure src="/images/science_nuggets/waccm_dart_ssw_t.webp" class="site-project-single-image" >}} 
 
 
 > These plots show measured and modeled zonal mean temperatures between 70N and 90N 

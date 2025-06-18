@@ -2,7 +2,7 @@
 title: "Assimilation on Mars"
 date: 2021-02-21T14:54:01-07:00
 type: research
-image: "images/science_nuggets/Williamsburg_Fig_WRF_teaser.png"
+image: "images/science_nuggets/Williamsburg_Fig_WRF_teaser.webp"
 category: [SPACE]
 weight: 70
 ---
@@ -27,7 +27,7 @@ been made from their measurements and could be assimilated, but we aim
 to directly assimilate their original radiance measurements via the 
 appropriate forward operators for TES and MCS.
 
-{{< figure src="/images/science_nuggets/Williamsburg_Fig_WRF.png" class="site-project-single-image" >}} 
+{{< figure src="/images/science_nuggets/Williamsburg_Fig_WRF.webp" class="site-project-single-image" >}} 
 
 > The figure shows the output from applying the DART-compliant forward
 > operator for TES to our MarsWRF GCM. The black contours are Mars

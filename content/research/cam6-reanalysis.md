@@ -2,22 +2,22 @@
 title: "The CAM6+DART Reanalysis for Earth System Science"
 date: 2023-02-12T11:34:06-07:00
 type: research
-image: "/images/featured-articles/cam6-reanalysis/chugatch-lake.jpg"
-hero: "images/hero/cam6-reanalysis.jpg"
+image: "/images/featured-articles/cam6-reanalysis/chugatch-lake.webp"
+hero: "images/hero/cam6-reanalysis.webp"
 category: ["EARTH SYSTEM SCIENCE"]
 weight: 10
 figures:
- - image : "/images/featured-articles/cam6-reanalysis/chugatch-lake.jpg"
+ - image : "/images/featured-articles/cam6-reanalysis/chugatch-lake.webp"
    caption : "Figure 1: Earth system components interact in many ways at the
    interfaces between them."
- - image : "/images/featured-articles/cam6-reanalysis/single-v-ens-forcing.png"
+ - image : "/images/featured-articles/cam6-reanalysis/single-v-ens-forcing.webp"
    caption : "Figure 2: A single atmospheric forcing allows an ensemble to
    collapse (top). Multiple atmospheric forcings cause the spread to increase
    (bottom). Picture courtesy of A. Fox."
- - image : "/images/featured-articles/cam6-reanalysis/ens-heat-flux.png"
+ - image : "/images/featured-articles/cam6-reanalysis/ens-heat-flux.webp"
    caption : "Figure 3: The downward longwave heat flux from 20 (of 80) ensemble members
          	(various colors) and the ensemble mean (black)."
- - image : "/images/featured-articles/cam6-reanalysis/ps-sandy.png"
+ - image : "/images/featured-articles/cam6-reanalysis/ps-sandy.webp"
    caption : "Figure 4: A 1-degree resolution model doesn't generate great
    hurricanes by itself, but here's hurricane Sandy shortly before landfall 0Z
    10/29/2012 in the analysis, ensemble mean, surface pressure. Here's a

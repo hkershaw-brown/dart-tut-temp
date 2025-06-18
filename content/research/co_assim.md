@@ -2,7 +2,7 @@
 title: "Assimliation of CO"
 date: 2021-02-21T14:48:20-07:00
 type: research
-image: "images/science_nuggets/CMAQ_graphic_teaser.png"
+image: "images/science_nuggets/CMAQ_graphic_teaser.webp"
 category: [ATMOSPHERIC CHEMISTRY]
 weight: 80
 ---
@@ -14,8 +14,8 @@ weight: 80
 
 > Alexis Zubrow
 
-{{< figure src="/images/science_nuggets/CMAQ_graphic_teaser.png" class="site-project-single-image" >}} 
-{{< figure src="/images/science_nuggets/CMAQ_graphic2.png" class="site-project-single-image" >}} 
+{{< figure src="/images/science_nuggets/CMAQ_graphic_teaser.webp" class="site-project-single-image" >}} 
+{{< figure src="/images/science_nuggets/CMAQ_graphic2.webp" class="site-project-single-image" >}} 
 
 > Fractional bias between the mean of the ensembles with and without data assimilation and the original full CMAQ run.
 

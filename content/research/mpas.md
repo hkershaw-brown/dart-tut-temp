@@ -3,7 +3,7 @@ title: "Model for Prediction across Scales"
 weight: 10
 date: 2019-12-23T15:44:46+06:00
 type: research
-image: "images/science_nuggets/mpas_teaser.png"
+image: "images/science_nuggets/mpas_teaser.webp"
 category: ["WEATHER PREDICTION"]
 ---
 
@@ -21,7 +21,7 @@ for MPAS-Atmosphere with the
 Gridpoint Statistical Interpolation (GSI) scheme that is operational at
 [the National Centers for Environmental Prediction](http://www.ncep.noaa.gov).
 
-{{< figure src="/images/science_nuggets/MPAS_spaghetti_Z500mb_anal.2008090512.png" class="site-project-single-image" >}} 
+{{< figure src="/images/science_nuggets/MPAS_spaghetti_Z500mb_anal.2008090512.webp" class="site-project-single-image" >}} 
 
 Grid structure used in the MPAS/DART interface
 The MPAS/DART interface is
@@ -35,7 +35,7 @@ reconstruct zonal and meridional winds at cell centers _(V)_
  using radial basis functions (RBFs).
 To avoid the singularity issue on the poles, the cartesian coordinate is employed.
 
-{{< figure src="/images/science_nuggets/MPAS_grid_components.png" class="site-project-single-image" >}} 
+{{< figure src="/images/science_nuggets/MPAS_grid_components.webp" class="site-project-single-image" >}} 
 
 The forward operators on the unstructured grid mesh are constructed as follows.
 The dual of the Voronoi mesh, or the triangular mesh (shown as dashed lines in the

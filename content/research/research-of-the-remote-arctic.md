@@ -2,10 +2,10 @@
 title: "Xueli Huo Researches the Remote Arctic"
 date: 2025-05-12T14:00:00-07:00
 type: research
-image: "images/featured-articles/xueli-huo.jpg"
-hero: "images/hero/foothills-of-the-brooks-range.jpg"
+image: "images/featured-articles/xueli-huo.webp"
+hero: "images/hero/foothills-of-the-brooks-range.webp"
 figures:
- - image : "images/featured-articles/xueli-huo.jpg"
+ - image : "images/featured-articles/xueli-huo.webp"
    caption : "Xueli Huo stands in front of Green Mountain."
 
 category: ["LAND SURFACE MODELING"]

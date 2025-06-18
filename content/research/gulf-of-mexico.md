@@ -2,10 +2,10 @@
 title: "Understanding Gulf of Mexico Eddy Dynamics"
 date: 2020-12-31T14:58:06-07:00
 type: research
-image: "images/featured-articles/gulf-of-mexico-featured-article.jpg"
-hero: "images/hero/roms.jpg"
+image: "images/featured-articles/gulf-of-mexico-featured-article.webp"
+hero: "images/hero/roms.webp"
 figures:
- - image : "images/featured-articles/deepwater-horizon.jpg"
+ - image : "images/featured-articles/deepwater-horizon.webp"
    caption : "Remnants of the Deepwater Horizon oil spill southeast of New Orleans, captured by the Moderate-Resolution Imaging Spectroradiometer aboard NASA's Terra Satellite on May 24, 2010."
 
 category: ["OCEANOGRAPHY"]

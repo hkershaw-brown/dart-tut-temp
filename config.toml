@@ -59,7 +59,7 @@ summarylength = 25
 
 # Site Params
 [params]
-  logo = "images/bam-crop.png"
+  logo = "images/bam-crop.webp"
   dateFormat = "26 FEB 1994"
   # Meta data
   description = "DART is a community facility for ensemble DA developed and maintained by the Data Assimilation Research Section (DAReS) at the National Center for Atmospheric Research (NCAR)."
@@ -81,7 +81,7 @@ summarylength = 25
   # Banner Section
   [params.banner]
     enable                = true
-    background_image      = "images/backgrounds/NCAR-Waves.png"
+    background_image      = "images/backgrounds/NCAR-Waves.webp"
     heading               = "The Data Assimilation Research Testbed"
     tagline               = "a community facility for ensemble data assimilation"
     primary_button        = "Research"
@@ -100,7 +100,7 @@ summarylength = 25
     secondary_button_url = "presentations"
 
   [params.tutorial]
-    background_image     = "images/backgrounds/NCAR-Waves.png"
+    background_image     = "images/backgrounds/NCAR-Waves.webp"
 
   [params.call_to_action]
     enable              = false
@@ -116,7 +116,7 @@ summarylength = 25
   [params.collab]
     enable           = true
     heading          = "Supported models"
-    background_image = "images/backgrounds/NCAR-Waves.png"
+    background_image = "images/backgrounds/NCAR-Waves.webp"
 
   [params.footer]
     # Footer Contact Info

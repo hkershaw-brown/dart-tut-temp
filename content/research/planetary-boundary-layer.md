@@ -2,7 +2,7 @@
 title: "Planetary Boundary Layer"
 date: 2021-02-21T15:03:37-07:00
 type: research
-image: "images/science_nuggets/JoshDorita_graphic_teaser.png"
+image: "images/science_nuggets/JoshDorita_graphic_teaser.webp"
 category: [PLANETARY BOUNDARY LAYER]
 weight: 60
 ---
@@ -36,7 +36,7 @@ events, and we define an event here to be a forecast value exceeding the 75th
 percentile. The climatology of the observations during the verification period 
 was chosen as reference system.
 
-{{< figure src="/images/science_nuggets/JoshDorita_graphic.png" class="site-project-single-image" >}} 
+{{< figure src="/images/science_nuggets/JoshDorita_graphic.webp" class="site-project-single-image" >}} 
 
 > Figure 1: Brier (on 75th percentile observations) reliability term 
 > (negative orientation) and area under the ROC (AUR; positively orientation) 

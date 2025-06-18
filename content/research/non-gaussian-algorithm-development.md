@@ -2,10 +2,10 @@
 title: "Ian Grooms and Novel Algorithm Development"
 date: 2025-05-11T14:00:00-07:00
 type: research
-image: "images/featured-articles/ian-grooms.jpg"
-hero: "images/hero/growth-on-wall.jpg"
+image: "images/featured-articles/ian-grooms.webp"
+hero: "images/hero/growth-on-wall.webp"
 figures:
- - image : "images/featured-articles/ian-grooms.jpg"
+ - image : "images/featured-articles/ian-grooms.webp"
    caption : "Ian Grooms in an atrium at the University of Colorado's Engineering Center."
 
 category: ["COMMUNITY CONTRIBUTIONS TO DART"]

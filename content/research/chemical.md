@@ -2,7 +2,7 @@
 title: "Chemical Data Assimilation"
 date: 2019-12-23T15:44:46+06:00
 type: research
-image: "images/science_nuggets/ChemicalWeather_NHprojection.png"
+image: "images/science_nuggets/ChemicalWeather_NHprojection.webp"
 category: ["ATMOSPHERIC CHEMISTRY"]
 weight: 90
 ---
@@ -17,7 +17,7 @@ weight: 90
 
 [Ave Arellano](https://arellano.faculty.arizona.edu), afarellano@email.arizona.edu
 
-{{< figure src="/images/science_nuggets/ChemicalWeather_NHprojection.png" class="site-project-single-image" >}} 
+{{< figure src="/images/science_nuggets/ChemicalWeather_NHprojection.webp" class="site-project-single-image" >}} 
 
 
 The ensemble-based chemical data assimilation system, 

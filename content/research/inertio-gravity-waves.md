@@ -2,7 +2,7 @@
 title: "Inertio Gravity Waves"
 date: 2021-02-21T14:58:06-07:00
 type: research
-image: "images/science_nuggets/Zagar_1.png"
+image: "images/science_nuggets/Zagar_1.webp"
 category: [GLOBAL CIRCULATION]
 weight: 120
 ---
@@ -24,7 +24,7 @@ meridional mode n and vertical eigenstructure m) and the representation of
 motions in terms of the balanced (ROT) and the inertio-gravity (IG)
 contributions.
 
-{{< figure src="/images/science_nuggets/Zagar_1.png" class="site-project-single-image" >}}
+{{< figure src="/images/science_nuggets/Zagar_1.webp" class="site-project-single-image" >}}
 
 The figure above presents the energy distribution among various motion types in
 DART/CAM analyses for July 2007. It shows that about 88% of the wave

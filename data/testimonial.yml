@@ -2,19 +2,19 @@ enable  : true
 title   : "Benefits of DART"
 subtitle: "Triptych panels"
 testimonial_item :
-  - thumb : "images/triptych/models.png"
+  - thumb : "images/triptych/models.webp"
     name  : "DATA ASSIMILATION FOR THE ENTIRE EARTH SYSTEM"
     company_position: "Models"
     quote : > 
             Use ensemble DA techniques with geophysical models spanning the earth system. 
 
-  - thumb : "images/triptych/instruments.png"
+  - thumb : "images/triptych/instruments.webp"
     name  : "USE DATA FROM ANY SOURCE, TEST MANY ALGORITHMS"
     company_position: "Instruments"
     quote : > 
             Assimilate any suitable observations. Swap out filter and inflation algorithms with ease.
 
-  - thumb : "images/triptych/platforms.png"
+  - thumb : "images/triptych/platforms.webp"
     name  : "LEARN ON LAPTOPS, RUN ON SUPERCOMPUTERS"
     company_position: "Platforms"
     quote : > 

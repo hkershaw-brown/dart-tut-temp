@@ -2,7 +2,7 @@
 title: "The Lorenz '96 model"
 date: 2021-02-21T15:08:08-07:00
 type: research
-image: "images/science_nuggets/L96GoodRankHistogram.png"
+image: "images/science_nuggets/L96GoodRankHistogram.webp"
 category: [LOW ORDER MODELS]
 weight: 50
 ---
@@ -11,7 +11,7 @@ The Lorenz '96 model is one of our favorite models. In our implementation, it is
 
 The images show rank historams used for evaluation assimlation performance - one good, one bad.
 
-{{< figure src="/images/science_nuggets/L96.png" class="site-project-single-image" >}} 
+{{< figure src="/images/science_nuggets/L96.webp" class="site-project-single-image" >}} 
 
 The Lorenz '96 model is described in
 

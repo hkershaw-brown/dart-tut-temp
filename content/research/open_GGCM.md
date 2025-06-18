@@ -3,7 +3,7 @@ title: "Open Geospace General Circulation Model"
 weight: 20
 date: 2019-12-23T15:55:44+06:00
 type: research
-image: "images/science_nuggets/OpenGGCM_graphic.png"
+image: "images/science_nuggets/OpenGGCM_graphic.webp"
 category: ["GEOSPACE MODELING"]
 ---
 
@@ -16,4 +16,4 @@ them into the state vector.
 This will improve model accuracy even when no data are assimilated.
 
 Jimmy Raeder, J.Raeder@unh.edu
-{{< figure src="/images/science_nuggets/OpenGGCM_graphic.png" class="site-project-single-image" >}} 
+{{< figure src="/images/science_nuggets/OpenGGCM_graphic.webp" class="site-project-single-image" >}} 

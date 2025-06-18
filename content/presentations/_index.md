@@ -460,7 +460,6 @@ Working Group Session](https://www.cesm.ucar.edu/events/workshops/ws.2018/) in B
     at JPL/Caltech, California <br />
     DA and Short-term Prediction Motivate the Need for Careful Software
     Development In Earth System Models: A Case Study
-    [\[pptx\]](anderson_da_model_devel.pptx)
     [\[pdf\]](http://www.image.ucar.edu/pub/DART/2018/2018_Caltech_JLA_talk.pdf)
 
 ![](/images/pin4.gif) **Tim Hoar** Apr 2018 :
