@@ -10,34 +10,34 @@ members  :
  
   - image       : images/team/iceberg2.jpg
     name        : MOHA GHARAMTI
-    designation : Scientist
+    designation : Scientist II
     ncarpage    : https://staff.ucar.edu/users/gharamti
     orcid       : https://orcid.org/0009-0004-2248-7363
     github      : https://github.com/mgharamti
 
   - image       : images/team/KevinHeadShot.jpg
     name        : KEVIN RAEDER
-    designation : Associate Scientist
+    designation : Associate Scientist IV
     ncarpage    : https://staff.ucar.edu/users/raeder/
     github      : https://github.com/kdraeder
 
   - image       : images/team/iceberg6.jpg
     name        : HELEN KERSHAW
-    designation : Software Engineer
+    designation : Software Engineer IV
     ncarpage    : https://staff.ucar.edu/users/hkershaw/
     orcid       : https://orcid.org/0009-0002-3755-9978
     github      : https://github.com/hkershaw-brown
 
   - image       : images/team/iceberg7.jpg
     name        : MARLEE SMITH
-    designation : Software Engineer
+    designation : Software Engineer I
     orcid       : https://orcid.org/0009-0008-7616-9060
     ncarpage    : https://staff.ucar.edu/browse/people/35721
     github      : https://github.com/mjs2369
 
   - image       : images/team/iceberg4.jpg
     name        : BRETT RACZKA
-    designation : Associate Data Scientist
+    designation : Associate Data Scientist II
     ncarpage    : https://staff.ucar.edu/browse/people/26663
     orcid       : https://orcid.org/0000-0003-0582-1118
-    github      : https://github.com/NCAR/DART
+    github      : https://github.com/braczka
