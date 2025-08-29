@@ -25,14 +25,14 @@ The following publication list contains known publications that use DART.
 Please contact [dart@ucar.edu](mailto:dart@ucar.edu) to add your publication
 to the list.
 
-Recent publications coauthored by NCAR staff should be freely available in the
+Recent publications coauthored by NSF NCAR staff should be freely available in the
 NSF NCAR online database known as [Opensky](https://opensky.ucar.edu/) by
 searching for a given publication's title.
 
 To cite DART in your publication, please use this citation updating the DART
 version and year as appropriate:
 
-> The Data Assimilation Research Testbed (Version X.Y.Z) [Software]. (2024). Boulder, Colorado: NSF NCAR/CISL/DAReS. [http://doi.org/10.5065/D6WQ0202](http://doi.org/10.5065/D6WQ0202)
+> The Data Assimilation Research Testbed (Version X.Y.Z) [Software]. (2025). Boulder, Colorado: NSF NCAR/CISL/DAReS. [http://doi.org/10.5065/D6WQ0202](http://doi.org/10.5065/D6WQ0202)
 
 The seminal reference is:
 
@@ -97,7 +97,7 @@ for publication in publications:
         if title[-1] != '?' and title[-1] != '.':
             title += '.'            
 
-        journal = publication['container-title']
+        journal = publication.get('container-title', 'Unknown Journal')
 
         try:
             volume = ' **' + publication['volume']+'**, '

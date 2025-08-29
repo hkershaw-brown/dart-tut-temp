@@ -16,7 +16,7 @@ searching for a given publication's title.
 To cite DART in your publication, please use this citation updating the DART
 version and year as appropriate:
 
-> The Data Assimilation Research Testbed (Version X.Y.Z) [Software]. (2024). Boulder, Colorado: NSF NCAR/CISL/DAReS. [http://doi.org/10.5065/D6WQ0202](http://doi.org/10.5065/D6WQ0202)
+> The Data Assimilation Research Testbed (Version X.Y.Z) [Software]. (2025). Boulder, Colorado: NSF NCAR/CISL/DAReS. [http://doi.org/10.5065/D6WQ0202](http://doi.org/10.5065/D6WQ0202)
 
 The seminal reference is:
 
@@ -39,17 +39,13 @@ The Data Assimilation Research Testbed: A Community Facility.
     The synergy of assimilating visible and infrared radiances and radar observations.  
     *Quarterly Journal of the Royal Meteorological Society*, **151**, e4938, [doi:10.1002/qj.4938](https://doi.org/doi:10.1002/qj.4938)
 
-![](/images/pin4.gif) **Riedel C.P., M.M. Wieringa & J.L. Anderson**, 2025  
-    Exploring Bounded Non-parametric Ensemble Filter Impacts on Sea Ice Data Assimilation.  
-    *Quarterly Journal of the Royal Meteorological Society*,  [doi:10.1175/MWR-D-24-0096.1](https://doi.org/doi:10.1175/MWR-D-24-0096.1)
-
 ![](/images/pin4.gif) **Shrestha P. & A.P. Barros**, 2025  
     Multi-Physics Data Assimilation Framework for Remotely Sensed Snowpacks to Improve Water Prediction.  
     *Water Resources Research*, **61**, e2024WR037885, [doi:10.1029/2024WR037885](https://doi.org/doi:10.1029/2024WR037885)
 
 ![](/images/pin4.gif) **Capute P.K. & R.D. Torn**, 2025  
     A Comparison of Arctic and Atlantic Basin Cyclone Track and Intensity Forecast Uncertainty.  
-    *Water Resources Research*,  [doi:10.1175/MWR-D-24-0135.1](https://doi.org/doi:10.1175/MWR-D-24-0135.1)
+    *Monthly Weather Review*,  [doi:10.1175/MWR-D-24-0135.1](https://doi.org/doi:10.1175/MWR-D-24-0135.1)
 
 ![](/images/pin4.gif) **Casaretto G., C.S. Schwartz, M.E. Dillon, Y.G. Skabar & J.J. Ruiz**, 2025  
     Exploring Quantitative Observation Impact in Partial and Continuous Cycling Ensemble Kalman Filter Data Assimilation Systems.  
@@ -57,6 +53,34 @@ The Data Assimilation Research Testbed: A Community Facility.
 
 ![](/images/pin4.gif) **Kugler L. & M. Weissmann**, 2025  
     Effects of Observation-Operator Nonlinearity on the Assimilation of Visible and Infrared Radiances in Ensemble Data Assimilation.  
+    *Quarterly Journal of the Royal Meteorological Society*, **151**, e4970, [doi:10.1002/qj.4970](https://doi.org/doi:10.1002/qj.4970)
+
+![](/images/pin4.gif) **Lei L., H. Ju, K. Fu, J.L. Anderson, L. Zhou & Z. Tan**, 2025  
+    Quantile-Conserving Ensemble Filters for All-sky Infrared Radiance Assimilation.  
+    *Monthly Weather Review*,  [doi:10.1175/MWR-D-25-0038.1](https://doi.org/doi:10.1175/MWR-D-25-0038.1)
+
+![](/images/pin4.gif) **Riedel C.P., M.M. Wieringa & J.L. Anderson**, 2025  
+    Exploring Bounded Nonparametric Ensemble Filter Impacts on Sea Ice Data Assimilation.  
+    *Monthly Weather Review*, **153**, 637-654, [doi:10.1175/MWR-D-24-0096.1](https://doi.org/doi:10.1175/MWR-D-24-0096.1)
+
+![](/images/pin4.gif) **Seo M. & H.M. Kim**, 2025  
+    Evaluation of high‐resolution regional <span style="font-variant:small-caps;"> CO<sub>2</sub> </span> data assimilation–forecast system in East Asia using observing system simulation experiment and effect of observation network on simulated <span style="font-variant:small-caps;"> CO<sub>2</sub> </span> concentrations.  
+    *Quarterly Journal of the Royal Meteorological Society*, **151**, e4987, [doi:10.1002/qj.4987](https://doi.org/doi:10.1002/qj.4987)
+
+![](/images/pin4.gif) **Rao W., Y. Tang, Y. Wu & X. Li**, 2025  
+    A Model‐Independent Strategy for the Targeted Observation Analysis and Its Application in ENSO Prediction.  
+    *Journal of Advances in Modeling Earth Systems*, **17**, e2024MS004742, [doi:10.1029/2024MS004742](https://doi.org/doi:10.1029/2024MS004742)
+
+![](/images/pin4.gif) **Chen Y., Y. Tang, Z. Shen & Y. Li**, 2025  
+    Enhancing satellite sea level anomaly data assimilation in a coupled general circulation model with a hybrid mean dynamical topography.  
+    *Climate Dynamics*, **63**, 300, [doi:10.1007/s00382-025-07785-7](https://doi.org/doi:10.1007/s00382-025-07785-7)
+
+![](/images/pin4.gif) **Li X., Y. Tang, M.J. McPhaden, L. Zhou, Y. Li, X. Song, T. Lian & D. Chen**, 2025  
+    Quantifying the role of tropical Indian Ocean observations to central Pacific El Niño prediction.  
+    *Environmental Research Letters*, **20**, 074023, [doi:10.1088/1748-9326/addbf3](https://doi.org/doi:10.1088/1748-9326/addbf3)
+
+![](/images/pin4.gif) **Kugler L. & M. Weissmann**, 2025  
+    Effects of Observation‐Operator Nonlinearity on the Assimilation of Visible and Infrared Radiances in Ensemble Data Assimilation.  
     *Quarterly Journal of the Royal Meteorological Society*, **151**, e4970, [doi:10.1002/qj.4970](https://doi.org/doi:10.1002/qj.4970)
 
 ---
@@ -161,7 +185,7 @@ The Data Assimilation Research Testbed: A Community Facility.
 
 ![](/images/pin4.gif) **Pinto J.O., S.C.C. Bailey, K.R. Fossell, S. Binau, M. Xu, J. Kay, R.D. Nolin, C.N. Vezzi, S.W. Smith, J. Lave, J. Colavito, M.B. Wilson & T.M. Weckwerth**, 2024  
     Impact of Assimilating Uncrewed Aircraft System Observations on River Valley Fog Prediction.  
-    *The Astrophysical Journal*,  [doi:10.1175/WAF-D-23-0087.1](https://doi.org/doi:10.1175/WAF-D-23-0087.1)
+    *Weather and Forecasting*,  [doi:10.1175/WAF-D-23-0087.1](https://doi.org/doi:10.1175/WAF-D-23-0087.1)
 
 ![](/images/pin4.gif) **Wieringa M.M., C. Riedel, J.L. Anderson & C.M. Bitz**, 2024  
     Bounded and categorized: targeting data assimilation for sea ice fractional coverage and nonnegative quantities in a single-column multi-category sea ice model.  
