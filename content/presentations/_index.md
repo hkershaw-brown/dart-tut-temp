@@ -20,21 +20,21 @@ aliases   :
      [103rd AMS Annual Meeting](https://annual.ametsoc.org/index.cfm/2023/program-events/)
      in Denver, CO, USA and virtually <br />
      A CESM+DART Atmospheric Reanalysis for Forcing Ocean, Land, and Other Surface Models
-     [\[pdf\]](http://www.image.ucar.edu/pub/DART/2023/talk_AMS_Denver_2023.pdf)
+     [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2023/talk_AMS_Denver_2023.pdf)
 
 ![](/images/pin4.gif) **Jeff Anderson** Jan 2023 :
      Presented at the
      [103rd AMS Annual Meeting](https://annual.ametsoc.org/index.cfm/2023/program-events/)
      in Denver, CO, USA and virtually <br />
      A Quantile Conserving Ensemble Filtering Framework: Next Generation Nonlinear and Non-Gaussian Data Assimilation Capabilities for DART
-     [\[pdf\]](http://www.image.ucar.edu/pub/DART/2023/poster_AMS_Denver_JLA_2023.pdf)
+     [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2023/poster_AMS_Denver_JLA_2023.pdf)
 
 ![](/images/pin4.gif) **Kevin Raeder** Jan 2023 :
      Presented at the
      [103rd AMS Annual Meeting](https://annual.ametsoc.org/index.cfm/2023/program-events/)
      in Denver, CO, USA and virtually <br />
      The Latest from the Data Assimilation Research Testbed: Powerful New Assimilation Algorithms, Advances in Efficiency and Capabilities, New Model and Observation Interfaces, and Novel Results
-     [\[pdf\]](http://www.image.ucar.edu/pub/DART/2023/poster_AMS_Denver_2023.pdf)
+     [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2023/poster_AMS_Denver_2023.pdf)
 
 ----
 ## 2022
@@ -45,43 +45,43 @@ aliases   :
      [2022 AGU Fall Meeting](https://www.agu.org/Fall-Meeting)
      which was held in Chicago, IL, USA and virtually <br />
      The Data Assimilation Research Testbed; a Suite of Tools for Understanding the Earth System with Confidence.
-     [\[pdf\]](http://www.image.ucar.edu/pub/DART/2022/poster_AGU_virtual_2022.pdf)
+     [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2022/poster_AGU_virtual_2022.pdf)
 
 ![](/images/pin4.gif) **Brett Raczka** Jun 2022 :
     Presented at the 
     [Land Data Assimilation Community AIMES Workshop](https://aimesproject.org/lda_workshop_2022/) 
     which was held virtually <br />
     Applying the Data Assimilation Research Testbed towards improved simulations of Earth System Carbon, Water and Energy Cycling
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2022/2022_poster_AIMESDA.pdf)
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2022/2022_poster_AIMESDA.pdf)
 
 ![](/images/pin4.gif) **Brett Raczka** Jun 2022 :
     Presented at the 
     [Land Data Assimilation Community AIMES Workshop](https://aimesproject.org/lda_workshop_2022/) 
     which was held virtually <br />
     Applying Ensemble Data Assimilation to CLM
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2022/2022_talk_AIMES.pdf)
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2022/2022_talk_AIMES.pdf)
 
 ![](/images/pin4.gif) **Moha Gharamti** Jun 2022 :
     Presented at the 
     [8th International Symposium on Data Assimilation](https://www.cira.colostate.edu/conferences/isda/) 
     in Fort Collins, CO, USA <br />
     A Randomized Dormant Ensemble Kalman Filter; Sampling Errors: An Alternative Look
-    [\[presentation - pdf\]](http://www.image.ucar.edu/pub/DART/2022/2022_talk_ISDA_FortCollins.pdf)
-    [\[poster - pdf\]](http://www.image.ucar.edu/pub/DART/2022/2022_poster_ISDA_FortCollins.pdf)
+    [\[presentation - pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2022/2022_talk_ISDA_FortCollins.pdf)
+    [\[poster - pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2022/2022_poster_ISDA_FortCollins.pdf)
 
 ![](/images/pin4.gif) **Jeff Anderson** Jun 2022 :
     Presented at the 
     [8th International Symposium on Data Assimilation](https://www.cira.colostate.edu/conferences/isda/) 
     in Fort Collins, CO, USA <br />
     The Data Assimilation Research Testbed: An Intro to Powerful Nonlinear and Non-Gaussian Data Assimilation Tools
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2022/2022_talk_CSU_FtCollins.pdf)
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2022/2022_talk_CSU_FtCollins.pdf)
 
 ![](/images/pin4.gif) **Ben Johnson** Jun 2022 :
     Presented at the 
     [8th International Symposium on Data Assimilation](https://www.cira.colostate.edu/conferences/isda/) 
     in Fort Collins, CO, USA <br />
     A Comparison of Three Kalman Filters Using a Large Atmospheric General Circulation Model Ensemble
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2022/2022_poster_ISDA_Fort_Collins.pdf)
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2022/2022_poster_ISDA_Fort_Collins.pdf)
 
 ![](/images/pin4.gif) **Kevin Raeder** Jun 2022 :
     Presented at the 
@@ -89,49 +89,49 @@ aliases   :
     [2022 CESM Workshop](https://www.cesm.ucar.edu/events/workshops/2022/) in Boulder, CO, USA <br />
     Extending the CAM6+DART Reanalysis Past 2020, for use in CLM, POP, and CICE
     Data Assimilation, CAM Model Development, and Machine Learning
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2022/2022_poster_CESM_AMWG_virtual.pdf)
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2022/2022_poster_CESM_AMWG_virtual.pdf)
 
 ![](/images/pin4.gif) **Brett Raczka** Jun 2022 :
     Presented at the 
     [Land Model Working Group](https://www.cesm.ucar.edu/events/workshops/2022/files/2022-cesm-agenda-land.pdf) session of the
     [2022 CESM Workshop](https://www.cesm.ucar.edu/events/workshops/2022/) in Boulder, CO, USA <br />
     Applying the Data Assimilation Research Testbed to improve the Representation of Earth System Carbon, Water and Energy Cycling
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2022/2022_talk_CESM_LMWG.pdf)
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2022/2022_talk_CESM_LMWG.pdf)
 
 ![](/images/pin4.gif) **Ben Johnson** May 2022 :
     Presented at the 
     [NCAR High Performance Computing User Group Meeting](https://arc.ucar.edu/knowledge_base/70549847) 
     which was held in Boulder, CO, USA and virtually <br />
     Enhancing Predictions of the Earth by Studying Emergent Phenomena
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2022/2022_talk_nhug_2022.pdf)
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2022/2022_talk_nhug_2022.pdf)
 
 ![](/images/pin4.gif) **Brett Raczka** May 2022 :
     Presented at the 
     [Community Terrestrial Systems Model Tutorial](https://www.cesm.ucar.edu/events/2022/ctsm-tutorial/) 
     which was held in Boulder, CO, USA and virtually <br />
     Applying Ensemble Data Assimilation to CLM
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2022/2022_lecture_CTSM_Tutorial.pdf)
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2022/2022_lecture_CTSM_Tutorial.pdf)
 
 ![](/images/pin4.gif) **Jeff Anderson** Apr 2022 :
     Presented at the 
     [SIAM Conference on Uncertainty Quantification](https://www.siam.org/conferences/cm/conference/uq22) 
     which was held in Atlanta, GA, USA and virtually <br />
     A Quantile Conserving Particle Filter with Likelihood Localization
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2022/2022_talk_SIAMUQ_Virtual.pdf)
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2022/2022_talk_SIAMUQ_Virtual.pdf)
 
 ![](/images/pin4.gif) **Ben Johnson** Feb 2022 :
     Presented at the 
     [Ocean Sciences Meeting 2022](https://www.aslo.org/osm2022/)
     which was held virtually <br />
     New Capabilities in the Data Assimilation Research Testbed for the Ocean Science Community
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2022/2022_poster_OSM_Honolulu.pdf)
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2022/2022_poster_OSM_Honolulu.pdf)
 
 ![](/images/pin4.gif) **Helen Kershaw** Jan 2022 :
     Presented at the 
     [ISDA Data Assimilation Infrastructure - Software, Frameworks, HPC Event](https://isda-online.univie.ac.at/online-events/january-2022-data-assimilation-infrastructure/) 
     which was held virtually <br />
     The Data Assimilation Research Testbed in 2022 and Beyond: Not Your Parents’ DART
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2022/2022_talk_ISDAonline_Virtual.pdf)
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2022/2022_talk_ISDAonline_Virtual.pdf)
     [\[recording\]](https://www.youtube.com/watch?v=t1M5ywUL-Y0)
 
 ![](/images/pin4.gif) **Ben Johnson** Jan 2022 :
@@ -139,14 +139,14 @@ aliases   :
     [102nd AMS Annual Meeting](https://annual.ametsoc.org/index.cfm/2022/program-events/) 
     in Houston, TX, USA and virtually <br />
     A Comparison of Three Kalman Filters Using a Large Atmospheric General Circulation Model Ensemble
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2022/2022_poster_AMS_Houston.pdf)
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2022/2022_poster_AMS_Houston.pdf)
 
 ![](/images/pin4.gif) **Kevin Raeder** Jan 2022 :
     Presented at the 
     [102nd AMS Annual Meeting](https://annual.ametsoc.org/index.cfm/2022/program-events/) 
     in Houston, TX, USA and virtually <br />
     The Data Assimilation Research Testbed; a Suite of Tools for Understanding the Earth System with Confidence
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2022/2022_talk_AMS_virtual.pdf)
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2022/2022_talk_AMS_virtual.pdf)
 
 ----
 ## 2021
@@ -155,115 +155,115 @@ aliases   :
 ![](/images/pin4.gif) **Brett Raczka** Dec 2021 :
     Presented a DART Tutorial at Auburn University in Auburn, AL, USA <br />
     CLM5-DART Tutorial: Setting up and running a global assimilation
-    [\[pdf\]](https://www.image.ucar.edu/pub/DART/2021/2021_lecture_UofAuburn.pdf)
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2021/2021_lecture_UofAuburn.pdf)
 
 ![](/images/pin4.gif) **Kevin Raeder** Dec 2021 :
     Presented at the 
     [2021 AGU Fall Meeting](https://www.agu.org/Fall-Meeting-2021) 
     which was held in New Orleans, LA, USA and virtually <br />
     The Data Assimilation Research Testbed; a Suite of Tools for Understanding the Earth System with Confidence.
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2021/2021_poster_AGU_virtual.pdf)
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2021/2021_poster_AGU_virtual.pdf)
 
 ![](/images/pin4.gif) **Brett Raczka** Nov 2021 :
     Presented at the 
     [NCAR Climate and Global Dynamics Lab Seminar](http://ncas-m.org/opportunities/cgd-seminar-series-brett-raczka/)
     in Boulder, CO, USA <br />
     Improving Carbon Cycling using Land Data Assimilation: Progress and Challenges
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2021/2021_lecture_CGD_Seminar.pdf)
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2021/2021_lecture_CGD_Seminar.pdf)
     [\[recording\]](https://www.youtube.com/watch?v=9oHPdsXK6Ks)
 
 
 ![](/images/pin4.gif) **Moha Gharamti** Nov 2021 :
     Presented as a lecture for APPM 5510 at the University of Colorado in Boulder, CO, USA <br />
     Hybrid Ensemble Kalman Filtering and Optimal Interpolation a New Adaptive Formulation
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2021/2021_lecture_CU_Boulder.pdf)
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2021/2021_lecture_CU_Boulder.pdf)
 
 ![](/images/pin4.gif) **Brett Raczka** Oct 2021 :
     Presented a lecture to the Land-Atmosphere Interaction Group at the University of Utah in Salt Lake City, UT, USA <br />
     Land Data Assimilation using DART : Carbon cycling across the Western US
-    [\[pdf\]](https://www.image.ucar.edu/pub/DART/2021/2021_lecture_UofUtah.pdf)
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2021/2021_lecture_UofUtah.pdf)
 
 ![](/images/pin4.gif) **Jeff Anderson** Sep 2021 :
     Presented at the 
     [CISL Work In Progress Seminar](https://www2.cisl.ucar.edu/events/cisl-work-progress-wip-seminar-september-2021) 
     which was held virtually <br />
     A General Ensemble Filtering Framework: Improved Data Assimilation for Tracers
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2021/2021_talk_agu_Virtual.pdf)
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2021/2021_talk_agu_Virtual.pdf)
 
 ![](/images/pin4.gif) **Kevin Raeder** Sep 2021 :
     Presented at the 
     [WCRP-WWRP Symposium on Data Assimilation and Reanalysis](https://symp-bonn2021.sciencesconf.org/resource/page/id/15) 
     which was held virtually <br />
     A CESM+DART Atmospheric Reanalysis for Forcing Ocean, Land, and Other Surface Models
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2021/2021_talk_WCRP-WWRP_virtual.pdf)
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2021/2021_talk_WCRP-WWRP_virtual.pdf)
 
 ![](/images/pin4.gif) **Jeff Anderson** Aug 2021 :
     Presented at the 
     [2021 Joint Statistical Meeting](https://ww2.amstat.org/meetings/jsm/2021/onlineprogram/index.cfm) 
     which was held virtually <br />
     A General Ensemble Filtering Framework Using Quantiles
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2021/2021_talk_jsm_Virtual.pdf)
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2021/2021_talk_jsm_Virtual.pdf)
 
 ![](/images/pin4.gif) **Moha Gharamti** Jun 2021 :
     Presented at 
     [The International EnKF Workshop 2021](https://enkf.norceprosjekt.no/previous-workshops/enkf-workshop-2021-free-online-event-) 
     which was held virtually <br />
     Data Assimilation in Hydrology and Streamflow Forecasting: Hurricane Florence Flooding 2018
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2021/2021_talk_EnKFWorkshop_Virtual.pdf)
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2021/2021_talk_EnKFWorkshop_Virtual.pdf)
 
 ![](/images/pin4.gif) **Moha Gharamti** Jun 2021 :
     Presented at the 
     [Nansen Environmental and Remote Sensing Center Summer School](https://events.nersc.no/event/3rd-summer-school-crash-course-data-assimilation-theoretical-foundations-and-advanced) 
     which was held virtually <br />
     Data Assimilation in Hydrology and Streamflow Forecasting: Hurricane Florence Flooding 2018
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2021/2021_lecture_DASummerSchool_Virtual.pdf)
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2021/2021_lecture_DASummerSchool_Virtual.pdf)
 
 ![](/images/pin4.gif) **Brett Raczka** Jun 2021 :
     Presented virtually to the [NASA Carbon Monitoring System Project, Flux Working Group](https://carbon.nasa.gov/wg_cms.html)<br />
     Carbon Monitoring System in Mountains (CMS-Mountains): Development and Testing in the Western U.S.
-    [\[pdf\]](https://www.image.ucar.edu/pub/DART/2021/2021_talk_CMSMountainsFluxWG.pdf)
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2021/2021_talk_CMSMountainsFluxWG.pdf)
 
 ![](/images/pin4.gif) **Moha Gharamti** Jun 2021 :
     Presented at the 
     [Tackling Technical Challenges in Land Data Assimilation Workshop](https://aimesproject.org/lda_workshop/) 
     which was held virtually <br />
     Enhanced Streamflow Forecasting Using Ensemble da Hurricane Florence Flooding 2018
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2021/2021_talk_AIMES_Virtual.pdf)
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2021/2021_talk_AIMES_Virtual.pdf)
 
 ![](/images/pin4.gif) **Brett Raczka** Jun 2021 :
     Presented at the 
     [Biogeochemistry Working Group](https://www.cesm.ucar.edu/events/workshops/2021/files/2021-cesm-agenda-biogeochemistry.pdf) session of the
     [2021 CESM Workshop](https://www.cesm.ucar.edu/events/workshops/2021/) in Boulder, CO, USA <br />
     Improving CLM5.0 Biomass and Carbon Exchange across the Western US using Data Assimilation (DART)
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2021/2021_lecture_CESM_BGCWG.pdf)
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2021/2021_lecture_CESM_BGCWG.pdf)
 
 ![](/images/pin4.gif) **Kevin Raeder** Jun 2021 :
     Presented at the 
     [Machine Learning: CESM-Related Efforts Cross Working Group](https://www.cesm.ucar.edu/events/workshops/2021/files/2021-cesm-agenda-machine-learning.pdf) session of the
     [2021 CESM Workshop](https://www.cesm.ucar.edu/events/workshops/2021/) in Boulder, CO, USA <br />
     The CAM6+DART Ensemble Reanalysis Provides a Variety of Datasets for Machine Learning Training and Verification Algorithms
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2021/2021_talk_CESM_virtual.pdf)
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2021/2021_talk_CESM_virtual.pdf)
 
 ![](/images/pin4.gif) **Brett Raczka** Jun 2021 :
     Presented at the 
     [Land Model Working Group](https://www.cesm.ucar.edu/events/workshops/2021/files/2021-cesm-agenda-land.pdf) session of the
     [2021 CESM Workshop](https://www.cesm.ucar.edu/events/workshops/2021/) in Boulder, CO, USA <br />
     Opportunities for Data Assimilation in Land Surface Modeling
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2021/2021_talk_CESM_LMWG.pdf)
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2021/2021_talk_CESM_LMWG.pdf)
 
 ![](/images/pin4.gif) **Kevin Raeder** Jun 2021 :
     Presented at the 
     [Poster Session](https://www.cesm.ucar.edu/events/workshops/2021/files/2021-cesm-agenda-posters.pdf) session of the
     [2021 CESM Workshop](https://www.cesm.ucar.edu/events/workshops/2021/) in Boulder, CO, USA <br />
     A CAM6+CLM5 Ensemble Reanalysis for Forcing CESM Ice Models and Data Assimilation
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2021/2021_poster_CESM_virtual.pdf)
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2021/2021_poster_CESM_virtual.pdf)
 
 ![](/images/pin4.gif) **Jeff Anderson** Mar 2021 :
     Presented at the 
     [2021 SIAM Conference on Computational Science and Engineering](https://www.siam.org/conferences/cm/conference/cse21) 
     which was held virtually <br />
     Ensemble Kalman Filters for Data Assimilation: An Overview and Future Directions
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2021/2021_talk_SIAMCSE_Plenary_Virtual.pdf)
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2021/2021_talk_SIAMCSE_Plenary_Virtual.pdf)
 
 ![](/images/pin4.gif) **Moha Gharamti** Mar 2021 :
     Presented at 
@@ -271,35 +271,35 @@ aliases   :
     which was held virtually <br />
     Inflation in Ensemble Filters: Why, How and When?
     Real High-Dimensional Atmospheric and Hydrologic Applications
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2021/2021_talk_SIAM_Virtual.pdf)
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2021/2021_talk_SIAM_Virtual.pdf)
 
 ![](/images/pin4.gif) **Jeff Anderson** Mar 2021 :
     Presented at the 
     [2021 SIAM Conference on Computational Science and Engineering](https://www.siam.org/conferences/cm/conference/cse21) 
     which was held virtually <br />
     Non-Gaussian, Nonlinear Extensions for Ensemble Filter Data Assimilation with a Marginal Adjustment Rank Histogram Filter
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2021/2021_talk_SIAMCSE_Virtual.pdf)
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2021/2021_talk_SIAMCSE_Virtual.pdf)
 
 ![](/images/pin4.gif) **Jeff Anderson** Feb 2021 :
     Presented at the 
     Ludwig Maximilian University of Munich Colloquium in Data Science
     which was held virtually <br />
     Removing the Kalman from the Ensemble Kalman Filter
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2021/2021_talk_LMU_Virtual.pdf)
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2021/2021_talk_LMU_Virtual.pdf)
 
 ![](/images/pin4.gif) **Moha Gharamti** Jan 2021 :
     Presented at the 
     [101st AMS Annual Meeting](https://annual.ametsoc.org/index.cfm/2021/)
     which was held virtually <br />
     Improved Streamflow Prediction using WRF-Hydro and DART: Recent Advances and Developments
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2021/2021_poster_AMS_Virtual.pdf)
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2021/2021_poster_AMS_Virtual.pdf)
 
 ![](/images/pin4.gif) **Jeff Anderson** Jan 2021 :
     Presented at the 
     [101st AMS Annual Meeting](https://annual.ametsoc.org/index.cfm/2021/)
     which was held virtually <br />
     Using More Trusted Observations to Reduce Systematic Error in Less Trusted Observations using Ensemble Data Assimilation
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2021/2021_talk_ams_Virtual.pdf)
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2021/2021_talk_ams_Virtual.pdf)
 
 ----
 ## 2020
@@ -313,19 +313,19 @@ aliases   :
 ![](/images/pin4.gif) **Moha Gharamti** Nov 2020 :
     Presented to the UCAR Executive Committee of the Board of Trustees<br />
     Improving Earth System Model Predictions using Data Assimilation: Research and Applications
-    [\[presentation - pdf\]](http://www.image.ucar.edu/pub/DART/2020/2020_MEG_ExecComm.pdf)
+    [\[presentation - pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2020/2020_MEG_ExecComm.pdf)
 
 ![](/images/pin4.gif) **Moha Gharamti** Nov 2020 :
     Presented at the
     [AGU Fall Meeting](https://www.agu.org/Fall-Meeting-2020) which was held virtually <br />
     Hydro-DART: Ensemble Streamflow Data Assimilation Using WRF-Hydro and DART
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2020/2020_talk_AGU_Virtual.pdf)
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2020/2020_talk_AGU_Virtual.pdf)
 
 ![](/images/pin4.gif) **Jeff Anderson** Sep 2020 :
     Presented at the [Workshop on Machine Learning, Data Mining and Data Assimilation in Geospace (LMAG2020)](https://sites.google.com/view/lmag2020/home) which was held virtually <br />
     Using the Data Assimilation Research Testbed for Geospace Applications:
     Successes and Challenges in Ensemble Assimilation for Strongly-Forced Systems
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2020/2020_talk_LMAG_Virtual.pdf)
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2020/2020_talk_LMAG_Virtual.pdf)
 
 ![](/images/pin4.gif) **Brett Raczka** Aug 2020 :
     Presented at the
@@ -333,7 +333,7 @@ aliases   :
     held virtually.<br />
     Towards a complex terrain Carbon Monitoring System (CMS-Mountains): Development and testing in the western U.S.
     [\[abstract\]](https://eco.confex.com/eco/2020/meetingapp.cgi/Paper/87176)
-    [\[poster - pdf\]](http://www.image.ucar.edu/pub/DART/2020/Raczka_ESAposter_2020.pdf)
+    [\[poster - pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2020/Raczka_ESAposter_2020.pdf)
 
 ![](/images/pin4.gif) **Kevin Raeder** Jun 2020 :
     Presented at the 
@@ -341,33 +341,33 @@ aliases   :
     [2020 CESM Workshop](http://www.cesm.ucar.edu/events/workshops/2020/) in Boulder, CO, USA <br />
     A New CAM6+DART 80-Member Ensemble Reanalysis for 2011-2019: 
     Initial Conditions for CAM, CLM and CICE Forecasts and Forcing for POP, CLM and CICE
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2020/espwg_CAM6_reanalysis.pdf)
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2020/espwg_CAM6_reanalysis.pdf)
 
 ![](/images/pin4.gif) **Jeff Anderson** Jan 2020 :
     Presented at the
     [AMS Centennial Meeting 2020](https://annual.ametsoc.org/2020/) in Boston, MA, USA <br />
     Nonlinear, Non-Gaussian Extensions for Ensemble Filter Data Assimilation.
-    [\[pptx\]](http://www.image.ucar.edu/pub/DART/2020/2020_AMS_JLA_nonlinear_da.pptx)
-    [\[pdf\]]( http://www.image.ucar.edu/pub/DART/2020/2020_AMS_JLA_nonlinear_da.pdf) <br />
+    [\[pptx\]](https://dart-presentations.github.io/presentations/pub/DART/2020/2020_AMS_JLA_nonlinear_da.pptx)
+    [\[pdf\]]( https://dart-presentations.github.io/presentations/pub/DART/2020/2020_AMS_JLA_nonlinear_da.pdf) <br />
     Results from an Ensemble Reanalysis with the Community Earth System Model 2.1.
-    [\[pptx\]](http://www.image.ucar.edu/pub/DART/2020/2020_AMS_JLA_CESM_rean_final.pptx)
-    [\[pdf\]]( http://www.image.ucar.edu/pub/DART/2020/2020_AMS_JLA_CESM_rean_final.pdf) <br />
+    [\[pptx\]](https://dart-presentations.github.io/presentations/pub/DART/2020/2020_AMS_JLA_CESM_rean_final.pptx)
+    [\[pdf\]]( https://dart-presentations.github.io/presentations/pub/DART/2020/2020_AMS_JLA_CESM_rean_final.pdf) <br />
     The Data Assimilation Research Testbed: Nonlinear Algorithms and Novel Applications
     for Community Ensemble Data Assimilation
-    [\[poster - pdf\]](http://www.image.ucar.edu/pub/DART/2020/2019_AGU_2020_AMS_DART.pdf)
+    [\[poster - pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2020/2019_AGU_2020_AMS_DART.pdf)
 
 ![](/images/pin4.gif) **Moha Gharamti** Jan 2020 :
     Presented at the
     [AMS Centennial Meeting 2020](https://annual.ametsoc.org/2020/) in Boston, MA, USA <br />
     A new adaptive hybrid ensemble Kalman filter and optimal interpolation.
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2020/2020_AMS_MEG_hybrid_oi.pdf)
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2020/2020_AMS_MEG_hybrid_oi.pdf)
 
 ![](/images/pin4.gif) **Tim Hoar** Jan 2020 :
     Presented at the
     [AMS Centennial Meeting 2020](https://annual.ametsoc.org/2020/) in Boston, MA, USA <br />
     Hydro-DART: Ensemble Streamflow Assimilation with WRF-Hydro and the Data Assimilation Research Testbed.
-    [\[pptx\]](http://www.image.ucar.edu/pub/DART/2020/2020_AMS_TJH_wrfhydro.pptx)
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2020/2020_AMS_TJH_wrfhydro.pdf)
+    [\[pptx\]](https://dart-presentations.github.io/presentations/pub/DART/2020/2020_AMS_TJH_wrfhydro.pptx)
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2020/2020_AMS_TJH_wrfhydro.pdf)
 
 ----
 ## 2019
@@ -377,55 +377,55 @@ aliases   :
     Presented at the
     [AGU Fall Meeting 2019](http://fallmeeting.agu.org/2019/) in San Francisco, CA, USA <br />
     Nonlinear, Non-Gaussian Extensions for Ensemble Filter Data Assimilation
-    [\[pptx\]](http://www.image.ucar.edu/pub/DART/2019/2019_AGU_JLA_nonlinear_da.pptx)
-    [\[pdf\]]( http://www.image.ucar.edu/pub/DART/2019/2019_AGU_JLA_nonlinear_da.pdf) <br />
+    [\[pptx\]](https://dart-presentations.github.io/presentations/pub/DART/2019/2019_AGU_JLA_nonlinear_da.pptx)
+    [\[pdf\]]( https://dart-presentations.github.io/presentations/pub/DART/2019/2019_AGU_JLA_nonlinear_da.pdf) <br />
     Results from an Ensemble Reanalysis with the Community Earth System Model 2.1
-    [\[pptx\]](http://www.image.ucar.edu/pub/DART/2019/2019_AGU_JLA_CESM_rean_final.pptx)
-    [\[pdf\]]( http://www.image.ucar.edu/pub/DART/2019/2019_AGU_JLA_CESM_rean_final.pdf) <br />
+    [\[pptx\]](https://dart-presentations.github.io/presentations/pub/DART/2019/2019_AGU_JLA_CESM_rean_final.pptx)
+    [\[pdf\]]( https://dart-presentations.github.io/presentations/pub/DART/2019/2019_AGU_JLA_CESM_rean_final.pdf) <br />
     The Data Assimilation Research Testbed: Nonlinear Algorithms and Novel Applications
     for Community Ensemble Data Assimilation
-    [\[poster - pdf\]](http://www.image.ucar.edu/pub/DART/2019/2019_AGU_2020_AMS_DART.pdf)
+    [\[poster - pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2019/2019_AGU_2020_AMS_DART.pdf)
 
 ![](/images/pin4.gif) **Kevin Raeder** Dec 2019 :
     Presented at the
     [AGU Fall Meeting 2019](http://fallmeeting.agu.org/2019/) in San Francisco, CA, USA <br />
     Results from an Ensemble Reanalysis with the Community Earth System Model 2.0
-    [\[presentation - pdf\]](http://www.image.ucar.edu/pub/DART/2019/2019_talk_AGU_SanFrancisco.pdf)
+    [\[presentation - pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2019/2019_talk_AGU_SanFrancisco.pdf)
 
 ![](/images/pin4.gif) **Jeff Anderson** Nov 2019 :
     Presented at the CISL Seminar Series in Boulder, CO, USA <br />
     CISL's Data Assimilation Research Section: Accelerating NCAR Science with Ensemble Data Assimilation
     [\[youtube\]](https://www.youtube.com/watch?v=rxPGKFxJAkE)
-    [\[pptx\]](http://www.image.ucar.edu/pub/DART/2019/2019_CISL_JLA_seminar.pptx)
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2019/2019_CISL_JLA_seminar.pdf)
+    [\[pptx\]](https://dart-presentations.github.io/presentations/pub/DART/2019/2019_CISL_JLA_seminar.pptx)
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2019/2019_CISL_JLA_seminar.pdf)
 
 ![](/images/pin4.gif) **Moha Gharamti** Nov 2019 :
     Presented as a lecture for APPM 5510 at the University of Colorado in Boulder, CO, USA <br />
     Adaptive (Prior|Posterior?) Inflation for Ensemble Kalman Filters
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2019/2019_lecture_CU_Boulder.pdf)
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2019/2019_lecture_CU_Boulder.pdf)
 
 ![](/images/pin4.gif) **Moha Gharamti** Sep 2019 :
     Presented at the [International Computing in the Atmospheric Sciences](https://www2.cisl.ucar.edu/events/conferences/icas/2019) in Stresa, Italy <br />
     Data Assimilation using WRF-Hydro: the US National Water Model Application to Hurricane Florence
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2019/2019_talk_iCAS_Stresa_Italy.pdf)
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2019/2019_talk_iCAS_Stresa_Italy.pdf)
 
 ![](/images/pin4.gif) **Kevin Raeder** Jun 2019 :
     Presented at the [CESM Earth System Prediction Cross Working Group Session](https://www.cesm.ucar.edu/events/workshops/ws.2019/) in Boulder, Colorado <br />
     An Ensemble Reanalysis with CAM6: Initial Conditions for Ensemble ESP & Realistic Forcing for CESM Models
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2019/2019_talk_CESM_BoulderCO.pdf)
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2019/2019_talk_CESM_BoulderCO.pdf)
 
 ![](/images/pin4.gif) **Moha Gharamti** Feb 2019 :
     Presented at the [2019 SIAM Conference on Computational Science and Engineering](https://www.siam.org/conferences/cm/conference/cse19) in Spokane, WA, USA <br />
     Data Assimilation using WRF-Hydro: the US National Water Model Application to Hurricane Florence
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2019/2019_talk_SIAM_Spokane.pdf)
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2019/2019_talk_SIAM_Spokane.pdf)
 
 ![](/images/pin4.gif) **Jeff Anderson** Jan 2019 :
     Presented at the
     [AMS Annual Meeting 2019](https://annual.ametsoc.org/2019/) in Phoenix, AZ, USA <br />
     Nonlinear, Nongaussian Ensemble Data Assimilation with Rank
     Regression and a Rank Histogram Filter
-    [\[pptx\]](http://www.image.ucar.edu/pub/DART/2019/2019_AMS_nonlinear_JLA.pptx)
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2019/2019_AMS_nonlinear_JLA.pdf)
+    [\[pptx\]](https://dart-presentations.github.io/presentations/pub/DART/2019/2019_AMS_nonlinear_JLA.pptx)
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2019/2019_AMS_nonlinear_JLA.pdf)
 
 ----
 ## 2018
@@ -436,22 +436,22 @@ aliases   :
     [AGU Fall Meeting 2018](http://fallmeeting.agu.org/2018/) in Washington DC, USA <br />
     Hydro-DART: Ensemble Streamflow Assimilations with WRF-Hydro and the
     Data Assimilation Research Testbed.
-    [\[talk - pdf\]](http://www.image.ucar.edu/pub/DART/2018/2018_AGU_H23A_08_HydroDART_TJH.pdf) <br />
+    [\[talk - pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2018/2018_AGU_H23A_08_HydroDART_TJH.pdf) <br />
     The Data Assimilation Research Testbed (DART): Ensemble Data
     Assimilation for NCAR Community Earth System Models
-    [\[poster - pdf\]](http://www.image.ucar.edu/pub/DART/2018/20189_AGUAMS_DART.pdf)
+    [\[poster - pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2018/20189_AGUAMS_DART.pdf)
 
 ![](/images/pin4.gif) **Kevin Raeder** June 2018 :
     Presented at the [CESM Atmosphere Model Working Group Session](https://www.cesm.ucar.edu/events/workshops/ws.2018/) in Boulder, Colorado <br />
     Using DART Tools for CAM Development
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2018/2018_talk_AMWG_BoulderCO.pdf)
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2018/2018_talk_AMWG_BoulderCO.pdf)
 
 ![](/images/pin4.gif) **Kevin Raeder** June 2018 :
     Presented at the [CESM Joint Chemistry Climate and Whole Atmosphere
 Working Group Session](https://www.cesm.ucar.edu/events/workshops/ws.2018/) in Boulder, Colorado <br />
     A Unified DART Ensemble Data Assimilation Capability for CAM(-CHEM), WACCM,
     and WACCM-X
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2018/2018_talk_CESM_BoulderCO.pdf)
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2018/2018_talk_CESM_BoulderCO.pdf)
 
 ![](/images/pin4.gif) **Jeff Anderson** May 2018 :
     Presented at the
@@ -460,7 +460,7 @@ Working Group Session](https://www.cesm.ucar.edu/events/workshops/ws.2018/) in B
     at JPL/Caltech, California <br />
     DA and Short-term Prediction Motivate the Need for Careful Software
     Development In Earth System Models: A Case Study
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2018/2018_Caltech_JLA_talk.pdf)
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2018/2018_Caltech_JLA_talk.pdf)
 
 ![](/images/pin4.gif) **Tim Hoar** Apr 2018 :
     Presented at the [Terrestrial Systems Research: Monitoring,
@@ -468,7 +468,7 @@ Working Group Session](https://www.cesm.ucar.edu/events/workshops/ws.2018/) in B
     Computing](http://conference.tr32.de/) in Bonn Germany <br />
     Ensemble Data Assimilation with the Community Land Model and the US
     National Water Model
-    [\[poster - pdf\]](http://www.image.ucar.edu/pub/DART/2018/2018_CLM_HydroDART_TJH.pdf)
+    [\[poster - pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2018/2018_CLM_HydroDART_TJH.pdf)
 
 ![](/images/pin4.gif) **Jeff Anderson** Mar 2018 :
     Presented at the [6th International Symposium on Data
@@ -476,30 +476,30 @@ Working Group Session](https://www.cesm.ucar.edu/events/workshops/ws.2018/) in B
     Germany <br />
     Exploiting Nonlinear Relations between Observations and State
     Variables in Ensemble Filters
-    [\[pptx\]](http://www.image.ucar.edu/pub/DART/2018/ISDA_2018_nonlinear_talk_JLA.pptx)
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2018/ISDA_2018_nonlinear_talk_JLA.pdf)
+    [\[pptx\]](https://dart-presentations.github.io/presentations/pub/DART/2018/ISDA_2018_nonlinear_talk_JLA.pptx)
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2018/ISDA_2018_nonlinear_talk_JLA.pdf)
 
 ![](/images/pin4.gif) **Jeff Anderson** Jan 2018 :
     Presented at the [AMS Annual Meeting
     2018](https://annual.ametsoc.org/2018/) in Austin, TX, USA <br />
     Exploiting Nonlinear Relations between Observations and State
     Variables in Ensemble Filters
-    [\[pptx\]](http://www.image.ucar.edu/pub/DART/2018/2018_AMS_nonlinear_JLA.pptx)
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2018/2018_AMS_nonlinear_JLA.pdf) <br />
+    [\[pptx\]](https://dart-presentations.github.io/presentations/pub/DART/2018/2018_AMS_nonlinear_JLA.pptx)
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2018/2018_AMS_nonlinear_JLA.pdf) <br />
     Using the Data Assimilation Research Testbed for Climate System
     Applications
-    [\[pptx\]](http://www.image.ucar.edu/pub/DART/2018/2018_AMS_esm_da_JLA.pptx)
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2018/2018_AMS_esm_da_JLA.pdf)
+    [\[pptx\]](https://dart-presentations.github.io/presentations/pub/DART/2018/2018_AMS_esm_da_JLA.pptx)
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2018/2018_AMS_esm_da_JLA.pdf)
 
 ![](/images/pin4.gif) **Moha Gharamti** Jan 2018 :
     Presented at the [AMS Annual Meeting
     2018](https://annual.ametsoc.org/2018/) in Austin, TX, USA <br />
     Adaptive Prior Inflation for Ensemble Filters: Application to a
     Large-Scale Atmospheric Model
-    [\[talk - pdf\]](http://www.image.ucar.edu/pub/DART/2018/MEG_AMS_2017_talk.pdf) <br />
+    [\[talk - pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2018/MEG_AMS_2017_talk.pdf) <br />
     Ensemble Data Assimilation for Very Large Atmosphere, Ocean and
     Coupled Models with the Data Assimilation Research Testbed
-    [\[poster - pdf\]](http://www.image.ucar.edu/pub/DART/2018/2018_AMS_DART_MEG.pdf)
+    [\[poster - pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2018/2018_AMS_DART_MEG.pdf)
 
 ----
 ## 2017
@@ -510,42 +510,42 @@ Working Group Session](https://www.cesm.ucar.edu/events/workshops/ws.2018/) in B
     2017](http://fallmeeting.agu.org/2017/) in New Orleans, LA, USA <br />
     Empowering Geoscience with Improved Data Assimilation Using the Data
     Assimilation Research Testbed "Manhattan" Release
-    [\[poster - pdf\]](http://www.image.ucar.edu/pub/DART/2017/2017_AGU_DART_KDR.pdf)
+    [\[poster - pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2017/2017_AGU_DART_KDR.pdf)
 
 ![](/images/pin4.gif) **Moha El Gharamti** Jun 2017 :
     Presented at the [12th International EnKF
     Workshop](http://www.iris.no/enkf/previous-workshops/2017-solstrand-hotel-bad-os)
     in Os, Norway <br />
     Enhanced Adaptive Inflation Algorithm for Ensemble Filters
-    [\[talk - pdf\]](http://www.image.ucar.edu/pub/DART/2017/MEG_Os_2017_enkf_talk.pdf)
+    [\[talk - pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2017/MEG_Os_2017_enkf_talk.pdf)
 
 ![](/images/pin4.gif) **Moha El Gharamti** Feb 2017 :
     Presented at the [ASLO 2017 Ocean Sciences Meeting: Mountains to the
     Sea](https://www.sgmeet.com/aslo/honolulu2017/) in Honolulu, Hawaii <br />
     Biological Reanalysis with Online Parameter Estimation in the North
     Atlantic and the Arctic
-    [\[talk - pptx\]](http://www.image.ucar.edu/pub/DART/2017/MEG_ASLO_2017_talk.pptx)
+    [\[talk - pptx\]](https://dart-presentations.github.io/presentations/pub/DART/2017/MEG_ASLO_2017_talk.pptx)
 
 ![](/images/pin4.gif) **Jeff Anderson** 28 Aug 2017 - 1 Sep 2017 :
     Presented at the Nanjing DA tutorial in Nanjing, China <br />
     Introduction to Data Assimilation
-    [\[pptx\]](http://www.image.ucar.edu/pub/DART/2017/JLA_Nanjing_2017_da_intro.pptx)
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2017/JLA_Nanjing_2017_da_intro.pdf) <br />
+    [\[pptx\]](https://dart-presentations.github.io/presentations/pub/DART/2017/JLA_Nanjing_2017_da_intro.pptx)
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2017/JLA_Nanjing_2017_da_intro.pdf) <br />
     Practical Implementations of the Ensemble Kalman Filter
-    [\[pptx\]](http://www.image.ucar.edu/pub/DART/2017/JLA_Nanjing_2017_eakf.pptx)
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2017/JLA_Nanjing_2017_eakf.pdf) <br />
+    [\[pptx\]](https://dart-presentations.github.io/presentations/pub/DART/2017/JLA_Nanjing_2017_eakf.pptx)
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2017/JLA_Nanjing_2017_eakf.pdf) <br />
     Parallel Implementations of Ensemble Kalman Filters for Huge
     Geophysical Models
-    [\[pptx\]](http://www.image.ucar.edu/pub/DART/2017/JLA_Nanjing_2017_scalable_ekf.pptx)
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2017/JLA_Nanjing_2017_scalable_ekf.pdf) <br />
+    [\[pptx\]](https://dart-presentations.github.io/presentations/pub/DART/2017/JLA_Nanjing_2017_scalable_ekf.pptx)
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2017/JLA_Nanjing_2017_scalable_ekf.pdf) <br />
     Methods for Computing Localization of Observation Impacts in
     Ensemble Kalman Filters
-    [\[pptx\]](http://www.image.ucar.edu/pub/DART/2017/JLA_Nanjing_2017_localization.pptx)
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2017/JLA_Nanjing_2017_localization.pdf) <br />
+    [\[pptx\]](https://dart-presentations.github.io/presentations/pub/DART/2017/JLA_Nanjing_2017_localization.pptx)
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2017/JLA_Nanjing_2017_localization.pdf) <br />
     Assimilating Observations with Spatially and Temporally Correlated
     Errors in a Global Atmospheric Model
-    [\[pptx\]](http://www.image.ucar.edu/pub/DART/2017/JLA_Nanjing_2017_correlated_error.pptx)
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2017/JLA_Nanjing_2017_correlated_error.pdf)
+    [\[pptx\]](https://dart-presentations.github.io/presentations/pub/DART/2017/JLA_Nanjing_2017_correlated_error.pptx)
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2017/JLA_Nanjing_2017_correlated_error.pdf)
 
 ![](/images/pin4.gif) **Jeff Anderson** 21 Aug 2017 :
     Presented at [The 7th International Workshop on Catchment
@@ -553,20 +553,20 @@ Working Group Session](https://www.cesm.ucar.edu/events/workshops/ws.2018/) in B
     Assimilation](http://cahmda.westgis.ac.cn/) in Xi'an, China <br />
     Ensemble Data Assimilation for Observations with Spatially and
     Temporally Correlated Errors
-    [\[pptx\]](http://www.image.ucar.edu/pub/DART/2017/JLA_CAHMDA_VII_correlated_error.pptx)
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2017/JLA_CAHMDA_VII_correlated_error.pdf)
+    [\[pptx\]](https://dart-presentations.github.io/presentations/pub/DART/2017/JLA_CAHMDA_VII_correlated_error.pptx)
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2017/JLA_CAHMDA_VII_correlated_error.pdf)
 
 ![](/images/pin4.gif) **Jeff Anderson** 18 Aug 2017 :
     Presented at the Training day for [The 7th International Workshop on
     Catchment Hydrological Modeling and Data
     Assimilation](http://cahmda.westgis.ac.cn/) in Xi'an, China <br />
     Basic Concept of Land Surface Data Assimilation
-    [\[pptx\]](http://www.image.ucar.edu/pub/DART/2017/JLA_CAHMDA_VII_da_intro.pptx)
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2017/JLA_CAHMDA_VII_da_intro.pdf) <br />
+    [\[pptx\]](https://dart-presentations.github.io/presentations/pub/DART/2017/JLA_CAHMDA_VII_da_intro.pptx)
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2017/JLA_CAHMDA_VII_da_intro.pdf) <br />
     Practical Implementations of the Ensemble Kalman Filter (with a
     focus on Land Surface Data Assimilation)
-    [\[pptx\]](http://www.image.ucar.edu/pub/DART/2017/JLA_CAHMDA_VII_eakf.pptx)
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2017/JLA_CAHMDA_VII_eakf.pdf)
+    [\[pptx\]](https://dart-presentations.github.io/presentations/pub/DART/2017/JLA_CAHMDA_VII_eakf.pptx)
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2017/JLA_CAHMDA_VII_eakf.pdf)
 
 ![](/images/pin4.gif) **Kevin Raeder** Jun 2017 :
     Presented at the [CESM 2017
@@ -574,7 +574,7 @@ Working Group Session](https://www.cesm.ucar.edu/events/workshops/ws.2018/) in B
     Boulder, CO, USA <br />
     Ensemble Data Assimilation for Very Large Atmosphere, Ocean and
     Coupled Models with the Data Assimilation Research Testbed
-    [\[poster - pdf\]](http://www.image.ucar.edu/pub/DART/2017/2017_CESM_DART_KDR.pdf) <br />
+    [\[poster - pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2017/2017_CESM_DART_KDR.pdf) <br />
     It has the same title as the AMS 2017 poster, but has somewhat
     different content.
 
@@ -583,7 +583,7 @@ Working Group Session](https://www.cesm.ucar.edu/events/workshops/ws.2018/) in B
     2017](https://annual.ametsoc.org/2017/) in Seattle, WA, USA <br />
     Ensemble Data Assimilation for Very Large Atmosphere, Ocean and
     Coupled Models with the Data Assimilation Research Testbed
-    [\[poster - pdf\]](http://www.image.ucar.edu/pub/DART/2017/2017_AMS_DART_KDR.pdf)
+    [\[poster - pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2017/2017_AMS_DART_KDR.pdf)
 
 ----
 ## 2016
@@ -594,22 +594,22 @@ Working Group Session](https://www.cesm.ucar.edu/events/workshops/ws.2018/) in B
     2016](http://fallmeeting.agu.org/2016/) in San Francisco CA, USA <br />
     DART: A Community Facility Providing State-of-the-Art, Efficient
     Ensemble Data Assimilation for Large (Coupled) Geophysical Models
-    [\[poster - pdf\]](http://www.image.ucar.edu/pub/DART/2016/2016_AGU_DART_TJH.pdf)
+    [\[poster - pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2016/2016_AGU_DART_TJH.pdf)
 
 ![](/images/pin4.gif) **Jeff Anderson** Apr 2016 :
     Presented at the [EGU General Assembly 2016](http://www.egu2016.eu/)
     in Vienna, Austria <br />
     Assimilating Observations with Spatially and Temporally Correlated
     Errors in a Global Atmospheric Model
-    [\[pptx\]](http://www.image.ucar.edu/pub/DART/2016/2016_jla_EGU_correlated_error.pptx)
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2016/2016_jla_EGU_correlated_error.pdf)
+    [\[pptx\]](https://dart-presentations.github.io/presentations/pub/DART/2016/2016_jla_EGU_correlated_error.pptx)
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2016/2016_jla_EGU_correlated_error.pdf)
 
 ![](/images/pin4.gif) **Jeff Anderson** Apr 2016 :
     Presented at the [SIAM Conference on Parallel Processing in
     Scientific Computing](http://www.siam.org/meetings/pp16) in Paris, France <br />
     Parallel Implementations of Ensemble Kalman Filters for Huge Geophysical Models
-    [\[pptx\]](http://www.image.ucar.edu/pub/DART/2016/2016_jla_siam_scalable.pptx)
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2016/2016_jla_siam_scalable.pdf)
+    [\[pptx\]](https://dart-presentations.github.io/presentations/pub/DART/2016/2016_jla_siam_scalable.pptx)
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2016/2016_jla_siam_scalable.pdf)
 
 ![](/images/pin4.gif) **Jeff Anderson** Jan 2016 :
     Presented at the [AMS Annual Meeting
@@ -622,7 +622,7 @@ Working Group Session](https://www.cesm.ucar.edu/events/workshops/ws.2018/) in B
     2016](https://annual.ametsoc.org/2016/) in New Orleans LA, USA <br />
     DART: New Research Using Ensemble Data Assimilation in Geophysical
     Models
-    [\[poster - pdf\]](http://www.image.ucar.edu/pub/DART/2015/20156_AGUAMS_DART.pdf)
+    [\[poster - pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2015/20156_AGUAMS_DART.pdf)
 
 ----
 ## 2015
@@ -633,29 +633,29 @@ Working Group Session](https://www.cesm.ucar.edu/events/workshops/ws.2018/) in B
     2015](http://fallmeeting.agu.org/2015/) in San Francisco CA, USA <br />
     DART: New Research Using Ensemble Data Assimilation in Geophysical
     Models
-    [\[poster - pdf\]](http://www.image.ucar.edu/pub/DART/2015/20156_AGUAMS_DART.pdf)
+    [\[poster - pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2015/20156_AGUAMS_DART.pdf)
 
 ![](/images/pin4.gif) **Jeff Anderson** Oct 2015 :
     Presented at the State University of New York at Albany in Albany,
     New York, USA <br />
     Building State-of-the-Art Forecast Systems with the Ensemble Kalman
     Filter
-    [\[pptx\]](http://www.image.ucar.edu/pub/DART/2015/JLA_Albany_2015_SotA.pptx)
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2015/JLA_Albany_2015_SotA.pdf)
+    [\[pptx\]](https://dart-presentations.github.io/presentations/pub/DART/2015/JLA_Albany_2015_SotA.pptx)
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2015/JLA_Albany_2015_SotA.pdf)
 
 ![](/images/pin4.gif) **Kevin Raeder** Jun 2015 :
     Presented at the [20th Annual CESM
     Workshop](https://www2.cesm.ucar.edu/events/ws-2015) in Breckenridge
     CO, USA <br />
     DART Data Assimilation with CESM Models
-    [\[poster - pdf\]](http://www.image.ucar.edu/pub/DART/2015/DART_CESM_2015.pdf)
+    [\[poster - pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2015/DART_CESM_2015.pdf)
 
 ![](/images/pin4.gif) **Tim Hoar** May 2015 :
     Presented at the [STATMOS Summer School in Data
     Assimilation](http://www.stat.osu.edu/~oksana/summer-school-in-data-assimilation-2015.html)
     in Boulder CO, USA <br />
     Getting to know the Data Assimilation Research Testbed - DART
-    [\[presentation - pdf\]](http://www.image.ucar.edu/pub/DART/2015/DART_STATMOS_TJH_2015.pdf)
+    [\[presentation - pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2015/DART_STATMOS_TJH_2015.pdf)
 
 ![](/images/pin4.gif) **Kevin Raeder** Feb 2015 :
     Presented at the [CESM Atmospheric Modeling Working
@@ -663,7 +663,7 @@ Working Group Session](https://www.cesm.ucar.edu/events/workshops/ws.2018/) in B
     in Boulder CO, USA <br />
     DART Initial Conditions for a Refined Grid CAM-SE Forecast of
     Hurricane Katrina
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2015/2015_AMWG_CAM-SE.pdf)
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2015/2015_AMWG_CAM-SE.pdf)
 
 ![](/images/pin4.gif) **Kevin Raeder** Jan 2015 :
     Presented at the [AMS Annual Meeting
@@ -671,14 +671,14 @@ Working Group Session](https://www.cesm.ucar.edu/events/workshops/ws.2018/) in B
     DART: Tools and Support for Ensemble Data Assimilation Research,
     Operations, and Education (same title as last year, different
     content!)
-    [\[poster - pdf\]](http://www.image.ucar.edu/pub/DART/2014/2014_AGU_DART_A23C-3251.pdf)
+    [\[poster - pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2014/2014_AGU_DART_A23C-3251.pdf)
 
 ![](/images/pin4.gif) **Tim Hoar** Jan 2015 :
     Presented as part of the Colloquium Series in the Computational
     Science Deparment of San Diego State University in San Diego CA,
     USA <br />
     The keys to (successful) ensemble data assimilation.
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2015/DART_SDSU_TJH_2015.pdf)
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2015/DART_SDSU_TJH_2015.pdf)
 
 ----
 ## 2014
@@ -690,19 +690,19 @@ Working Group Session](https://www.cesm.ucar.edu/events/workshops/ws.2018/) in B
     DART: Tools and Support for Ensemble Data Assimilation Research,
     Operations, and Education (same title as last year, different
     content!)
-    [\[poster - pdf\]](http://www.image.ucar.edu/pub/DART/2014/2014_AGU_DART_A23C-3251.pdf) <br />
+    [\[poster - pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2014/2014_AGU_DART_A23C-3251.pdf) <br />
     Open-Source Data Assimilation for Land Models and Multiscale
     Observations.
-    [\[poster - pdf\]](http://www.image.ucar.edu/pub/DART/2014/2014_AGU_DART_LAND_IN41A-3647.pdf)
+    [\[poster - pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2014/2014_AGU_DART_LAND_IN41A-3647.pdf)
 
 ![](/images/pin4.gif) **Jeff Anderson, Tim Hoar** Oct 2014 :
     Presented at the [International Cooperative for Aerosol Prediction
     Meeting](http://icap.atmos.und.edu/) in Boulder CO, USA <br />
     Verification of Ensemble Forecasts <br />
     Anderson, part I:
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2014/ICAP_2014_JLA.pdf) <br />
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2014/ICAP_2014_JLA.pdf) <br />
     Hoar, part II:
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2014/ICAP_2014_TJH.pdf)
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2014/ICAP_2014_TJH.pdf)
 
 ![](/images/pin4.gif) **Tim Hoar** Sep 2014 :
     Presented at the [Catchment-based Hydrological Model Data
@@ -711,21 +711,21 @@ Working Group Session](https://www.cesm.ucar.edu/events/workshops/ws.2018/) in B
     Workshop](http://www.jsg.utexas.edu/ciess/cahmda-vi-hepex-dafoh-iii/)
     in Austin TX, USA <br />
     CAHMDA/DAFOH Ensemble Data Assimilation Tutorial
-    [\[agenda - pdf\]](http://www.image.ucar.edu/pub/DART/2014/CAHMDA_VI_agenda.pdf) 
-    [\[Introduction - pdf\]](http://www.image.ucar.edu/pub/DART/2014/CAHMDA_VI_Intro.pdf)
+    [\[agenda - pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2014/CAHMDA_VI_agenda.pdf) 
+    [\[Introduction - pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2014/CAHMDA_VI_Intro.pdf)
 
 ![](/images/pin4.gif) **Nancy Collins** June 2014 :
     Presented to the ocean modeling research section of
     [CMCC](http://www.cmcc.it/divisions/oda) in Lecce, Italy <br />
     Scalable Computing Challenges in Ensemble Data Assimilation
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2014/2014_CMCC_NSC.pdf)
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2014/2014_CMCC_NSC.pdf)
 
 ![](/images/pin4.gif) **Tim Hoar** Jun 2014 :
     Presented at the [19th Annual CESM
     Workshop](https://www2.cesm.ucar.edu/events/ws-2014) in Breckenridge
     CO, USA <br />
     CESM, CLM, Observations, and Assimilation
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2014/DART_CLM_CESM2014_TJH.pdf)
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2014/DART_CLM_CESM2014_TJH.pdf)
 
 ![](/images/pin4.gif) **Kevin Raeder** Feb 2014 :
     Presented at the [CESM Atmospheric Modeling Working
@@ -733,23 +733,23 @@ Working Group Session](https://www.cesm.ucar.edu/events/workshops/ws.2018/) in B
     in Boulder CO, USA <br />
     Comparing CAM-FV and CAM-SE in a 'perfect model' data assimilation
     environment
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2013/CESM_2013_Homme_DA.pdf)
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2013/CESM_2013_Homme_DA.pdf)
 
 ![](/images/pin4.gif) **Helen Kershaw** Feb 2014 :
     Presented at the [SIAM Conference of Parallel Processing for
     Scientific Computing 2014](http://www.siam.org/meetings/pp14/) in
     Portland, OR, USA <br />
     Parallelization Challenges for Ensemble Data Assimilation
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2015/2015_SIAM_HK.pdf)
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2015/2015_SIAM_HK.pdf)
 
 ![](/images/pin4.gif) **Tim Hoar** Jan 2014 :
     Presented at the [AMS Annual Meeting
     2014](https://annual.ametsoc.org/2014/) in Atlanta GA, USA <br />
     DART: Tools and Support for Ensemble Data Assimilation Research,
     Operations, and Education
-    [\[poster - pdf\]](http://www.image.ucar.edu/pub/DART/2013/20134_AGUAMS_DART.pdf) <br />
+    [\[poster - pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2013/20134_AGUAMS_DART.pdf) <br />
     Ensemble data assimilation for soil-vegetation-atmosphere systems.
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2014/2014_AMS_TJH_235997.pdf)
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2014/2014_AMS_TJH_235997.pdf)
 
 ----
 ## 2013
@@ -760,7 +760,7 @@ Working Group Session](https://www.cesm.ucar.edu/events/workshops/ws.2018/) in B
     2013](http://fallmeeting.agu.org/2013/) in San Francisco CA, USA <br />
     DART: Tools and Support for Ensemble Data Assimilation Research,
     Operations, and Education
-    [\[poster - pdf\]](http://www.image.ucar.edu/pub/DART/2013/20134_AGUAMS_DART.pdf)
+    [\[poster - pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2013/20134_AGUAMS_DART.pdf)
 
 ![](/images/pin4.gif) **Alicia Karspeck** Oct 2013 :
     Presented at the [Sixth WMO Symposium on Data
@@ -769,7 +769,7 @@ Working Group Session](https://www.cesm.ucar.edu/events/workshops/ws.2018/) in B
     An ensemble approach for the estimation of observational error
     variance <br />
     With application to the nominal 1-degree POP2 ocean model.
-    [\[poster - pdf\]](http://www.image.ucar.edu/pub/DART/2013/2013_WMO_Alicia.pdf)
+    [\[poster - pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2013/2013_WMO_Alicia.pdf)
 
 ![](/images/pin4.gif) **Hui Liu** Oct 2013 :
     Presented at the [Sixth WMO Symposium on Data
@@ -778,21 +778,21 @@ Working Group Session](https://www.cesm.ucar.edu/events/workshops/ws.2018/) in B
     Achieving Superior Tropical Cyclone Intensity Forecasts by Improving
     the Assimilation of High-Resolution Satellite Data into Mesoscale
     Prediction Models
-    [\[poster - pdf\]](http://www.image.ucar.edu/pub/DART/2013/2013_WMO_HuiLiu.pdf)
+    [\[poster - pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2013/2013_WMO_HuiLiu.pdf)
 
 ![](/images/pin4.gif) **Tim Hoar** Oct 2013 :
     Presented at the [Sixth WMO Symposium on Data
     Assimilation](http://www.ncep.noaa.gov/events/2013/wmo6da) in
     College Park MD, USA <br />
     Ensemble Data Assimilation for Soil-Vegetation-Atmosphere Systems
-    [\[poster - pdf\]](http://www.image.ucar.edu/pub/DART/2013/2013_WMO_clm_TJH.pdf)
+    [\[poster - pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2013/2013_WMO_clm_TJH.pdf)
 
 ![](/images/pin4.gif) **Nancy Collins** Aug 2013 :
     Presented at the [FRCRC
     Symposium](http://www.uwyo.edu/uw/news/2013/08/uw-to-host-front-range-hpc-symposium-aug.-13-15.html)
     in Laramie WY, USA <br />
     Scalable Computing Challenges in Ensemble Data Assimilation
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2013/Collins_FRCRC.pdf)
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2013/Collins_FRCRC.pdf)
 
 ![](/images/pin4.gif) **Nancy Collins** Jun 2013 :
     Presented at the [18th Annual CESM
@@ -800,14 +800,14 @@ Working Group Session](https://www.cesm.ucar.edu/events/workshops/ws.2018/) in B
     CO, USA <br />
     CESM/DART: An ensemble data assimilation system for fully coupled
     models.
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2013/Collins-SEWG-2013.pdf)
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2013/Collins-SEWG-2013.pdf)
 
 ![](/images/pin4.gif) **Tim Hoar** Jun 2013 :
     Presented at the [18th Annual CESM
     Workshop](https://www2.cesm.ucar.edu/events/ws-2013) in Breckenridge
     CO, USA <br />
     Data Assimilation for CLM:a comprehensive overview in 12 minutes!
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2013/DART_CLM_CESM2013.pdf)
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2013/DART_CLM_CESM2013.pdf)
 
 ![](/images/pin4.gif) **Ally M. Toure** Apr 2013 :
     Presented at the [MODIS Science Team
@@ -815,7 +815,7 @@ Working Group Session](https://www.cesm.ucar.edu/events/workshops/ws.2018/) in B
     Silver Spring MD, USA <br />
     Multi-Sensor Snow Data Assimilation: Part1: Assimilation of the
     MODIS Snow Cover Fraction the Community Land Model (CLM04)
-    [\[poster - pdf\]](http://www.image.ucar.edu/pub/DART/2013/MODIS_Team_meeting_TOURE_al_201304_v9.pdf)
+    [\[poster - pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2013/MODIS_Team_meeting_TOURE_al_201304_v9.pdf)
 
 ![](/images/pin4.gif) **Tim Hoar** Mar 2013 :
     Presented at the [TR32 International
@@ -824,7 +824,7 @@ Working Group Session](https://www.cesm.ucar.edu/events/workshops/ws.2018/) in B
     Assimilation" in Bonn, Germany <br />
     The keys of ensemble data assimilation for
     soil-vegetation-atmosphere systems.
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2013/DART_LSM_TR32_2013_TJH.pdf)
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2013/DART_LSM_TR32_2013_TJH.pdf)
 
 ![](/images/pin4.gif) **Jeff Anderson** Mar 2013 :
     Presented at the [Institute for Mathematics and its Applications
@@ -832,20 +832,20 @@ Working Group Session](https://www.cesm.ucar.edu/events/workshops/ws.2018/) in B
     Atmosphere,](http://www.ima.umn.edu/2012-2013/W3.11-15.13) in
     Minneapolis MN, USA <br />
     Ensemble Data Assimilation for Climate System Component Models
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2013/2013_IMA_ensemble_filter_JLA.pdf)
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2013/2013_IMA_ensemble_filter_JLA.pdf)
 
 ![](/images/pin4.gif) **Kevin Raeder** Feb 2013 :
     Presented at the [CESM Atmospheric Modeling Working
     Group](https://www2.cesm.ucar.edu/working-groups/amwg/meetings/20130211)
     in Boulder CO, USA <br />
     Data Assimilation with SE-CAM and DART
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2013/CESM_2013_Homme_DA.pdf)
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2013/CESM_2013_Homme_DA.pdf)
 
 ![](/images/pin4.gif) **Tim Hoar** Jan 2013 :
     Presented at the [93rd American Meteorological Society Annual
     Meeting](http://annual.ametsoc.org/2013/) in Austin TX, USA <br />
     New Developments in the Data Assimilation Research Testbed
-    [\[poster - pdf\]](http://www.image.ucar.edu/pub/DART/2013/2013_AMS_NewDART.pdf)
+    [\[poster - pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2013/2013_AMS_NewDART.pdf)
 
 ![](/images/pin4.gif) **Jeff Anderson** Jan 2013 :
     Presented at the [2013 AMS Special Symposium on Advancing Weather
@@ -854,7 +854,7 @@ Working Group Session](https://www.cesm.ucar.edu/events/workshops/ws.2018/) in B
     in Austin TX, USA <br />
     The Data Assimilation Research Testbed: A Community Facility for
     Ensemble Data Assimilation
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2013/2013_AGU_testbed_JLA.pdf)
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2013/2013_AGU_testbed_JLA.pdf)
 
 ----
 ## 2012
@@ -866,20 +866,20 @@ Working Group Session](https://www.cesm.ucar.edu/events/workshops/ws.2018/) in B
     Prediction** in Boulder CO, USA <br />
     The Data Assimilation Research Testbed: A Community Facility for
     Ensemble Data Assimilation
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2012/2012_NSF_earth3_JLA.pdf)
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2012/2012_NSF_earth3_JLA.pdf)
 
 ![](/images/pin4.gif) **Tim Hoar** Dec 2012 :
     Presented at the [Third COSMOS
     Workshop](http://cosmos.hwr.arizona.edu/workshop3/workshop3.html) in
     Tucson AZ, USA <br />
     DART and Land Data Assimilation
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2012/DART_LSM_COSMOS_2012.pdf)
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2012/DART_LSM_COSMOS_2012.pdf)
 
 ![](/images/pin4.gif) **Rafael Rosolem** Dec 2012 :
     Presented at the [AGU Fall
     Meeting](http://fallmeeting.agu.org/2012/) in San Francisco CA, USA <br />
     Data Assimilation of Cosmic-ray Derived Soil Moisture
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2012/Rosolem_AGU_H23G-04_20121204.pdf)
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2012/Rosolem_AGU_H23G-04_20121204.pdf)
 
 ![](/images/pin4.gif) **[Alexey Morozov](http://www-personal.umich.edu/~morozova/MySite/Publications.html)** Dec 2012 :
     Presented at the [AGU Fall
@@ -887,7 +887,7 @@ Working Group Session](https://www.cesm.ucar.edu/events/workshops/ws.2018/) in B
     Data Assimilation and Parameter Estimation for the Global
     Ionosphere-Thermosphere Model using the Ensemble Adjustment Kalman
     Filter
-    [\[poster - pdf\]](http://www.image.ucar.edu/pub/DART/2012/AlexeyMorozovAGU2012.pdf)
+    [\[poster - pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2012/AlexeyMorozovAGU2012.pdf)
 
 ![](/images/pin4.gif) **Hui Liu** Oct 2012 :
     Presented at the [Sixth FORMOSAT-3/COSMIC Data Users'
@@ -895,65 +895,65 @@ Working Group Session](https://www.cesm.ucar.edu/events/workshops/ws.2018/) in B
     Boulder, Colorado <br />
     Improvements to WRF/DART Ensemble Assimilation System for RO Data
     Assimilation
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2012/COSMIC2012liu.pdf)
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2012/COSMIC2012liu.pdf)
 
 ![](/images/pin4.gif) **Tim Hoar** Jul 2012 :
     Presented at the [5th International Workshop on Catchment
     Hydrological Modelling and Data assimilation
     (CAHMDA-V)](http://cahmda.itc.nl//) in Enschede, Netherlands <br />
     Data Assimilation with DART
-    [\[ppt\]](http://www.image.ucar.edu/pub/DART/2012/CAHMDA-V_Tutorial.ppt)
-    [\[pptx\]](http://www.image.ucar.edu/pub/DART/2012/DARTCLM_CAHMDA_2012.pptx)
+    [\[ppt\]](https://dart-presentations.github.io/presentations/pub/DART/2012/CAHMDA-V_Tutorial.ppt)
+    [\[pptx\]](https://dart-presentations.github.io/presentations/pub/DART/2012/DARTCLM_CAHMDA_2012.pptx)
 
 ![](/images/pin4.gif) **Tim Hoar** Jun 2012 :
     Presented at the **17th Annual CESM Workshop** in Breckenridge, CO, USA <br />
     Data Assimilation with CLM & DART
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2012/DARTCLM_CESM_2012.pdf)
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2012/DARTCLM_CESM_2012.pdf)
 
 ![](/images/pin4.gif) **Nancy Collins** Jun 2012 :
     Presented at the **17th Annual CESM Workshop** in Breckenridge, CO, USA <br />
     Status of using DART with multi-instance CESM
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2012/SEWG_CESM_2012.pdf)
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2012/SEWG_CESM_2012.pdf)
 
 ![](/images/pin4.gif) **Kevin Raeder** Jun 2012 :
     Presented at the **17th Annual CESM Workshop** in Breckenridge, CO, USA <br />
     Data Assimilation with Multi-Instance CESM Components and DART
-    [\[poster - pdf\]](http://www.image.ucar.edu/pub/DART/2012/KDR_poster_CESM_2012.pdf)
+    [\[poster - pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2012/KDR_poster_CESM_2012.pdf)
 
 ![](/images/pin4.gif) **Jeff Anderson** Mar 2012 :
     Presented at Cornell University in Ithaca, NY, USA <br />
     An Introduction to Ensemble Data Assimilation and the Data
     Assimilation Research Testbed (DART)
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2012/ensemble_DA_and_DART.pdf)
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2012/ensemble_DA_and_DART.pdf)
 
 ![](/images/pin4.gif) **Andrew Fox** Mar 2012 :
     Presented at the [2012 Land Model Working
     Group](http://www.cesm.ucar.edu/working_groups/Land/) in Boulder, CO, USA <br />
     Ensemble-based Data Assimilation for the Community Land Model
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2012/LMWG_fox_022812.pdf)
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2012/LMWG_fox_022812.pdf)
 
 ![](/images/pin4.gif) **Jeff Anderson** Feb 2012 :
     Presented at the [2012 Ocean Sciences
     Meeting](http://www.sgmeet.com/osm2012/) in Salt Lake City, UT, USA <br />
     Ensemble Data Assimilation and Uncertainty Quantification
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2012/jla_ocean_sciences_2012.pdf)
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2012/jla_ocean_sciences_2012.pdf)
 
 ![](/images/pin4.gif) **Alicia Karspeck** Feb 2012 :
     Presented at the [2012 Ocean Sciences
     Meeting](http://www.sgmeet.com/osm2012/) in Salt Lake City, UT, USA <br />
     POPDART: An Ensemble Data Assimilation System for the Ocean
     Component of CESM
-    [\[poster - pdf\]](http://www.image.ucar.edu/pub/DART/2012/OS2012_Karspeck_poster.pdf)
+    [\[poster - pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2012/OS2012_Karspeck_poster.pdf)
 
 ![](/images/pin4.gif) **Tim Hoar** Jan 2012 :
     Presented at the [2012 AMS Annual
     Meeting](http://annual.ametsoc.org/2012/) in New Orleans, LA, USA <br />
     Challenges for Robust Ocean Data Assimilation
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2012/dart_agu2012_200472_pop.pdf) <br />
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2012/dart_agu2012_200472_pop.pdf) <br />
     Land Surface Data Assimilation: DART and CLM
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2012/dart_agu2012_200094_clm.pdf) <br />
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2012/dart_agu2012_200094_clm.pdf) <br />
     New Developments in the Data Assimilation Research Testbed
-    [\[poster - pdf\]](http://www.image.ucar.edu/pub/DART/2011/2011_AGU_newDART.pdf)
+    [\[poster - pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2011/2011_AGU_newDART.pdf)
 
 ----
 ## 2011
@@ -964,24 +964,24 @@ Working Group Session](https://www.cesm.ucar.edu/events/workshops/ws.2018/) in B
     Meeting](http://www.agu.org/meetings/) in San Francisco, CA, USA <br />
     A Model-Data Fusion Approach to Integrate National Ecological
     Observatory Network Observations into an Earth System Model
-    [\[poster - pdf\]](http://www.image.ucar.edu/pub/DART/2011/2011_AGU_DARTCLM_Yongfei.pdf)
+    [\[poster - pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2011/2011_AGU_DARTCLM_Yongfei.pdf)
 
 ![](/images/pin4.gif) **Yongfei Zhang** (UT Austin) Dec 2011 :
     Presented at the [2011 AGU Fall
     Meeting](http://www.agu.org/meetings/) in San Francisco, CA, USA <br />
     Snow Data Assimilation: DART and CLM
-    [\[poster - pdf\]](http://www.image.ucar.edu/pub/DART/2011/2011_AGU_DARTCLM_Yongfei.pdf)
+    [\[poster - pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2011/2011_AGU_DARTCLM_Yongfei.pdf)
 
 ![](/images/pin4.gif) **Jeff Anderson** Dec 2011 :
     Presented at the [2011 AGU Fall
     Meeting](http://www.agu.org/meetings/) in San Francisco, CA, USA <br />
     A Non-Gaussian Ensemble Filter for Data Assimilation
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2011/2011_AGU_nongauss_da_JLA.pdf) <br />
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2011/2011_AGU_nongauss_da_JLA.pdf) <br />
     Challenges in Developing Coupled Earth System Model Data
     Assimilation
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2011/2011_AGU_dart_coupled_esm_da.pdf) <br />
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2011/2011_AGU_dart_coupled_esm_da.pdf) <br />
     New Developments in the Data Assimilation Research Testbed
-    [\[poster - pdf\]](http://www.image.ucar.edu/pub/DART/2011/2011_AGU_newDART.pdf)
+    [\[poster - pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2011/2011_AGU_newDART.pdf)
 
 ![](/images/pin4.gif) **Alicia Karspeck** Oct 2011 :
     Presented at the [(WCRP) World Climate Research Programme Open
@@ -989,7 +989,7 @@ Working Group Session](https://www.cesm.ucar.edu/events/workshops/ws.2018/) in B
     in Denver, CO, USA <br />
     Deep transient circulation resulting from the initialization of an
     ocean ensemble assimilation system
-    [\[poster - pdf\]](http://www.image.ucar.edu/pub/DART/2011/WCRP2011_Karspeck.pdf)
+    [\[poster - pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2011/WCRP2011_Karspeck.pdf)
 
 ![](/images/pin4.gif) **Jeff Anderson** Sep 2011 :
     Presented at the [Earth System Prediction Capability
@@ -997,25 +997,25 @@ Working Group Session](https://www.cesm.ucar.edu/events/workshops/ws.2018/) in B
     of Maryland, MD, USA <br />
     The Data Assimilation Research Testbed: A Community Ensemble DA
     Facility
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2011/JLA_ESPC_da.pdf)
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2011/JLA_ESPC_da.pdf)
 
 ![](/images/pin4.gif) **Jeff Anderson** Sep 2011 :
     Presented at the [SAMSI UQ
     Workshop](http://www.samsi.info/workshop/2011-12-uq-program-methodology-opening-workshop-and-tutorials)
     in Research Triangle Park, NC, USA <br />
     Ensemble Data Assimilation and Uncertainty Quantification
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2011/ensemble_da_uq.pdf)
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2011/ensemble_da_uq.pdf)
 
 ![](/images/pin4.gif) **Jeff Anderson, Nancy Collins** Jun 2011 :
     Presented at the **16th Annual CESM Workshop** in Breckenridge, CO, USA <br />
     A Wishlist of CESM Capabilities for Support of Ensemble Data
     Assimilation with DART
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2011/JLA_CESM_breck.pdf)
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2011/JLA_CESM_breck.pdf)
 
 ![](/images/pin4.gif) **Kevin Raeder** Jun 2011 :
     Presented at the **16th Annual CESM Workshop** in Breckenridge, CO, USA <br />
     Loosely Coupled Atmosphere-Ocean Data Assimilation: CAM-DART-POP
-    [\[poster - pdf\]](http://www.image.ucar.edu/pub/DART/2010/2010_CLIVAR_BWI_tjh.pdf)
+    [\[poster - pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2010/2010_CLIVAR_BWI_tjh.pdf)
 
 ![](/images/pin4.gif) **Jeff Anderson** May 2011 :
     Presented at the [International Cooperative for Aerosol Prediction
@@ -1023,15 +1023,15 @@ Working Group Session](https://www.cesm.ucar.edu/events/workshops/ws.2018/) in B
     Assimilation](http://bobcat.aero.und.edu/jzhang/ICAP) in Boulder, CO, USA <br />
     Introduction to Ensemble Kalman Filters and the Data Assimilation
     Research Testbed
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2011/jla_icap.pdf)
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2011/jla_icap.pdf)
 
 ![](/images/pin4.gif) **Jeff Anderson** Jan 2011 :
     Presented at the [91st Annual Meeting of the
     AMS](http://www.ametsoc.org/meet/annual) in Seattle, WA, USA <br />
     Localization and Correlation in Ensemble Kalman Filters.
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2011/JLA_sec_seattle.pdf) <br />
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2011/JLA_sec_seattle.pdf) <br />
     A Loosely Coupled Ocean-Atmosphere Ensemble Assimilation System.
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2011/AMS_2011_CAMDARTPOP_JLA.pdf)
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2011/AMS_2011_CAMDARTPOP_JLA.pdf)
 
 ![](/images/pin4.gif) **McLay, J., J. Hansen, J. Hacker,
     D. Hodyss, T. Hoar, N. Collins, T. Whitcomb, A. Reinecke, J. Anderson** 2011 :
@@ -1076,9 +1076,9 @@ Working Group Session](https://www.cesm.ucar.edu/events/workshops/ws.2018/) in B
     Meeting](http://www.agu.org/meetings/fm10/) in San Francisco, CA, USA <br />
     The Use of the Data Assimilation Research Testbed for Initializing
     and Evaluating IPCC Decadal Forecasts.
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2010/2010_AGU_decadal_forecasts_KDR.pdf) <br />
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2010/2010_AGU_decadal_forecasts_KDR.pdf) <br />
     The Data Assimilation Research Testbed: New Algorithms and Applications
-    [\[poster - pdf\]](http://www.image.ucar.edu/pub/DART/2010/2010_AGU_DARTupdate_kdr.pdf)
+    [\[poster - pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2010/2010_AGU_DARTupdate_kdr.pdf)
 
 ![](/images/pin4.gif) **C. Lee, M. I. Richardson,
     W. G. Lawson, J. L. Anderson, N. Collins, T. Hoar, M. Mischna, and A. D. Toigo,** Dec 2010 :
@@ -1087,21 +1087,21 @@ Working Group Session](https://www.cesm.ucar.edu/events/workshops/ws.2018/) in B
     USA <br />
     Preliminary Results from Ensemble Data assimilation of the Martian
     Atmosphere using TES radiances Abstract P53E-1563.
-    [\[poster - pdf\]](http://www.image.ucar.edu/pub/DART/2010/2010_AGU_CLee_MarsPoster.pdf)
+    [\[poster - pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2010/2010_AGU_CLee_MarsPoster.pdf)
 
 ![](/images/pin4.gif) **Hui Liu** Dec 2010 :
     Presented at the *JCSDA/HFIP Workshop on satellite data assimilation
     for hurricane forecasting* in Miami, FL, USA <br />
     Impact of Assimilating GPS RO refractivity on Tropical Cyclone
     Position and Intensity Analyses and Forecasts
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2010/2010_Hui_Miami.pdf)
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2010/2010_Hui_Miami.pdf)
 
 ![](/images/pin4.gif) **Jeff Anderson** Dec 2010 :
     Presented at the *JCSDA/HFIP Workshop on satellite data assimilation
     for hurricane forecasting* in Miami, FL, USA <br />
     Future Directions in Ensemble DA for Hurricane Prediction
     Applications
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2010/2010_JLA_Miami.pdf)
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2010/2010_JLA_Miami.pdf)
 
 ![](/images/pin4.gif) **Hui Liu** Nov 2010 :
     Presented at the *NASA Sounder Workshop and Science Team Meeting* in
@@ -1109,7 +1109,7 @@ Working Group Session](https://www.cesm.ucar.edu/events/workshops/ws.2018/) in B
     Improving forecasts of tropical cyclone intensity and track using
     AIRS water vapor observations with an ensemble data assimilation
     system.
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2010/2010_Hui_NASA_SWSTM.pdf)
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2010/2010_Hui_NASA_SWSTM.pdf)
 
 ![](/images/pin4.gif) **Tim Hoar** Nov 2010 :
     Presented at [CLIVAR: Evaluation of Reanalyses – Developing an
@@ -1117,7 +1117,7 @@ Working Group Session](https://www.cesm.ucar.edu/events/workshops/ws.2018/) in B
     Capability](http://www.usclivar.org/Reanalysis2010.php) in
     Baltimore, MD, USA <br />
     Loosely Coupled Atmosphere-Ocean Data Assimilation: CAM-DART-POP
-    [\[poster - pdf\]](http://www.image.ucar.edu/pub/DART/2010/2010_CLIVAR_BWI_tjh.pdf)
+    [\[poster - pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2010/2010_CLIVAR_BWI_tjh.pdf)
 
 ![](/images/pin4.gif) **Wicker, L. J., E. R. Mansell,
     D. C. Dowell and D. T. Dawson,** Oct. 2010 :
@@ -1148,7 +1148,7 @@ Working Group Session](https://www.cesm.ucar.edu/events/workshops/ws.2018/) in B
     Development](http://www.clivar.org/organization/wgomd/decadal/decadal.php)
     in Boulder, CO, USA <br />
     Weakly Coupled Atmosphere-Ocean Data Assimilation: CAM-DART-POP
-    [\[poster - pdf\]](http://www.image.ucar.edu/pub/DART/2010/2010_CLIVAR_WGOMD_tjh.pdf)
+    [\[poster - pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2010/2010_CLIVAR_WGOMD_tjh.pdf)
 
 ![](/images/pin4.gif) **Tomoko Matsuo, E. A. Araujo-Pradere,
     and J. L. Anderson** June 2010 :
@@ -1167,19 +1167,19 @@ Working Group Session](https://www.cesm.ucar.edu/events/workshops/ws.2018/) in B
 ![](/images/pin4.gif) **Kevin Raeder** Jun 2010 :
     Presented at the *CESM User Group meeting 2010*, Breckenridge, CO, USA <br />
     New Ocean, Atmosphere, Land, and Sea Ice Reanalyses from CESM1 (CAM5)
-    [\[poster - pdf\]](http://www.image.ucar.edu/pub/DART/2010/CESM_2010_AMWG_KDR.pdf)
+    [\[poster - pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2010/CESM_2010_AMWG_KDR.pdf)
 
 ![](/images/pin4.gif) **Tim Hoar** Jun 2010 :
     Presented at the *CESM User Group meeting 2010*, Breckenridge, CO, USA <br />
     POP-DART; The Leading Edge of Coupled Ocean-Atmosphere Reanalyses
-    [\["poster" - pdf\]](http://www.image.ucar.edu/pub/DART/2010/2010_CESM_Breck_TJH.pdf)
+    [\["poster" - pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2010/2010_CESM_Breck_TJH.pdf)
 
 ![](/images/pin4.gif) **Jeff Anderson** May 2010 :
     Presented at [The 5th International Workshop on Ensemble Kalman Filter for Model
     Updating](http://www.iris.no/enkf/previous-workshops/2010-clarion-hotel-admiral-bergen),
     Bergen, Norway <br />
     Reducing the Impact of Sampling Errors in Ensemble Filters.
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2010/2010_Bergen_JLA_talk.pdf)
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2010/2010_Bergen_JLA_talk.pdf)
 
 ![](/images/pin4.gif) **Hui Liu** May 2010 :
     Presented at the [29th Conference on Hurricanes and Tropical
@@ -1187,13 +1187,13 @@ Working Group Session](https://www.cesm.ucar.edu/events/workshops/ws.2018/) in B
     in Tucson, AZ, USA <br />
     Impact of Assimilating Environmental Satellite Observations on
     Tropical Storm Position and Intensity Analyses and Forecasts
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2010/2010_Hui_AMS_Tucson.pdf)
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2010/2010_Hui_AMS_Tucson.pdf)
 
 ![](/images/pin4.gif) **Jeff Anderson** Apr 2010 :
     Presented at [The 4th EnKF Workshop](http://hfip.psu.edu/EDA2010) in
     Rensselaerville, NY, USA <br />
     Localization and Correlation in Ensemble Kalman Filters.
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2010/2010_NY_JLA_talk.pdf)
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2010/2010_NY_JLA_talk.pdf)
 
 ![](/images/pin4.gif) **Otkin, J. A., and W. Lewis** Apr 2010 :
     Presented at The 4th Ensemble Data Assimilation Workshop,
@@ -1272,34 +1272,34 @@ Working Group Session](https://www.cesm.ucar.edu/events/workshops/ws.2018/) in B
     Presented at the [2009 AGU Fall
     Meeting](http://www.agu.org/meetings/fm09/), San Francisco, CA, USA <br />
     DART: A Facility for Ensemble Data Assimilation
-    [\[poster - pdf\]](http://www.image.ucar.edu/pub/DART/2009/2009_AGU_AMS_kdr.pdf)
+    [\[poster - pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2009/2009_AGU_AMS_kdr.pdf)
 
 ![](/images/pin4.gif) **Jeff Anderson** Dec 2009 :
     Presented at the Ocean Modeling Working Group meetings, Boulder, CO, USA <br />
     Ensemble Data Assimilation for POP.
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2009/2009_OMWG_JLA_talk.pdf)
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2009/2009_OMWG_JLA_talk.pdf)
 
 ![](/images/pin4.gif) **Hui Liu** Oct 2009 :
     Presented at the COSMIC Meetings, Boulder, CO, USA <br />
     Initialization of the Environment of Tropical Cyclogenesis by
     Assimilating RO Data using an Ensemble Filter.
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2009/2009_COSMIC_HUI_ernesto.pdf)
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2009/2009_COSMIC_HUI_ernesto.pdf)
 
 ![](/images/pin4.gif) **Jeff Anderson** Oct 2009 :
     Presented at the COSMIC Meetings, Boulder, CO, USA <br />
     Impacts of COSMIC GPS Observations on a Climate Reanalysis.
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2009/2009_COSMIC_JLA_talk.pdf)
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2009/2009_COSMIC_JLA_talk.pdf)
 
 ![](/images/pin4.gif) **Jeff Anderson** Sep 2009 :
     Presented at the [Computing in Atmospheric Sciences
     Workshop](http://www.cisl.ucar.edu/dir/CAS2K9), Annecy, France <br />
     Ensemble Data Assimilation for Large Atmospheric Models
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2009/2009_CAS2K9_JLA_talk.pdf)
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2009/2009_CAS2K9_JLA_talk.pdf)
 
 ![](/images/pin4.gif) **Jeff Anderson** Sep 2009 :
     Presented as a seminar at the ECMWF, Reading, UK <br />
     Parallel Implementation of Sequential Ensemble Kalman Filters
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2009/2009_ECMWF_JLA_talk.pdf)
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2009/2009_ECMWF_JLA_talk.pdf)
 
 ![](/images/pin4.gif) **Robert Pincus** Sep 2009 :
     Presented at the [ECMWF Seminar 2009 Diagnosis of Forecasting and
@@ -1308,20 +1308,20 @@ Working Group Session](https://www.cesm.ucar.edu/events/workshops/ws.2018/) in B
     Reading, UK <br />
     Assimilating clouds in perfect global models <br />
     (or trying to - a work in slow progress).
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2009/2009_ECMWF_Pincus.pdf)
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2009/2009_ECMWF_Pincus.pdf)
 
 ![](/images/pin4.gif) **Kevin Raeder** Jun 2009 :
     Presented at the CCSM User Group meeting 2009, Breckenridge, CO, USA <br />
     New Diagnostics of CAM from DART
-    [\[poster - pdf\]](http://www.image.ucar.edu/pub/DART/2009/2009_CCSM_kdr.pdf)
+    [\[poster - pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2009/2009_CCSM_kdr.pdf)
 
 ![](/images/pin4.gif) **Nedjeljka Zagar** April 2009 :
     Presentations at EGU, Vienna, Austria. <br />
     Diagnosis of analysis and forecast ensembles by using normal modes
-    [\[poster - pdf\]](http://www.image.ucar.edu/pub/DART/2009/2009_EGU_zagar_poster2.pdf) <br />
+    [\[poster - pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2009/2009_EGU_zagar_poster2.pdf) <br />
     Uncertainties of estimates of intertio-gravity energy in the
     atmosphere
-    [\[poster - pdf\]](http://www.image.ucar.edu/pub/DART/2009/2009_EGU_zagar_poster1.pdf)
+    [\[poster - pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2009/2009_EGU_zagar_poster1.pdf)
 
 ![](/images/pin4.gif) **Dorita Rostkier-Edelstein** Feb 2009 :
     Presented at the Institute of Earth Sciences, the Hebrew University
@@ -1337,20 +1337,20 @@ Working Group Session](https://www.cesm.ucar.edu/events/workshops/ws.2018/) in B
     Presentation at AGU, San Francisco, California. <br />
     Theory and Applications of Variational, Sequential and Bayesian
     Hierarchical Methods in Data Assimilation
-    [\[abstract\]](http://www.image.ucar.edu/pub/DART/2008/2008_AGU_edl_abstract.txt)
+    [\[abstract\]](https://dart-presentations.github.io/presentations/pub/DART/2008/2008_AGU_edl_abstract.txt)
 
 ![](/images/pin4.gif) **Ibrahim Hoteit** Dec 2008 :
     Presentation at AGU, San Francisco, California. <br />
     A MITgcm/DART Ocean Analysis and Prediction System with Application
     to the Gulf of Mexico
-    [\[poster - pdf\]](http://www.image.ucar.edu/pub/DART/2008/2008_AGU_hoteit_poster.pdf)
+    [\[poster - pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2008/2008_AGU_hoteit_poster.pdf)
 
 ![](/images/pin4.gif) **Kevin Raeder** Dec 2008 :
     Presentation and poster at AGU, San Francisco, California. <br />
     Diagnosis of Noise in the FV core using DART.
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2008/KDR_CCSM08_DART.pdf) <br />
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2008/KDR_CCSM08_DART.pdf) <br />
     A General Purpose Data Assimilation Facility: DART.
-    [\[poster\]](http://www.image.ucar.edu/pub/DART/2008/2008_AGU_kdr_poster.pdf)
+    [\[poster\]](https://dart-presentations.github.io/presentations/pub/DART/2008/2008_AGU_kdr_poster.pdf)
 
 ![](/images/pin4.gif) **Dorita Rostkier-Edelstein** Dec 2008 :
     Presented at the Department of Geophysics and Planetary Sciences,
@@ -1362,7 +1362,7 @@ Working Group Session](https://www.cesm.ucar.edu/events/workshops/ws.2018/) in B
     Prediction for Turbulent Signals in Weather and Climate*, New York
     City, New York, USA <br />
     Nonlinear, Non-Gaussian Ensemble Filters.
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2008/2008_CAOS_jla_nonlin_nongauss.pdf)
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2008/2008_CAOS_jla_nonlin_nongauss.pdf)
 
 ![](/images/pin4.gif) **Jeff Anderson** Nov 2008 :
     Presented at the NCAR Foothills Laboratory, Boulder, CO, USA <br />
@@ -1373,7 +1373,7 @@ Working Group Session](https://www.cesm.ucar.edu/events/workshops/ws.2018/) in B
     Atmosphere: Modeling and Observations. Williamsburg, VA, USA <br />
     Ensemble-based Data Assimilation with Mapping Datasets of the
     Martian Atmosphere.
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2008/2008_WGLawson_Williamsburg_talk.pdf)
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2008/2008_WGLawson_Williamsburg_talk.pdf)
 
 ![](/images/pin4.gif) **Dorita Rostkier-Edelstein** Nov 2008 :
     Presented at the Jacob Blaustein Institutes for Desert Research,
@@ -1385,7 +1385,7 @@ Working Group Session](https://www.cesm.ucar.edu/events/workshops/ws.2018/) in B
     Presented at The University of Utah, Salt Lake City, Utah, USA <br />
     Predicting Hurricanes and Improving Climate Models using Ensemble
     Data Assimilation.
-    [\[ppt\]](http://www.image.ucar.edu/pub/DART/2008/JLA_2008_Utah.ppt)
+    [\[ppt\]](https://dart-presentations.github.io/presentations/pub/DART/2008/JLA_2008_Utah.ppt)
 
 ![](/images/pin4.gif) **Bill Kuo** Oct 2008 :
     Presented at the FORMOSAT-3/COSMIC Workshop 2008, Taipei, Taiwan <br />
@@ -1409,47 +1409,47 @@ Working Group Session](https://www.cesm.ucar.edu/events/workshops/ws.2018/) in B
     Presented at the Joint Statistical Meetings 2008, Denver, CO, USA <br />
     Application of Radio Occultation Data in Analyses and Forecasts of
     Tropical Cyclones Using an Ensemble Assimilation System.
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2008/2008_JSM_liu_talk.pdf)
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2008/2008_JSM_liu_talk.pdf)
 
 ![](/images/pin4.gif) **Tim Hoar** Aug 2008 :
     Presented at the Joint Statistical Meetings 2008, Denver, CO, USA <br />
     NCAR's Data Assimilation Research Testbed: DART. 'Plug and Play'
     Ensemble Data Assimilation.
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2008/2008_JSM_tjh_talk.pdf)
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2008/2008_JSM_tjh_talk.pdf)
 
 ![](/images/pin4.gif) **Jeffrey Anderson** Aug 2008 :
     Presented at the Joint Statistical Meetings 2008, Denver, CO, USA <br />
     Using Small Ensembles in High Dimensions: Hierarchical Bayesian
     Approaches to Adaptive Ensemble Filters.
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2008/2008_JSM_jla_talk.pdf)
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2008/2008_JSM_jla_talk.pdf)
 
 ![](/images/pin4.gif) **Jeffrey Anderson** July 2008 :
     Presented at the University of Maryland, MD, USA <br />
     A non-gaussian ensemble filter for nonlinear models and discrete
     structures.
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2008/2008_UMD_jla_rank_hist_filter.pdf)
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2008/2008_UMD_jla_rank_hist_filter.pdf)
 
 ![](/images/pin4.gif) **Nedjeljka Zagar** Jun 2008 :
     Presented at the CCSM User Group meeting 2008, Breckenridge, CO, USA <br />
     Diagnosis of model biases by using DART
-    [\[poster - pdf\]](http://www.image.ucar.edu/pub/DART/2008/2008_CCSM_ZAGAR_poster.pdf)
+    [\[poster - pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2008/2008_CCSM_ZAGAR_poster.pdf)
 
 ![](/images/pin4.gif) **Kevin Raeder** Jun 2008 :
     Presented at the CCSM User Group meeting 2008, Breckenridge, CO, USA <br />
     Diagnosis of Noise in the FV core using DART.
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2008/KDR_CCSM08_DART.pdf)
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2008/KDR_CCSM08_DART.pdf)
 
 ![](/images/pin4.gif) **Hui Liu** Apr 2008 :
     Presented at the *Hurricanes* session of the 2008 AMS, Orlando, FL, USA <br />
     The Impact of Radio Occultation Data on Analysis of the Subtropical
     Anticyclone over Western Pacific Ocean
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2008/2008Apr_AMS_liu.pdf)
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2008/2008Apr_AMS_liu.pdf)
 
 ![](/images/pin4.gif) **Jeff Anderson** Apr 2008 :
     Presented at the *Workshop on Kalman Filtering*, 4-9 April 2008,
     Marble Falls, TX, USA <br />
     Adaptive Inflation for Ensemble Assimilation
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2008/jla_texas_enkf_talk.pdf)
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2008/jla_texas_enkf_talk.pdf)
 
 ![](/images/pin4.gif) **Matsuo, T., J. L. Anderson,
     D. R. Marsh, and A. K. Smith** 2008 :
@@ -1462,14 +1462,14 @@ Working Group Session](https://www.cesm.ucar.edu/events/workshops/ws.2018/) in B
     February 2008, Boulder, CO, USA <br />
     Using the DART-CAM Ensemble Data Assimilation System for Climate
     Model Development
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2008/jla_amwg_08.pdf)
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2008/jla_amwg_08.pdf)
 
 ![](/images/pin4.gif) **Jeff Anderson** Jan 2008 :
     Presented at the *88th AMS Annual Meeting*, 20--24 January 2008, New
     Orleans, Louisiana, USA <br />
     The Relation Between Ensemble Size and Expected Error in Ensemble
     Filter Data Assimilation
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2008/Anderson_AMS1_Jan08.pdf)
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2008/Anderson_AMS1_Jan08.pdf)
 
 ![](/images/pin4.gif) **Josh Hacker** Jan 2008 :
     Presented at the *12th Conference on Integrated Observing and
@@ -1478,17 +1478,17 @@ Working Group Session](https://www.cesm.ucar.edu/events/workshops/ws.2018/) in B
     PBL State estimates with surface observations, a column model, and
     an ensemble filter: Probabilistic evaluation under various mesoscale
     regimes. [\[extended
-    abstract\]](http://www.image.ucar.edu/pub/DART/2008/AMS2008_paper8.6_Hacker.pdf)
+    abstract\]](https://dart-presentations.github.io/presentations/pub/DART/2008/AMS2008_paper8.6_Hacker.pdf)
 
 ![](/images/pin4.gif) **Hui Liu** Jan 2008 :
     Presented at the *88th AMS Annual Meeting*, 20--24 January 2008, New
     Orleans, Louisiana, USA <br />
     Improving Forecasts of Tropical Cyclones with Innovative GPSRO
     Satellite Observations [\[pdf of
-    poster\]](http://www.image.ucar.edu/pub/DART/2008/2008Jan_AMS_liu_poster.pdf) <br />
+    poster\]](https://dart-presentations.github.io/presentations/pub/DART/2008/2008Jan_AMS_liu_poster.pdf) <br />
     Improving Analyses and Forecasts of the Asian Monsoon with GPS Radio
     Occultation Refractivity Observations [\[pdf of
-    talk\]](http://www.image.ucar.edu/pub/DART/2008/2008Jan_AMS_liu_talk.pdf)
+    talk\]](https://dart-presentations.github.io/presentations/pub/DART/2008/2008Jan_AMS_liu_talk.pdf)
 
 ----
 ## 2007
@@ -1505,10 +1505,10 @@ Working Group Session](https://www.cesm.ucar.edu/events/workshops/ws.2018/) in B
 
 ![](/images/pin4.gif) **Nancy Collins** Nov 2007 :
     Presented at Supercomputing 2007, Reno, NV, USA <br />
-    DART overview.  [\[pdf\]](http://www.image.ucar.edu/pub/DART/2007/2007_SC07_nsc.pdf)
-    [\[animation1 (.mov)\]](http://www.image.ucar.edu/pub/DART/2007/ENKF_machine_6fps.mov)
-    [\[animation2 (.mov)\]](http://www.image.ucar.edu/pub/DART/2007/L96basicDA.mov)
-    [\[animation3 (.mov)\]](http://www.image.ucar.edu/pub/DART/2007/L96_growth.mov)
+    DART overview.  [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2007/2007_SC07_nsc.pdf)
+    [\[animation1 (.mov)\]](https://dart-presentations.github.io/presentations/pub/DART/2007/ENKF_machine_6fps.mov)
+    [\[animation2 (.mov)\]](https://dart-presentations.github.io/presentations/pub/DART/2007/L96basicDA.mov)
+    [\[animation3 (.mov)\]](https://dart-presentations.github.io/presentations/pub/DART/2007/L96_growth.mov)
 
 ![](/images/pin4.gif) **W. G. Lawson, M. I. Richardson,
     D. J. McCleese, J. L. Anderson, Y. Chen, and C. Snyder** 2007 :
@@ -1518,9 +1518,9 @@ Working Group Session](https://www.cesm.ucar.edu/events/workshops/ws.2018/) in B
 ![](/images/pin4.gif) **Tim Hoar** Nov 2007 :
     Talk presented at the NCAR/Univ of Wyoming Retreat, Steamboat Springs, CO, USA <br />
     Data Assimilation Research Section - Overview
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2007/2007_UWY_DART_overview_tjh.pdf)
-    [\[animation1 (.mov)\]](http://www.image.ucar.edu/pub/DART/2007/ENKF_machine_6fps.mov)
-    [\[animation2 (.mpg)\]](http://www.image.ucar.edu/pub/DART/2007/global_atmosphere1.mpg)
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2007/2007_UWY_DART_overview_tjh.pdf)
+    [\[animation1 (.mov)\]](https://dart-presentations.github.io/presentations/pub/DART/2007/ENKF_machine_6fps.mov)
+    [\[animation2 (.mpg)\]](https://dart-presentations.github.io/presentations/pub/DART/2007/global_atmosphere1.mpg)
 
 ![](/images/pin4.gif) **Hui Liu** Aug 2007 :
     Presented at SPIE, San Diego, CA, USA <br />
@@ -1531,30 +1531,30 @@ Working Group Session](https://www.cesm.ucar.edu/events/workshops/ws.2018/) in B
     Presented at the IUGG, Data Assimilation session, Perugia, Italy. <br />
     Assimilation of GPS radio occultation refractivity with WRF using a
     non-local observation operator.
-    [\[poster-pdf\]](http://www.image.ucar.edu/pub/DART/2007_IUGG_hui.pdf)
+    [\[poster-pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2007_IUGG_hui.pdf)
 
 ![](/images/pin4.gif) **Jeff Anderson** Jun 2007 :
     Presented at the CCSM Summer Workshop, Breckenridge, CO, USA <br />
     Data Assimilation for CAM - Research & Development.
-    [\[poster-pdf\]](http://www.image.ucar.edu/pub/DART/2007_CCSM_jla.pdf)
+    [\[poster-pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2007_CCSM_jla.pdf)
 
 ![](/images/pin4.gif) **David Dowell** Jun 2007 :
     Presented at the WRF User's Workshop, Boulder, CO, USA <br />
     Mesoscale WRF Surface-Data Assimilation: Spring 2007 Experiments at
     the National Severe Storms Laboratory
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/Dowell_13jun2007_WRF_Workshop.pdf)
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/Dowell_13jun2007_WRF_Workshop.pdf)
 
 ![](/images/pin4.gif) **Jeff Anderson** Jun 2007 :
     Presented at the 22nd Conference on Weather Analysis and
     Forecasting/18th Conference on Numerical Weather Prediction, Park
     City, UT, USA <br />
     DART: A Community Tool for Ensemble Data Assimilation Research and Development.
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2007_WAFNWP_jla_dart_overview.pdf), <br />
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2007_WAFNWP_jla_dart_overview.pdf), <br />
     An Introduction to Ensemble Kalman Filtering.
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2007_WAFNWP_jla_tutorial.pdf),
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2007_WAFNWP_jla_tutorial.pdf),
     and <br />
     A Boxcar Kernel Filter for Assimilation of Discrete Structures (and Other Stuff).
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2007_WAFNWP_jla_boxcar_filter.pdf)
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2007_WAFNWP_jla_boxcar_filter.pdf)
 
 ![](/images/pin4.gif) **Josh Hacker** Jun 2007 :
     Presented at the 22nd Conference on Weather Analysis and
@@ -1568,14 +1568,14 @@ Working Group Session](https://www.cesm.ucar.edu/events/workshops/ws.2018/) in B
     Clustered Computing, South Lake Tahoe, CA, USA <br />
     Parallel Implementation of Ensemble Filter Algorithms for Data
     Assimilation.
-    [\[poster-pdf\]](http://www.image.ucar.edu/pub/DART/2007_LCI_nsc.pdf)
+    [\[poster-pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2007_LCI_nsc.pdf)
 
 ![](/images/pin4.gif) **Kevin Raeder** May 2007 :
     Presentation and poster at the AGU Spring meeting 2007, Acapulco, Mexico. <br />
     Adaptive Spatially-varying Variance Inflation in an Ensemble Filter.
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2007_AGU_kdr_talk.pdf) <br />
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2007_AGU_kdr_talk.pdf) <br />
     A General Purpose Data Assimilation Facility: DART.
-    [\[poster\]](http://www.image.ucar.edu/pub/DART/2007_AGU_kdr_poster.pdf)
+    [\[poster\]](https://dart-presentations.github.io/presentations/pub/DART/2007_AGU_kdr_poster.pdf)
 
 ![](/images/pin4.gif) **Josh Hacker** Apr 2007 :
     Presented to the EGU General Assembly 2007, Vienna, Austria <br />
@@ -1584,30 +1584,30 @@ Working Group Session](https://www.cesm.ucar.edu/events/workshops/ws.2018/) in B
 ![](/images/pin4.gif) **Jeff Anderson** Apr 2007 :
     Presented at MSRI Symposium on Climate Change, Berkeley, CA, USA. <br />
     Using Observations to Estimate Climate Model Parameters
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2007_MSRI_jla.pdf)
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2007_MSRI_jla.pdf)
 
 ![](/images/pin4.gif) **Jeff Anderson** Mar 2007 :
     Presented at NCAR, Boulder, CO, USA. <br />
     The Data Assimilation Research Testbed: Powerful, Adaptive, and Fast
     Assimilation for Geophysical Applications.
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2007_ARG_jla.pdf)
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2007_ARG_jla.pdf)
 
 ![](/images/pin4.gif) **Ave Arellano** Jan 2007 :
     Presented to the AMS, San Antonio, TX, USA. <br />
     Constraining Tropospheric CO using Ensemble-based Data Assimilation
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2007_AMS_ave.pdf)
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2007_AMS_ave.pdf)
 
 ![](/images/pin4.gif) **Jeff Anderson** Jan 2007 :
     Talk presented to the AMS, San Antonio, TX, USA. <br />
     Capabilities and Limitations of Ensemble Data Assimilation
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2007_AMS_jla_space_weather.pdf)
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2007_AMS_jla_space_weather.pdf)
 
 ![](/images/pin4.gif) **Jeff Anderson** Jan 2007 :
     Talk presented to the Atmospheric Modeling Working Group (AMWG),
     Boulder, CO, USA. <br />
     Using the DART-CAM Ensemble Data Assimilation System for Climate
     Model Development.
-    [\[pdf\]](http://www.image.ucar.edu/pub/DART/2007_AMWG_jla.pdf)
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/DART/2007_AMWG_jla.pdf)
 
 ![](/images/pin4.gif) **D. Rostkier-Edelstein** Jan 2007 :
     Department seminar to The Department of Geophysics and Planetary
@@ -1694,12 +1694,12 @@ Working Group Session](https://www.cesm.ucar.edu/events/workshops/ws.2018/) in B
 ![](/images/pin4.gif) **Hui Liu** Dec 2005 :
     Preliminary results from assimilation of GPS radio occultation data
     in WRF using an ensemble filter.
-    [\[ppt\]](http://www.image.ucar.edu/pub/COSMIC_05Dec19_post.ppt)
+    [\[ppt\]](https://dart-presentations.github.io/presentations/pub/COSMIC_05Dec19_post.ppt)
 
 ![](/images/pin4.gif) **Alain Caya** 2005 :
     Evaluation of an Ensemble Kalman Filter for WRF against a 3D-Var
     Assimilation System.
-    [\[pdf\]](http://www.image.ucar.edu/pub/WRF_EnsembleFilter.pdf)
+    [\[pdf\]](https://dart-presentations.github.io/presentations/pub/WRF_EnsembleFilter.pdf)
 
 ----
 ## 2004
