@@ -39,6 +39,10 @@ The Data Assimilation Research Testbed: A Community Facility.
     The synergy of assimilating visible and infrared radiances and radar observations.  
     *Quarterly Journal of the Royal Meteorological Society*, **151**, e4938, [doi:10.1002/qj.4938](https://doi.org/doi:10.1002/qj.4938)
 
+![](/images/pin4.gif) **Riedel C.P., M.M. Wieringa & J.L. Anderson**, 2025  
+    Exploring Bounded Nonparametric Ensemble Filter Impacts on Sea Ice Data Assimilation.  
+    *Monthly Weather Review*, **153**, 637-654, [doi:10.1175/MWR-D-24-0096.1](https://doi.org/doi:10.1175/MWR-D-24-0096.1)
+
 ![](/images/pin4.gif) **Shrestha P. & A.P. Barros**, 2025  
     Multi-Physics Data Assimilation Framework for Remotely Sensed Snowpacks to Improve Water Prediction.  
     *Water Resources Research*, **61**, e2024WR037885, [doi:10.1029/2024WR037885](https://doi.org/doi:10.1029/2024WR037885)
@@ -59,10 +63,6 @@ The Data Assimilation Research Testbed: A Community Facility.
     Quantile-Conserving Ensemble Filters for All-sky Infrared Radiance Assimilation.  
     *Monthly Weather Review*,  [doi:10.1175/MWR-D-25-0038.1](https://doi.org/doi:10.1175/MWR-D-25-0038.1)
 
-![](/images/pin4.gif) **Riedel C.P., M.M. Wieringa & J.L. Anderson**, 2025  
-    Exploring Bounded Nonparametric Ensemble Filter Impacts on Sea Ice Data Assimilation.  
-    *Monthly Weather Review*, **153**, 637-654, [doi:10.1175/MWR-D-24-0096.1](https://doi.org/doi:10.1175/MWR-D-24-0096.1)
-
 ![](/images/pin4.gif) **Seo M. & H.M. Kim**, 2025  
     Evaluation of high‐resolution regional <span style="font-variant:small-caps;"> CO<sub>2</sub> </span> data assimilation–forecast system in East Asia using observing system simulation experiment and effect of observation network on simulated <span style="font-variant:small-caps;"> CO<sub>2</sub> </span> concentrations.  
     *Quarterly Journal of the Royal Meteorological Society*, **151**, e4987, [doi:10.1002/qj.4987](https://doi.org/doi:10.1002/qj.4987)
@@ -79,9 +79,29 @@ The Data Assimilation Research Testbed: A Community Facility.
     Quantifying the role of tropical Indian Ocean observations to central Pacific El Niño prediction.  
     *Environmental Research Letters*, **20**, 074023, [doi:10.1088/1748-9326/addbf3](https://doi.org/doi:10.1088/1748-9326/addbf3)
 
-![](/images/pin4.gif) **Kugler L. & M. Weissmann**, 2025  
-    Effects of Observation‐Operator Nonlinearity on the Assimilation of Visible and Infrared Radiances in Ensemble Data Assimilation.  
-    *Quarterly Journal of the Royal Meteorological Society*, **151**, e4970, [doi:10.1002/qj.4970](https://doi.org/doi:10.1002/qj.4970)
+![](/images/pin4.gif) **Huo Z., Y. Liu, J. Taylor, Y. Zhou, A. Amemiya, H. Fan & T. Miyoshi**, 2025  
+    Incremental Analysis Updates in a Convective‐Scale Ensemble Kalman Filter Using Minute‐by‐Minute Phased Array Radar Observations.  
+    *Journal of Advances in Modeling Earth Systems*, **17**, e2024MS004802, [doi:10.1029/2024MS004802](https://doi.org/doi:10.1029/2024MS004802)
+
+![](/images/pin4.gif) **Shen Z., Y. Yao & Y. Zhang**, 2025  
+    Ocean State Estimation in CESM via a Localized Particle Filter: Joint Assimilation of Satellite SST and In Situ TS Profiles.  
+    *Atmosphere*, **16**, 1081, [doi:10.3390/atmos16091081](https://doi.org/doi:10.3390/atmos16091081)
+
+![](/images/pin4.gif) **Carrió D.S., V. Mazzarella & R. Ferretti**, 2025  
+    High-resolution data assimilation for two maritime extreme weather events: a comparison between 3D-Var and EnKF.  
+    *Natural Hazards and Earth System Sciences*, **25**, 2999-3026, [doi:10.5194/nhess-25-2999-2025](https://doi.org/doi:10.5194/nhess-25-2999-2025)
+
+![](/images/pin4.gif) **Pan K., A. Tangborn, J.L. Anderson, J.A. Santanello, B.J. Carroll, B. Demoz & A.F. Arellano**, 2025  
+    Assimilation of Doppler Lidar-Derived Planetary Boundary Layer Height Measurements using an Ensemble Kalman Filter: Case Studies During the PECAN Field Campaign.  
+    *Journal of Applied Meteorology and Climatology*,  [doi:10.1175/JAMC-D-25-0029.1](https://doi.org/doi:10.1175/JAMC-D-25-0029.1)
+
+![](/images/pin4.gif) **Chapman W.E., F. Schevenhoven, J. Berner, N. Keenlyside, I. Bethke, P. Chiu, A. Gupta & J. Nusbaumer**, 2025  
+    Implementation and validation of a supermodeling framework into Community Earth System Model version 2.1.5.  
+    *Geoscientific Model Development*, **18**, 5451-5465, [doi:10.5194/gmd-18-5451-2025](https://doi.org/doi:10.5194/gmd-18-5451-2025)
+
+![](/images/pin4.gif) **Shohan S., S.E. Koch, C.L. Castro, A.F. Arellano, J. Kay, C.B. Risanto, T.M. Weckwerth, J.O. Pinto & D.K. Adams**, 2025  
+    Impact of Assimilating GPS Precipitable Water Vapor on Simulations of Two North American Monsoon Convective Events Using Observing System Simulation Experiments.  
+    *Journal of Geophysical Research: Atmospheres*, **130**, e2025JD044491, [doi:10.1029/2025JD044491](https://doi.org/doi:10.1029/2025JD044491)
 
 ---
 ## 2024
