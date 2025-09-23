@@ -271,6 +271,15 @@ The `themes` directory contains the layout and style .scss files that control th
 `themes/dart/assets/scss/`
 
 
+## Publications
+
+`publications.py` is a script to create the `content/publications.md` file from a json file. 
+The json file `dart-publications.json` has the publication information. 
+The json file is updated and managed with [Zotero](https://www.zotero.org/).  
+
+I have a google scholar alert for [DART](https://scholar.google.com/scholar?cites=2520828493949875599&as_sdt=40000005&sciodt=40000005&hl=en&scisbd=1). I add the publications to Zotero by DOI. 
+
+
 ## Publishing the website at dart.ucar.edu
 
 
