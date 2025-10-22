@@ -17,7 +17,7 @@ ensemble data assimilation.
 In a workshop setting, these materials and exercises take about 1.5 days to complete.
 
 DART\_LAB consists of PDF tutorial materials and MATLAB® exercises.
-See below for links to the PDF files and a list of the 
+See below for links to the PDF slides and a list of the 
 corresponding MATLAB scripts.
 
 #### DART\_LAB tutorial slides
